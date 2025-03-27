@@ -186,15 +186,111 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2025-03-27 19:59:26 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_club": {
+    "criteria": {
+      "has_wood_log": "2025-03-27 19:59:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-03-27 19:59:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2025-03-27 19:59:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2025-03-27 19:59:39 +0000"
     },
     "done": true
   },
-  "smallships:recipes/transportation/bamboo_galley": {
+  "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
-      "in_water": "2025-03-27 20:00:36 +0000"
+      "has_stick": "2025-03-27 19:59:39 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/combat/pole_from_leather": {
+    "criteria": {
+      "has_stick": "2025-03-27 19:59:39 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/combat/handle_from_leather": {
+    "criteria": {
+      "has_stick": "2025-03-27 19:59:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_stick": "2025-03-27 19:59:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2025-03-27 19:59:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_shovel": {
+    "criteria": {
+      "has_stick": "2025-03-27 19:59:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2025-03-27 19:59:39 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/building_blocks/edelwood_ladder": {
+    "criteria": {
+      "has_rods/wooden": "2025-03-27 19:59:39 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/combat/pole_from_wool": {
+    "criteria": {
+      "has_stick": "2025-03-27 19:59:39 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/combat/handle_from_wool": {
+    "criteria": {
+      "has_stick": "2025-03-27 19:59:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_pickaxe": {
+    "criteria": {
+      "has_stick": "2025-03-27 19:59:39 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/combat/pole_from_string": {
+    "criteria": {
+      "has_stick": "2025-03-27 19:59:39 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/combat/simple_handle": {
+    "criteria": {
+      "has_stick": "2025-03-27 19:59:39 +0000"
     },
     "done": true
   },
@@ -210,27 +306,9 @@
     },
     "done": true
   },
-  "smallships:recipes/transportation/spruce_cog": {
-    "criteria": {
-      "in_water": "2025-03-27 20:00:36 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/transportation/acacia_cog": {
-    "criteria": {
-      "in_water": "2025-03-27 20:00:36 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/birch_button": {
     "criteria": {
       "has_planks": "2025-03-27 19:59:43 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/transportation/willow_boat": {
-    "criteria": {
-      "in_water": "2025-03-27 20:00:36 +0000"
     },
     "done": true
   },
@@ -276,21 +354,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/wooden_axe": {
-    "criteria": {
-      "has_stick": "2025-03-27 19:59:39 +0000"
-    },
-    "done": true
-  },
   "valhelsia_furniture:recipes/decorations/lime_birch_chair": {
     "criteria": {
       "has_birch_planks": "2025-03-27 19:59:43 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/transportation/jungle_cog": {
-    "criteria": {
-      "in_water": "2025-03-27 20:00:36 +0000"
     },
     "done": true
   },
@@ -312,33 +378,9 @@
     },
     "done": true
   },
-  "smallships:recipes/transportation/dark_oak_brigg": {
-    "criteria": {
-      "in_water": "2025-03-27 20:00:36 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/crafting_upgrade": {
-    "criteria": {
-      "has_crafting_table": "2025-03-27 19:59:50 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2025-03-27 19:59:43 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/combat/pole_from_leather": {
-    "criteria": {
-      "has_stick": "2025-03-27 19:59:39 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/transportation/birch_galley": {
-    "criteria": {
-      "in_water": "2025-03-27 20:00:36 +0000"
     },
     "done": true
   },
@@ -348,33 +390,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/cherry_boat": {
-    "criteria": {
-      "in_water": "2025-03-27 20:00:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/birch_wood": {
-    "criteria": {
-      "has_log": "2025-03-27 19:59:26 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/transportation/umbran_boat": {
-    "criteria": {
-      "in_water": "2025-03-27 20:00:36 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/birch_fence_gate": {
     "criteria": {
       "has_planks": "2025-03-27 19:59:43 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/transportation/oak_drakkar": {
-    "criteria": {
-      "in_water": "2025-03-27 20:00:36 +0000"
     },
     "done": true
   },
@@ -384,27 +402,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/bamboo_raft": {
-    "criteria": {
-      "in_water": "2025-03-27 20:00:36 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/transportation/mangrove_brigg": {
-    "criteria": {
-      "in_water": "2025-03-27 20:00:36 +0000"
-    },
-    "done": true
-  },
   "spartanweaponry:recipes/wooden_saber": {
     "criteria": {
       "has_wood": "2025-03-27 19:59:43 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/transportation/dead_boat": {
-    "criteria": {
-      "in_water": "2025-03-27 20:00:36 +0000"
     },
     "done": true
   },
@@ -417,18 +417,6 @@
   "minecraft:recipes/building_blocks/birch_slab": {
     "criteria": {
       "has_planks": "2025-03-27 19:59:43 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/transportation/magic_boat": {
-    "criteria": {
-      "in_water": "2025-03-27 20:00:36 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/transportation/jungle_brigg": {
-    "criteria": {
-      "in_water": "2025-03-27 20:00:36 +0000"
     },
     "done": true
   },
@@ -447,24 +435,6 @@
   "minecraft:recipes/building_blocks/birch_stairs": {
     "criteria": {
       "has_planks": "2025-03-27 19:59:43 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/transportation/spruce_galley": {
-    "criteria": {
-      "in_water": "2025-03-27 20:00:36 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/wooden_club": {
-    "criteria": {
-      "has_wood_log": "2025-03-27 19:59:26 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/transportation/birch_cog": {
-    "criteria": {
-      "in_water": "2025-03-27 20:00:36 +0000"
     },
     "done": true
   },
@@ -492,27 +462,9 @@
     },
     "done": true
   },
-  "smallships:recipes/transportation/mangrove_drakkar": {
-    "criteria": {
-      "in_water": "2025-03-27 20:00:36 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/combat/handle_from_leather": {
-    "criteria": {
-      "has_stick": "2025-03-27 19:59:39 +0000"
-    },
-    "done": true
-  },
   "spartanweaponry:recipes/wooden_warhammer": {
     "criteria": {
       "has_wood": "2025-03-27 19:59:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/birch_planks": {
-    "criteria": {
-      "has_logs": "2025-03-27 19:59:26 +0000"
     },
     "done": true
   },
@@ -522,33 +474,9 @@
     },
     "done": true
   },
-  "smallships:recipes/misc/sail": {
-    "criteria": {
-      "in_water": "2025-03-27 20:00:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/campfire": {
-    "criteria": {
-      "has_stick": "2025-03-27 19:59:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/wooden_hoe": {
-    "criteria": {
-      "has_stick": "2025-03-27 19:59:39 +0000"
-    },
-    "done": true
-  },
   "spartanweaponry:recipes/wooden_greatsword": {
     "criteria": {
       "has_wood": "2025-03-27 19:59:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/charcoal": {
-    "criteria": {
-      "has_log": "2025-03-27 19:59:26 +0000"
     },
     "done": true
   },
@@ -594,39 +522,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/wooden_shovel": {
-    "criteria": {
-      "has_stick": "2025-03-27 19:59:39 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/transportation/acacia_galley": {
-    "criteria": {
-      "in_water": "2025-03-27 20:00:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/acacia_boat": {
-    "criteria": {
-      "in_water": "2025-03-27 20:00:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/root": {
-    "criteria": {
-      "killed_by_something": "2025-03-27 20:00:00 +0000"
-    },
-    "done": true
-  },
   "spartanweaponry:recipes/wooden_flanged_mace": {
     "criteria": {
       "has_wood": "2025-03-27 19:59:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/wooden_sword": {
-    "criteria": {
-      "has_stick": "2025-03-27 19:59:39 +0000"
     },
     "done": true
   },
@@ -642,24 +540,6 @@
     },
     "done": true
   },
-  "smallships:recipes/transportation/jungle_galley": {
-    "criteria": {
-      "in_water": "2025-03-27 20:00:36 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/transportation/dark_oak_galley": {
-    "criteria": {
-      "in_water": "2025-03-27 20:00:36 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/transportation/bamboo_brigg": {
-    "criteria": {
-      "in_water": "2025-03-27 20:00:36 +0000"
-    },
-    "done": true
-  },
   "valhelsia_furniture:recipes/decorations/green_upholstered_birch_chair": {
     "criteria": {
       "has_birch_planks": "2025-03-27 19:59:43 +0000"
@@ -672,39 +552,15 @@
     },
     "done": true
   },
-  "smallships:recipes/transportation/spruce_drakkar": {
-    "criteria": {
-      "in_water": "2025-03-27 20:00:36 +0000"
-    },
-    "done": true
-  },
   "valhelsia_furniture:recipes/decorations/birch_chair": {
     "criteria": {
       "has_birch_planks": "2025-03-27 19:59:43 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/jungle_boat": {
-    "criteria": {
-      "in_water": "2025-03-27 20:00:36 +0000"
-    },
-    "done": true
-  },
   "spartanweaponry:recipes/wooden_longbow": {
     "criteria": {
       "has_wood": "2025-03-27 19:59:43 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/transportation/oak_brigg": {
-    "criteria": {
-      "in_water": "2025-03-27 20:00:36 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/transportation/bamboo_cog": {
-    "criteria": {
-      "in_water": "2025-03-27 20:00:36 +0000"
     },
     "done": true
   },
@@ -762,39 +618,15 @@
     },
     "done": true
   },
-  "forbidden_arcanus:recipes/building_blocks/edelwood_ladder": {
-    "criteria": {
-      "has_rods/wooden": "2025-03-27 19:59:39 +0000"
-    },
-    "done": true
-  },
   "spartanweaponry:recipes/wooden_pike": {
     "criteria": {
       "has_wood": "2025-03-27 19:59:43 +0000"
     },
     "done": true
   },
-  "biomesoplenty:recipes/transportation/fir_boat": {
-    "criteria": {
-      "in_water": "2025-03-27 20:00:36 +0000"
-    },
-    "done": true
-  },
   "valhelsia_furniture:recipes/decorations/blue_birch_chair": {
     "criteria": {
       "has_birch_planks": "2025-03-27 19:59:43 +0000"
-    },
-    "done": true
-  },
-  "smallships:recipes/transportation/oak_cog": {
-    "criteria": {
-      "in_water": "2025-03-27 20:00:36 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/combat/pole_from_wool": {
-    "criteria": {
-      "has_stick": "2025-03-27 19:59:39 +0000"
     },
     "done": true
   },
@@ -822,12 +654,6 @@
     },
     "done": true
   },
-  "smallships:recipes/transportation/oak_galley": {
-    "criteria": {
-      "in_water": "2025-03-27 20:00:36 +0000"
-    },
-    "done": true
-  },
   "valhelsia_furniture:recipes/decorations/birch_table": {
     "criteria": {
       "has_birch_planks": "2025-03-27 19:59:43 +0000"
@@ -837,6 +663,294 @@
   "valhelsia_furniture:recipes/decorations/birch_desk": {
     "criteria": {
       "has_birch_planks": "2025-03-27 19:59:43 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/black_birch_chair": {
+    "criteria": {
+      "has_birch_planks": "2025-03-27 19:59:43 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_katana": {
+    "criteria": {
+      "has_wood": "2025-03-27 19:59:43 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/orange_birch_chair": {
+    "criteria": {
+      "has_birch_planks": "2025-03-27 19:59:43 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_battleaxe": {
+    "criteria": {
+      "has_wood": "2025-03-27 19:59:43 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_battle_hammer": {
+    "criteria": {
+      "has_wood": "2025-03-27 19:59:43 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/tools/wooden_blacksmith_gavel": {
+    "criteria": {
+      "has_planks": "2025-03-27 19:59:43 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/green_birch_chair": {
+    "criteria": {
+      "has_birch_planks": "2025-03-27 19:59:43 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_dagger": {
+    "criteria": {
+      "has_wood": "2025-03-27 19:59:43 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/white_upholstered_birch_chair": {
+    "criteria": {
+      "has_birch_planks": "2025-03-27 19:59:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-03-27 19:59:43 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_heavy_crossbow": {
+    "criteria": {
+      "has_wood": "2025-03-27 19:59:43 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/cyan_upholstered_birch_chair": {
+    "criteria": {
+      "has_birch_planks": "2025-03-27 19:59:43 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_tomahawk": {
+    "criteria": {
+      "has_wood": "2025-03-27 19:59:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-03-27 19:59:43 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/crafting_upgrade": {
+    "criteria": {
+      "has_crafting_table": "2025-03-27 19:59:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-03-27 19:59:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2025-03-27 20:00:00 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/bamboo_galley": {
+    "criteria": {
+      "in_water": "2025-03-27 20:00:36 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/spruce_cog": {
+    "criteria": {
+      "in_water": "2025-03-27 20:00:36 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/acacia_cog": {
+    "criteria": {
+      "in_water": "2025-03-27 20:00:36 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/willow_boat": {
+    "criteria": {
+      "in_water": "2025-03-27 20:00:36 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/jungle_cog": {
+    "criteria": {
+      "in_water": "2025-03-27 20:00:36 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/dark_oak_brigg": {
+    "criteria": {
+      "in_water": "2025-03-27 20:00:36 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/birch_galley": {
+    "criteria": {
+      "in_water": "2025-03-27 20:00:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2025-03-27 20:00:36 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/umbran_boat": {
+    "criteria": {
+      "in_water": "2025-03-27 20:00:36 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/oak_drakkar": {
+    "criteria": {
+      "in_water": "2025-03-27 20:00:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_raft": {
+    "criteria": {
+      "in_water": "2025-03-27 20:00:36 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/mangrove_brigg": {
+    "criteria": {
+      "in_water": "2025-03-27 20:00:36 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/dead_boat": {
+    "criteria": {
+      "in_water": "2025-03-27 20:00:36 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/magic_boat": {
+    "criteria": {
+      "in_water": "2025-03-27 20:00:36 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/jungle_brigg": {
+    "criteria": {
+      "in_water": "2025-03-27 20:00:36 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/spruce_galley": {
+    "criteria": {
+      "in_water": "2025-03-27 20:00:36 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/birch_cog": {
+    "criteria": {
+      "in_water": "2025-03-27 20:00:36 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/mangrove_drakkar": {
+    "criteria": {
+      "in_water": "2025-03-27 20:00:36 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/misc/sail": {
+    "criteria": {
+      "in_water": "2025-03-27 20:00:36 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/acacia_galley": {
+    "criteria": {
+      "in_water": "2025-03-27 20:00:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2025-03-27 20:00:36 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/jungle_galley": {
+    "criteria": {
+      "in_water": "2025-03-27 20:00:36 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/dark_oak_galley": {
+    "criteria": {
+      "in_water": "2025-03-27 20:00:36 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/bamboo_brigg": {
+    "criteria": {
+      "in_water": "2025-03-27 20:00:36 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/spruce_drakkar": {
+    "criteria": {
+      "in_water": "2025-03-27 20:00:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2025-03-27 20:00:36 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/oak_brigg": {
+    "criteria": {
+      "in_water": "2025-03-27 20:00:36 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/bamboo_cog": {
+    "criteria": {
+      "in_water": "2025-03-27 20:00:36 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/fir_boat": {
+    "criteria": {
+      "in_water": "2025-03-27 20:00:36 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/oak_cog": {
+    "criteria": {
+      "in_water": "2025-03-27 20:00:36 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/oak_galley": {
+    "criteria": {
+      "in_water": "2025-03-27 20:00:36 +0000"
     },
     "done": true
   },
@@ -858,18 +972,6 @@
     },
     "done": true
   },
-  "valhelsia_furniture:recipes/decorations/black_birch_chair": {
-    "criteria": {
-      "has_birch_planks": "2025-03-27 19:59:43 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/wooden_katana": {
-    "criteria": {
-      "has_wood": "2025-03-27 19:59:43 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2025-03-27 20:00:36 +0000"
@@ -879,18 +981,6 @@
   "biomesoplenty:recipes/transportation/redwood_boat": {
     "criteria": {
       "in_water": "2025-03-27 20:00:36 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/orange_birch_chair": {
-    "criteria": {
-      "has_birch_planks": "2025-03-27 19:59:43 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/wooden_battleaxe": {
-    "criteria": {
-      "has_wood": "2025-03-27 19:59:43 +0000"
     },
     "done": true
   },
@@ -912,33 +1002,9 @@
     },
     "done": true
   },
-  "spartanweaponry:recipes/wooden_battle_hammer": {
-    "criteria": {
-      "has_wood": "2025-03-27 19:59:43 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/mangrove_boat": {
     "criteria": {
       "in_water": "2025-03-27 20:00:36 +0000"
-    },
-    "done": true
-  },
-  "forbidden_arcanus:recipes/tools/wooden_blacksmith_gavel": {
-    "criteria": {
-      "has_planks": "2025-03-27 19:59:43 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/green_birch_chair": {
-    "criteria": {
-      "has_birch_planks": "2025-03-27 19:59:43 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/combat/handle_from_wool": {
-    "criteria": {
-      "has_stick": "2025-03-27 19:59:39 +0000"
     },
     "done": true
   },
@@ -972,21 +1038,9 @@
     },
     "done": true
   },
-  "spartanweaponry:recipes/wooden_dagger": {
-    "criteria": {
-      "has_wood": "2025-03-27 19:59:43 +0000"
-    },
-    "done": true
-  },
   "smallships:recipes/transportation/birch_brigg": {
     "criteria": {
       "in_water": "2025-03-27 20:00:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/wooden_pickaxe": {
-    "criteria": {
-      "has_stick": "2025-03-27 19:59:39 +0000"
     },
     "done": true
   },
@@ -1002,27 +1056,9 @@
     },
     "done": true
   },
-  "valhelsia_furniture:recipes/decorations/white_upholstered_birch_chair": {
-    "criteria": {
-      "has_birch_planks": "2025-03-27 19:59:43 +0000"
-    },
-    "done": true
-  },
   "smallships:recipes/transportation/cherry_galley": {
     "criteria": {
       "in_water": "2025-03-27 20:00:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/birch_trapdoor": {
-    "criteria": {
-      "has_planks": "2025-03-27 19:59:43 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/wooden_heavy_crossbow": {
-    "criteria": {
-      "has_wood": "2025-03-27 19:59:43 +0000"
     },
     "done": true
   },
@@ -1038,45 +1074,9 @@
     },
     "done": true
   },
-  "spartanweaponry:recipes/combat/pole_from_string": {
-    "criteria": {
-      "has_stick": "2025-03-27 19:59:39 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/cyan_upholstered_birch_chair": {
-    "criteria": {
-      "has_birch_planks": "2025-03-27 19:59:43 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/wooden_tomahawk": {
-    "criteria": {
-      "has_wood": "2025-03-27 19:59:43 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/combat/simple_handle": {
-    "criteria": {
-      "has_stick": "2025-03-27 19:59:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/birch_pressure_plate": {
-    "criteria": {
-      "has_planks": "2025-03-27 19:59:43 +0000"
-    },
-    "done": true
-  },
   "smallships:recipes/transportation/mangrove_cog": {
     "criteria": {
       "in_water": "2025-03-27 20:00:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/root": {
-    "criteria": {
-      "crafting_table": "2025-03-27 19:59:50 +0000"
     },
     "done": true
   },
