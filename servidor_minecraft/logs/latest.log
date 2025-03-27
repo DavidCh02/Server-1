@@ -3344,3 +3344,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'iter_rpg:smooth_ice'
 [27Mar2025 19:03:24.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidCh01 left the game
 [27Mar2025 19:23:20.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [27Mar2025 19:23:21.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ip<--[HERE]
+[27Mar2025 19:57:37.134] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DavidCh01[/127.98.72.223:41191] logged in with entity id 2031 at (266.69999998807907, 64.0, -62.69999998807907)
+[27Mar2025 19:57:37.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidCh01 joined the game
+[27Mar2025 20:00:00.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidCh01 was slain by Spriggan
+[27Mar2025 20:02:44.193] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DavidCh01 lost connection: Disconnected
+[27Mar2025 20:02:44.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidCh01 left the game
