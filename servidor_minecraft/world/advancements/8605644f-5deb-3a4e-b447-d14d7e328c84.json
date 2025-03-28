@@ -329,6 +329,12 @@
     },
     "done": true
   },
+  "morevillagers:first_village": {
+    "criteria": {
+      "plains": "2025-03-28 06:13:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "unlock_right_away": "2025-03-28 05:41:01 +0000"
@@ -620,6 +626,12 @@
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2025-03-28 05:59:47 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:recipes/gardening_table": {
+    "criteria": {
+      "has_flower": "2025-03-28 06:09:50 +0000"
     },
     "done": true
   },
@@ -1061,6 +1073,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2025-03-28 06:09:50 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/lime_oak_chair": {
     "criteria": {
       "has_oak_planks": "2025-03-28 05:43:08 +0000"
@@ -1178,6 +1196,12 @@
   "valhelsia_furniture:recipes/decorations/purple_upholstered_birch_chair": {
     "criteria": {
       "has_birch_planks": "2025-03-28 06:01:09 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:main/banshee": {
+    "criteria": {
+      "kill": "2025-03-28 06:07:23 +0000"
     },
     "done": true
   },
@@ -1570,6 +1594,12 @@
       "has_oak_planks": "2025-03-28 05:43:08 +0000"
     },
     "done": true
+  },
+  "morevillagers:all_villages": {
+    "criteria": {
+      "plains": "2025-03-28 06:13:49 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {

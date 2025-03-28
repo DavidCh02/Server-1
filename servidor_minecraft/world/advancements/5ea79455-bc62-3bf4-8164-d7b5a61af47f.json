@@ -2573,6 +2573,12 @@
     },
     "done": true
   },
+  "morevillagers:recipes/hunting_post": {
+    "criteria": {
+      "has_arrow": "2025-03-28 06:12:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
       "has_gold_ingot": "2025-03-28 05:59:31 +0000"
@@ -2681,6 +2687,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/chicken": {
+    "criteria": {
+      "has_feather": "2025-03-28 06:07:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2025-03-28 05:59:31 +0000"
@@ -2729,6 +2741,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/skeleton": {
+    "criteria": {
+      "has_arrow": "2025-03-28 06:12:41 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/golden_scythe": {
     "criteria": {
       "has_gold_ingot": "2025-03-28 05:59:31 +0000"
@@ -2750,6 +2768,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-03-28 05:50:02 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/bolt": {
+    "criteria": {
+      "has_feather": "2025-03-28 06:07:10 +0000"
     },
     "done": true
   },
@@ -2795,6 +2819,18 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/copper_arrow": {
+    "criteria": {
+      "has_feather": "2025-03-28 06:07:10 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_bolt": {
+    "criteria": {
+      "has_feather": "2025-03-28 06:07:10 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/golden_longbow": {
     "criteria": {
       "has_gold_ingot": "2025-03-28 05:59:31 +0000"
@@ -2822,6 +2858,12 @@
   "grimoireofgaia:main/dullahan": {
     "criteria": {
       "kill": "2025-03-28 05:41:18 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:main/banshee": {
+    "criteria": {
+      "kill": "2025-03-28 06:10:10 +0000"
     },
     "done": true
   },
@@ -2903,6 +2945,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/diamond_bolt": {
+    "criteria": {
+      "has_feather": "2025-03-28 06:07:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-03-28 05:50:02 +0000"
@@ -2969,6 +3017,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/small_arrow_quiver": {
+    "criteria": {
+      "has_arrow": "2025-03-28 06:12:41 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/golden_javelin": {
     "criteria": {
       "has_gold_ingot": "2025-03-28 05:59:31 +0000"
@@ -3023,9 +3077,21 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/iron_arrow": {
+    "criteria": {
+      "has_feather": "2025-03-28 06:07:10 +0000"
+    },
+    "done": true
+  },
   "forbidden_arcanus:recipes/misc/deorum_ingot": {
     "criteria": {
       "has_gold_ingot": "2025-03-28 05:59:31 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_arrow": {
+    "criteria": {
+      "has_feather": "2025-03-28 06:07:10 +0000"
     },
     "done": true
   },
@@ -3068,6 +3134,12 @@
   "valhelsia_furniture:recipes/decorations/hay_crimson_chair": {
     "criteria": {
       "has_hay_block": "2025-03-28 06:02:59 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/diamond_arrow": {
+    "criteria": {
+      "has_feather": "2025-03-28 06:07:10 +0000"
     },
     "done": true
   },
@@ -3116,6 +3188,12 @@
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2025-03-28 05:59:31 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:main/harpy": {
+    "criteria": {
+      "kill": "2025-03-28 06:07:09 +0000"
     },
     "done": true
   },

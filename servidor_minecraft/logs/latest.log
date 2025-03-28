@@ -1907,3 +1907,20 @@ com.google.gson.JsonSyntaxException: Unknown item 'iter_rpg:smooth_ice'
 [28Mar2025 06:01:29.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joshy_17 has made the advancement [A Seedy Place]
 [28Mar2025 06:02:08.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joshy_17 has made the advancement [Disme A Dozen]
 [28Mar2025 06:03:19.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joshy_17 has made the advancement [Suit Up]
+[28Mar2025 06:08:30.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joshy_17 was slain by Banshee
+[28Mar2025 06:08:38.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joshy_17: Teleported Joshy_17 to DavidCh01]
+[28Mar2025 06:09:07.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joshy_17 was burnt to a crisp whilst fighting Banshee
+[28Mar2025 06:10:30.863] [Worker-Main-14/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/short_oak_pathway
+[28Mar2025 06:10:30.865] [Worker-Main-14/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/short_oak_pathway
+[28Mar2025 06:10:50.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidCh01 was slain by Dullahan
+[28Mar2025 06:11:20.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joshy_17 was shot by Skeleton
+[28Mar2025 06:11:37.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DavidCh01> son 200
+[28Mar2025 06:11:42.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joshy_17 was doomed to fall by Skeleton
+[28Mar2025 06:11:52.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Joshy_17> jjajaj
+[28Mar2025 06:11:57.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Joshy_17> corre hpt
+[28Mar2025 06:12:56.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joshy_17 was slain by Dullahan
+[28Mar2025 06:13:34.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Joshy_17> aldea
+[28Mar2025 06:13:49.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joshy_17 has made the advancement [First Village]
+[28Mar2025 06:14:20.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DavidCh01: Teleported DavidCh01 to Joshy_17]
+[28Mar2025 06:14:21.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidCh01 has made the advancement [First Village]
+[28Mar2025 06:14:41.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DavidCh01> buscara arena
