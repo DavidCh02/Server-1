@@ -1833,3 +1833,9 @@ com.google.gson.JsonSyntaxException: Unknown item 'iter_rpg:smooth_ice'
 [28Mar2025 04:24:07.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidCh01 has made the advancement [Stone Age]
 [28Mar2025 04:24:28.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidCh01 has made the advancement [Getting an Upgrade]
 [28Mar2025 04:25:35.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidCh01 has made the advancement [Mining]
+[28Mar2025 04:27:24.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidCh01 has made the advancement [Mining 2]
+[28Mar2025 04:29:24.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidCh01 has made the advancement [Mining 3]
+[28Mar2025 04:30:27.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidCh01 has made the advancement [Foraging]
+[28Mar2025 04:33:41.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidCh01 has made the advancement [Foraging 2]
+[28Mar2025 04:36:04.792] [Worker-Main-13/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/short_oak_pathway
+[28Mar2025 04:36:04.793] [Worker-Main-13/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/short_oak_pathway
