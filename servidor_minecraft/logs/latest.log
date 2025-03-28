@@ -1924,3 +1924,277 @@ com.google.gson.JsonSyntaxException: Unknown item 'iter_rpg:smooth_ice'
 [28Mar2025 06:14:20.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DavidCh01: Teleported DavidCh01 to Joshy_17]
 [28Mar2025 06:14:21.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidCh01 has made the advancement [First Village]
 [28Mar2025 06:14:41.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DavidCh01> buscara arena
+[28Mar2025 06:18:47.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joshy_17 has made the advancement [Foraging]
+[28Mar2025 06:18:55.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joshy_17 has made the advancement [Foraging 2]
+[28Mar2025 06:19:30.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Joshy_17> donde hacemos la casa?
+[28Mar2025 06:19:40.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DavidCh01> en un mundo yano
+[28Mar2025 06:19:52.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DavidCh01> lado plaono
+[28Mar2025 06:20:05.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Joshy_17> voy a buscar uno?
+[28Mar2025 06:20:20.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DavidCh01> busquemos
+[28Mar2025 06:20:38.545] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=1164, y=73, z=-1246}
+[28Mar2025 06:21:15.839] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=1230, y=64, z=-1269}
+[28Mar2025 06:21:16.844] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=1231, y=70, z=-1206}
+[28Mar2025 06:21:41.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joshy_17 has made the advancement [...And My Axe!]
+[28Mar2025 06:21:47.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidCh01 has made the advancement [...And My Axe!]
+[28Mar2025 06:21:49.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidCh01 has made the advancement [Pike Off!]
+[28Mar2025 06:23:06.727] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=1249, y=73, z=-1246}
+[28Mar2025 06:23:51.220] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=1230, y=70, z=-1193}
+[28Mar2025 06:24:17.873] [Server thread/ERROR] [net.minecraftforge.eventbus.EventBus/EVENTBUS]: Exception caught during firing event: Cannot invoke "net.minecraft.advancements.Advancement.m_138325_()" because "p_135986_" is null
+	Index: 3
+	Listeners:
+		0: HIGH
+		1: ASM: class com.cerbon.bosses_of_mass_destruction.event.ForgeEvents onLivingDeath(Lnet/minecraftforge/event/entity/living/LivingDeathEvent;)V
+		2: NORMAL
+		3: ASM: class net.feusalamander.betterskills.procedures.CombatXpProcedure onEntityDeath(Lnet/minecraftforge/event/entity/living/LivingDeathEvent;)V
+		4: ASM: class io.github.colochampre.riskofrain_mobs.events.ModCommonEvents$ForgeEvents playerDeathSound(Lnet/minecraftforge/event/entity/living/LivingDeathEvent;)V
+		5: ASM: class net.mcreator.netheroverhaul.procedures.ShroomlingdropshroomhatProcedure onEntityDeath(Lnet/minecraftforge/event/entity/living/LivingDeathEvent;)V
+		6: ASM: class yesman.epicfight.events.EntityEvents deathEvent(Lnet/minecraftforge/event/entity/living/LivingDeathEvent;)V
+		7: ASM: class com.tiviacz.travelersbackpack.handlers.ForgeEventHandler playerDeath(Lnet/minecraftforge/event/entity/living/LivingDeathEvent;)V
+		8: ASM: class com.duke.orcz.procedures.PodeathProcedure onEntityDeath(Lnet/minecraftforge/event/entity/living/LivingDeathEvent;)V
+		9: ASM: class com.duke.orcz.procedures.MoralegoblinsProcedure onEntityDeath(Lnet/minecraftforge/event/entity/living/LivingDeathEvent;)V
+		10: ASM: class com.duke.orcz.procedures.EnragemoraleProcedure onEntityDeath(Lnet/minecraftforge/event/entity/living/LivingDeathEvent;)V
+		11: ASM: class com.teamdurt.netherdungeons.event.NDEventsHandler applyVampirismEffect(Lnet/minecraftforge/event/entity/living/LivingDeathEvent;)V
+		12: ASM: class net.thirdlife.iterrpg.procedures.SpellDropProcedure onEntityDeath(Lnet/minecraftforge/event/entity/living/LivingDeathEvent;)V
+		13: ASM: class net.thirdlife.iterrpg.procedures.MobDeathDropProcedure onEntityDeath(Lnet/minecraftforge/event/entity/living/LivingDeathEvent;)V
+		14: ASM: class net.thirdlife.iterrpg.procedures.InsatiableSummonProcedure onEntityDeath(Lnet/minecraftforge/event/entity/living/LivingDeathEvent;)V
+		15: ASM: class net.thirdlife.iterrpg.procedures.GeodeDropProcedure onEntityDeath(Lnet/minecraftforge/event/entity/living/LivingDeathEvent;)V
+		16: ASM: class net.thirdlife.iterrpg.procedures.FragmentDropProcedure onEntityDeath(Lnet/minecraftforge/event/entity/living/LivingDeathEvent;)V
+		17: ASM: class net.thirdlife.iterrpg.procedures.ExorcistGiveProcedure onEntityDeath(Lnet/minecraftforge/event/entity/living/LivingDeathEvent;)V
+		18: ASM: class net.thirdlife.iterrpg.procedures.ElementalFragmentDropProcedure onEntityDeath(Lnet/minecraftforge/event/entity/living/LivingDeathEvent;)V
+		19: ASM: class net.thirdlife.iterrpg.procedures.CoinDropProcedure onEntityDeath(Lnet/minecraftforge/event/entity/living/LivingDeathEvent;)V
+		20: ASM: class net.thirdlife.iterrpg.procedures.BloodthirstKillProcedure onEntityDeath(Lnet/minecraftforge/event/entity/living/LivingDeathEvent;)V
+		21: ASM: com.stal111.forbidden_arcanus.common.event.DeathEvents@39d418cc onLivingDeath(Lnet/minecraftforge/event/entity/living/LivingDeathEvent;)V
+		22: ASM: class com.brutalbosses.event.EventHandler onBossDeath(Lnet/minecraftforge/event/entity/living/LivingDeathEvent;)V
+		23: ASM: class net.mcreator.seadwellers.procedures.MermorphRageFromKillProcedure onEntityDeath(Lnet/minecraftforge/event/entity/living/LivingDeathEvent;)V
+		24: ASM: class net.mcreator.seadwellers.procedures.AquamarineMobDropsProcedure onEntityDeath(Lnet/minecraftforge/event/entity/living/LivingDeathEvent;)V
+		25: ASM: com.github.alexthe666.iceandfire.event.ServerEvents@6a9a80e4 onEntityDie(Lnet/minecraftforge/event/entity/living/LivingDeathEvent;)V
+		26: LOWEST
+		27: ASM: de.maxhenkel.gravestone.corelib.death.DeathEvents@35bdf8e3 playerDeath(Lnet/minecraftforge/event/entity/living/LivingDeathEvent;)V
+java.lang.NullPointerException: Cannot invoke "net.minecraft.advancements.Advancement.m_138325_()" because "p_135986_" is null
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.PlayerAdvancements.m_135985_(PlayerAdvancements.java:307)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.PlayerAdvancements.m_135996_(PlayerAdvancements.java:300)
+	at TRANSFORMER/betterskills@1.8.1/net.feusalamander.betterskills.procedures.CombatXpProcedure.execute(CombatXpProcedure.java:582)
+	at TRANSFORMER/betterskills@1.8.1/net.feusalamander.betterskills.procedures.CombatXpProcedure.onEntityDeath(CombatXpProcedure.java:43)
+	at TRANSFORMER/betterskills@1.8.1/net.feusalamander.betterskills.procedures.__CombatXpProcedure_onEntityDeath_LivingDeathEvent.invoke(.dynamic)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:315)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:296)
+	at TRANSFORMER/forge@47.3.7/net.minecraftforge.common.ForgeHooks.onLivingDeath(ForgeHooks.java:303)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.LivingEntity.m_6667_(LivingEntity.java:1304)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.LivingEntity.m_6469_(LivingEntity.java:1182)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_5706_(Player.java:1139)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerPlayer.m_5706_(ServerPlayer.java:1400)
+	at TRANSFORMER/epicfight@20.7.4/yesman.epicfight.world.capabilities.entitypatch.player.PlayerPatch.attack(PlayerPatch.java:311)
+	at TRANSFORMER/epicfight@20.7.4/yesman.epicfight.api.animation.types.AttackAnimation.hurtCollidingEntities(AttackAnimation.java:233)
+	at TRANSFORMER/epicfight@20.7.4/yesman.epicfight.api.animation.types.AttackAnimation.attackTick(AttackAnimation.java:207)
+	at TRANSFORMER/epicfight@20.7.4/yesman.epicfight.api.animation.types.AttackAnimation.tick(AttackAnimation.java:160)
+	at TRANSFORMER/epicfight@20.7.4/yesman.epicfight.api.animation.ServerAnimator.tick(ServerAnimator.java:76)
+	at TRANSFORMER/epicfight@20.7.4/yesman.epicfight.world.capabilities.entitypatch.LivingEntityPatch.tick(LivingEntityPatch.java:126)
+	at TRANSFORMER/epicfight@20.7.4/yesman.epicfight.world.capabilities.entitypatch.player.PlayerPatch.tick(PlayerPatch.java:205)
+	at TRANSFORMER/epicfight@20.7.4/yesman.epicfight.world.capabilities.entitypatch.player.ServerPlayerPatch.tick(ServerPlayerPatch.java:115)
+	at TRANSFORMER/epicfight@20.7.4/yesman.epicfight.events.EntityEvents.updateEvent(EntityEvents.java:98)
+	at TRANSFORMER/epicfight@20.7.4/yesman.epicfight.events.__EntityEvents_updateEvent_LivingTickEvent.invoke(.dynamic)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:315)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:296)
+	at TRANSFORMER/forge@47.3.7/net.minecraftforge.common.ForgeHooks.onLivingTick(ForgeHooks.java:264)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.LivingEntity.m_8119_(LivingEntity.java:2258)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_8119_(Player.java:241)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:467)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerGamePacketListenerImpl.java:262)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.Connection.m_129483_(Connection.java:263)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:142)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:907)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:283)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:814)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+
+[28Mar2025 06:24:17.885] [Server thread/ERROR] [net.minecraftforge.eventbus.EventBus/EVENTBUS]: Exception caught during firing event: Cannot invoke "net.minecraft.advancements.Advancement.m_138325_()" because "p_135986_" is null
+	Index: 4
+	Listeners:
+		0: NORMAL
+		1: ASM: class net.mcreator.realmrpgdemons.init.EntityAnimationFactory onEntityTick(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+		2: ASM: class net.mcreator.antsunleashed.init.EntityAnimationFactory onEntityTick(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+		3: ASM: com.github.alexthe666.citadel.server.CitadelEvents@6d444b3d onEntityUpdateDebug(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+		4: ASM: class yesman.epicfight.events.EntityEvents updateEvent(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+		5: ASM: com.github.alexthe666.alexsmobs.event.ServerEvents@737f3aa2 onLivingUpdateEvent(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+		6: ASM: class com.github.alexthe666.iceandfire.entity.props.CapabilityHandler tickData(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+		7: ASM: class tallestegg.illagersweararmor.IWASpawnEvents tickEntity(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+		8: ASM: class net.thirdlife.iterrpg.procedures.ChainedMobTickProcedure onEntityTick(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+		9: ASM: class net.thirdlife.iterrpg.init.EntityAnimationFactory onEntityTick(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+		10: ASM: com.github.L_Ender.cataclysm.event.ServerEventHandler@8289d9d onLivingUpdateEvent(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+		11: ASM: class net.mcreator.seadwellers.init.EntityAnimationFactory onEntityTick(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+		12: ASM: top.theillusivec4.curios.common.event.CuriosEventHandler@211c31eb tick(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+		13: ASM: com.github.alexthe666.iceandfire.event.ServerEvents@6a9a80e4 onEntityUpdate(Lnet/minecraftforge/event/entity/living/LivingEvent$LivingTickEvent;)V
+java.lang.NullPointerException: Cannot invoke "net.minecraft.advancements.Advancement.m_138325_()" because "p_135986_" is null
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.PlayerAdvancements.m_135985_(PlayerAdvancements.java:307)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.PlayerAdvancements.m_135996_(PlayerAdvancements.java:300)
+	at TRANSFORMER/betterskills@1.8.1/net.feusalamander.betterskills.procedures.CombatXpProcedure.execute(CombatXpProcedure.java:582)
+	at TRANSFORMER/betterskills@1.8.1/net.feusalamander.betterskills.procedures.CombatXpProcedure.onEntityDeath(CombatXpProcedure.java:43)
+	at TRANSFORMER/betterskills@1.8.1/net.feusalamander.betterskills.procedures.__CombatXpProcedure_onEntityDeath_LivingDeathEvent.invoke(.dynamic)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:315)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:296)
+	at TRANSFORMER/forge@47.3.7/net.minecraftforge.common.ForgeHooks.onLivingDeath(ForgeHooks.java:303)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.LivingEntity.m_6667_(LivingEntity.java:1304)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.LivingEntity.m_6469_(LivingEntity.java:1182)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_5706_(Player.java:1139)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerPlayer.m_5706_(ServerPlayer.java:1400)
+	at TRANSFORMER/epicfight@20.7.4/yesman.epicfight.world.capabilities.entitypatch.player.PlayerPatch.attack(PlayerPatch.java:311)
+	at TRANSFORMER/epicfight@20.7.4/yesman.epicfight.api.animation.types.AttackAnimation.hurtCollidingEntities(AttackAnimation.java:233)
+	at TRANSFORMER/epicfight@20.7.4/yesman.epicfight.api.animation.types.AttackAnimation.attackTick(AttackAnimation.java:207)
+	at TRANSFORMER/epicfight@20.7.4/yesman.epicfight.api.animation.types.AttackAnimation.tick(AttackAnimation.java:160)
+	at TRANSFORMER/epicfight@20.7.4/yesman.epicfight.api.animation.ServerAnimator.tick(ServerAnimator.java:76)
+	at TRANSFORMER/epicfight@20.7.4/yesman.epicfight.world.capabilities.entitypatch.LivingEntityPatch.tick(LivingEntityPatch.java:126)
+	at TRANSFORMER/epicfight@20.7.4/yesman.epicfight.world.capabilities.entitypatch.player.PlayerPatch.tick(PlayerPatch.java:205)
+	at TRANSFORMER/epicfight@20.7.4/yesman.epicfight.world.capabilities.entitypatch.player.ServerPlayerPatch.tick(ServerPlayerPatch.java:115)
+	at TRANSFORMER/epicfight@20.7.4/yesman.epicfight.events.EntityEvents.updateEvent(EntityEvents.java:98)
+	at TRANSFORMER/epicfight@20.7.4/yesman.epicfight.events.__EntityEvents_updateEvent_LivingTickEvent.invoke(.dynamic)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:315)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:296)
+	at TRANSFORMER/forge@47.3.7/net.minecraftforge.common.ForgeHooks.onLivingTick(ForgeHooks.java:264)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.LivingEntity.m_8119_(LivingEntity.java:2258)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.entity.player.Player.m_8119_(Player.java:241)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:467)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerGamePacketListenerImpl.java:262)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.Connection.m_129483_(Connection.java:263)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:142)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:907)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:283)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:814)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+
+[28Mar2025 06:24:18.003] [Server thread/WARN] [net.minecraft.server.network.ServerConnectionListener/]: Failed to handle packet for /127.98.72.223:59465
+net.minecraft.ReportedException: Ticking player
+	at net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:530) ~[server-1.20.1-20230612.114412-srg.jar%23225!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerGamePacketListenerImpl.java:262) ~[server-1.20.1-20230612.114412-srg.jar%23225!/:?]
+	at net.minecraft.network.Connection.m_129483_(Connection.java:263) ~[server-1.20.1-20230612.114412-srg.jar%23225!/:?]
+	at net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:142) ~[server-1.20.1-20230612.114412-srg.jar%23225!/:?]
+	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:907) ~[server-1.20.1-20230612.114412-srg.jar%23225!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:283) ~[server-1.20.1-20230612.114412-srg.jar%23225!/:?]
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:814) ~[server-1.20.1-20230612.114412-srg.jar%23225!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661) ~[server-1.20.1-20230612.114412-srg.jar%23225!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23225!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.advancements.Advancement.m_138325_()" because "p_135986_" is null
+	at net.minecraft.server.PlayerAdvancements.m_135985_(PlayerAdvancements.java:307) ~[server-1.20.1-20230612.114412-srg.jar%23225!/:?]
+	at net.minecraft.server.PlayerAdvancements.m_135996_(PlayerAdvancements.java:300) ~[server-1.20.1-20230612.114412-srg.jar%23225!/:?]
+	at net.feusalamander.betterskills.procedures.CombatXpProcedure.execute(CombatXpProcedure.java:582) ~[Better%20Skills%201.8.1%20%5B1.20.1%5D.jar%23165!/:?]
+	at net.feusalamander.betterskills.procedures.CombatXpProcedure.onEntityDeath(CombatXpProcedure.java:43) ~[Better%20Skills%201.8.1%20%5B1.20.1%5D.jar%23165!/:?]
+	at net.feusalamander.betterskills.procedures.__CombatXpProcedure_onEntityDeath_LivingDeathEvent.invoke(.dynamic) ~[Better%20Skills%201.8.1%20%5B1.20.1%5D.jar%23165!/:?]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.common.ForgeHooks.onLivingDeath(ForgeHooks.java:303) ~[forge-1.20.1-47.3.7-universal.jar%23230!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_6667_(LivingEntity.java:1304) ~[server-1.20.1-20230612.114412-srg.jar%23225!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_6469_(LivingEntity.java:1182) ~[server-1.20.1-20230612.114412-srg.jar%23225!/:?]
+	at net.minecraft.world.entity.player.Player.m_5706_(Player.java:1139) ~[server-1.20.1-20230612.114412-srg.jar%23225!/:?]
+	at net.minecraft.server.level.ServerPlayer.m_5706_(ServerPlayer.java:1400) ~[server-1.20.1-20230612.114412-srg.jar%23225!/:?]
+	at yesman.epicfight.world.capabilities.entitypatch.player.PlayerPatch.attack(PlayerPatch.java:311) ~[EpicFight-20.7.4.jar%23179!/:20.7.4]
+	at yesman.epicfight.api.animation.types.AttackAnimation.hurtCollidingEntities(AttackAnimation.java:233) ~[EpicFight-20.7.4.jar%23179!/:20.7.4]
+	at yesman.epicfight.api.animation.types.AttackAnimation.attackTick(AttackAnimation.java:207) ~[EpicFight-20.7.4.jar%23179!/:20.7.4]
+	at yesman.epicfight.api.animation.types.AttackAnimation.tick(AttackAnimation.java:160) ~[EpicFight-20.7.4.jar%23179!/:20.7.4]
+	at yesman.epicfight.api.animation.ServerAnimator.tick(ServerAnimator.java:76) ~[EpicFight-20.7.4.jar%23179!/:20.7.4]
+	at yesman.epicfight.world.capabilities.entitypatch.LivingEntityPatch.tick(LivingEntityPatch.java:126) ~[EpicFight-20.7.4.jar%23179!/:20.7.4]
+	at yesman.epicfight.world.capabilities.entitypatch.player.PlayerPatch.tick(PlayerPatch.java:205) ~[EpicFight-20.7.4.jar%23179!/:20.7.4]
+	at yesman.epicfight.world.capabilities.entitypatch.player.ServerPlayerPatch.tick(ServerPlayerPatch.java:115) ~[EpicFight-20.7.4.jar%23179!/:20.7.4]
+	at yesman.epicfight.events.EntityEvents.updateEvent(EntityEvents.java:98) ~[EpicFight-20.7.4.jar%23179!/:20.7.4]
+	at yesman.epicfight.events.__EntityEvents_updateEvent_LivingTickEvent.invoke(.dynamic) ~[EpicFight-20.7.4.jar%23179!/:20.7.4]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.common.ForgeHooks.onLivingTick(ForgeHooks.java:264) ~[forge-1.20.1-47.3.7-universal.jar%23230!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_8119_(LivingEntity.java:2258) ~[server-1.20.1-20230612.114412-srg.jar%23225!/:?]
+	at net.minecraft.world.entity.player.Player.m_8119_(Player.java:241) ~[server-1.20.1-20230612.114412-srg.jar%23225!/:?]
+	at net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:467) ~[server-1.20.1-20230612.114412-srg.jar%23225!/:?]
+	... 9 more
+[28Mar2025 06:24:18.029] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DavidCh01 lost connection: Internal server error
+[28Mar2025 06:24:18.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidCh01 left the game
+[28Mar2025 06:24:33.725] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DavidCh01[/127.98.72.223:34033] logged in with entity id 110786 at (1143.6715922097537, 77.0, -1330.2929014754748)
+[28Mar2025 06:24:33.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidCh01 joined the game
+[28Mar2025 06:24:37.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidCh01 was slain by Chort
+[28Mar2025 06:24:45.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joshy_17 has made the advancement [Barrel Booty]
+[28Mar2025 06:24:47.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidCh01 was slain by Chort
+[28Mar2025 06:24:52.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidCh01 has made the advancement [Sweet Dreams]
+[28Mar2025 06:25:02.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidCh01 was slain by Chort
+[28Mar2025 06:25:05.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joshy_17: Set own game mode to Creative Mode]
+[28Mar2025 06:25:08.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joshy_17: Set own game mode to Spectator Mode]
+[28Mar2025 06:25:21.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joshy_17: Set own game mode to Creative Mode]
+[28Mar2025 06:25:24.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joshy_17: Set own game mode to Survival Mode]
+[28Mar2025 06:25:28.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joshy_17 has made the advancement [Sweet Dreams]
+[28Mar2025 06:25:30.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Joshy_17> zzzzzzz
+[28Mar2025 06:25:58.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joshy_17: Teleported Joshy_17 to DavidCh01]
+[28Mar2025 06:26:42.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joshy_17 has made the advancement [Close Quarters]
+[28Mar2025 06:28:27.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidCh01 has made the advancement [Close Quarters]
+[28Mar2025 06:29:10.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Joshy_17> mira pelado
+[28Mar2025 06:29:21.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Joshy_17> aqui?
+[28Mar2025 06:29:36.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DavidCh01: Teleported DavidCh01 to Joshy_17]
+[28Mar2025 06:29:44.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DavidCh01> shimon
+[28Mar2025 06:38:22.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DavidCh01> ya vi tienes que configurar
+[28Mar2025 06:43:31.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joshy_17 was slain by Minotaurus
+[28Mar2025 06:43:39.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joshy_17: Teleported Joshy_17 to DavidCh01]
+[28Mar2025 06:47:57.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Joshy_17> al final q tipo de casa hacemos?
+[28Mar2025 06:48:18.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DavidCh01> una rustica
+[28Mar2025 06:48:27.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Joshy_17> ya fue entonces
+[28Mar2025 06:48:32.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Joshy_17> par murallas
+[28Mar2025 06:48:41.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Joshy_17> sin techo
+[28Mar2025 06:48:45.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Joshy_17> y por zonas
+[28Mar2025 06:48:53.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DavidCh01> de una
+[28Mar2025 06:49:15.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Joshy_17> el server se apaga?
+[28Mar2025 06:49:41.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DavidCh01> no se, no estoy seguro
+[28Mar2025 06:50:06.792] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/109164, l='ServerLevel[world]', x=1220.63, y=64.00, z=-1255.53] died, message: 'Farmer was turned into KFC by Fire Dragon'
+[28Mar2025 06:50:08.393] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/109522, l='ServerLevel[world]', x=1208.78, y=64.00, z=-1240.87] died, message: 'Farmer was incinerated by Fire Dragon'
+[28Mar2025 06:50:11.841] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/109243, l='ServerLevel[world]', x=1212.81, y=63.00, z=-1240.58] died, message: 'Farmer was burnt to a crisp whilst fighting Fire Dragon'
+[28Mar2025 06:50:20.798] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Hunter'/109162, l='ServerLevel[world]', x=1201.80, y=64.88, z=-1235.34] died, message: 'Hunter burned to death'
+[28Mar2025 06:50:25.840] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/109527, l='ServerLevel[world]', x=1238.52, y=72.77, z=-1238.85] died, message: 'Farmer was slain by Fire Dragon'
+[28Mar2025 06:50:36.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DavidCh01> un dragon
+[28Mar2025 06:50:49.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Joshy_17> hola buen dia
+[28Mar2025 06:51:31.541] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/109237, l='ServerLevel[world]', x=1247.66, y=72.00, z=-1232.55] died, message: 'Villager was turned into KFC by Fire Dragon'
+[28Mar2025 06:51:36.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Joshy_17> esta quemando la aldeea
+[28Mar2025 06:51:45.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joshy_17 was turned into KFC by Fire Dragon
+[28Mar2025 06:51:51.591] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/109233, l='ServerLevel[world]', x=1257.91, y=69.00, z=-1190.51] died, message: 'Villager was slain by Fire Dragon'
+[28Mar2025 06:51:55.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DavidCh01> matalo en creativo, esas cosas son fuertes
+[28Mar2025 06:52:14.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joshy_17: Teleported Joshy_17 to DavidCh01]
+[28Mar2025 06:52:20.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joshy_17: Set own game mode to Creative Mode]
+[28Mar2025 06:52:25.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joshy_17: Set own game mode to Survival Mode]
+[28Mar2025 06:52:29.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joshy_17: Set own game mode to Creative Mode]
+[28Mar2025 06:52:54.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidCh01 has made the advancement [Mining 6]
+[28Mar2025 06:53:33.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidCh01 was slain by Fire Dragon
+[28Mar2025 06:53:49.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidCh01 was turned into KFC by Fire Dragon
+[28Mar2025 06:54:02.143] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/109528, l='ServerLevel[world]', x=1251.02, y=62.52, z=-1283.48] died, message: 'Villager was incinerated by Fire Dragon'
+[28Mar2025 06:54:21.045] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Toolsmith'/109234, l='ServerLevel[world]', x=1223.36, y=63.00, z=-1229.60] died, message: 'Toolsmith burned to death'
+[28Mar2025 06:54:31.821] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1277, y=72, z=-1238} BlockPos{x=1277, y=71, z=-1238}
+[28Mar2025 06:55:24.441] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Forester'/109224, l='ServerLevel[world]', x=1207.51, y=64.00, z=-1257.00] died, message: 'Forester was slain by Fire Dragon'
+[28Mar2025 06:55:30.641] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/109238, l='ServerLevel[world]', x=1228.74, y=71.00, z=-1227.85] died, message: 'Villager was incinerated by Fire Dragon'
+[28Mar2025 06:55:34.262] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Toolsmith'/109683, l='ServerLevel[world]', x=1223.95, y=72.00, z=-1223.87] died, message: 'Toolsmith was burnt to a crisp whilst fighting Fire Dragon'
+[28Mar2025 06:55:43.541] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Engineer'/110427, l='ServerLevel[world]', x=1221.63, y=71.00, z=-1213.01] died, message: 'Engineer was incinerated by Fire Dragon'
+[28Mar2025 06:55:47.796] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/109161, l='ServerLevel[world]', x=1226.69, y=66.00, z=-1211.58] died, message: 'Villager was burnt to a crisp whilst fighting Fire Dragon'
+[28Mar2025 06:55:49.940] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Toolsmith'/110469, l='ServerLevel[world]', x=1216.74, y=69.00, z=-1202.32] died, message: 'Toolsmith was turned into KFC by Fire Dragon'
+[28Mar2025 06:55:54.845] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Engineer'/109252, l='ServerLevel[world]', x=1212.80, y=72.00, z=-1226.81] died, message: 'Engineer burned to death'
+[28Mar2025 06:55:56.001] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1027, y=-36, z=-995}
+[28Mar2025 06:56:12.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joshy_17 has made the advancement [Dragonslayer]
+[28Mar2025 06:56:18.049] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 bison_fur because there is no smelting recipe
+[28Mar2025 06:56:52.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joshy_17 has made the advancement [Mother of Dragons]
+[28Mar2025 06:57:02.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Joshy_17> dejo un huevo
+[28Mar2025 06:57:14.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DavidCh01> pal desayuno
+[28Mar2025 06:57:57.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joshy_17: Set own game mode to Survival Mode]
+[28Mar2025 06:58:13.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DavidCh01> zzz
+[28Mar2025 06:58:16.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Joshy_17> lo bueno esq tenemos un dragon
+[28Mar2025 06:58:25.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Joshy_17> la mala esq no tenemos aldea
+[28Mar2025 06:58:41.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Joshy_17> zzzz
+[28Mar2025 06:58:52.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DavidCh01> pero quedaron aldeanos ?
+[28Mar2025 06:58:56.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Joshy_17> mazo
+[28Mar2025 07:00:04.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Joshy_17> oe si no se apaga el server, mañana en la mañana hago las bases
+[28Mar2025 07:00:15.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Joshy_17> para las murallas
+[28Mar2025 07:00:18.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DavidCh01> de unas
+[28Mar2025 07:00:25.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Joshy_17> pilas
+[28Mar2025 07:00:29.312] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Joshy_17 lost connection: Disconnected
+[28Mar2025 07:00:29.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joshy_17 left the game
+[28Mar2025 07:04:29.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidCh01 has made the advancement [Mining 7]
+[28Mar2025 07:08:57.848] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DavidCh01 lost connection: Disconnected
+[28Mar2025 07:08:57.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidCh01 left the game
