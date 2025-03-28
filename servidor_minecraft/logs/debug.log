@@ -8002,3 +8002,9 @@ Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.advancem
 [28Mar2025 07:04:29.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidCh01 has made the advancement [Mining 7]
 [28Mar2025 07:08:57.848] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DavidCh01 lost connection: Disconnected
 [28Mar2025 07:08:57.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidCh01 left the game
+[28Mar2025 07:09:05.906] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Mar2025 07:09:05.943] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Mar2025 07:14:05.803] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Mar2025 07:14:05.837] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Mar2025 07:19:05.822] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Mar2025 07:19:05.834] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
