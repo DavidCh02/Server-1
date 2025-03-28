@@ -1847,3 +1847,35 @@ com.google.gson.JsonSyntaxException: Unknown item 'iter_rpg:smooth_ice'
 [28Mar2025 05:13:54.072] [Worker-Main-8/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:mine_with_campsite/side_pool which is being called from mvs:other_decoration/mine_with_campsite
 [28Mar2025 05:16:54.080] [Worker-Main-8/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
 [28Mar2025 05:17:05.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidCh01 was slain by Satyress
+[28Mar2025 05:17:57.792] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DavidCh01 lost connection: Timed out
+[28Mar2025 05:17:57.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidCh01 left the game
+[28Mar2025 05:18:23.225] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DavidCh01[/127.98.72.223:59465] logged in with entity id 12905 at (263.5, 74.0, -23.5)
+[28Mar2025 05:18:23.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidCh01 joined the game
+[28Mar2025 05:19:49.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidCh01 was slain by Satyress
+[28Mar2025 05:24:16.842] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 bison_fur because there is no smelting recipe
+[28Mar2025 05:26:14.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidCh01 has made the advancement [Mining 4]
+[28Mar2025 05:33:43.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidCh01 has made the advancement [Suit Up]
+[28Mar2025 05:39:06.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidCh01 was slain by Dullahan
+[28Mar2025 05:39:56.963] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DavidCh01 moved wrongly!
+[28Mar2025 05:39:57.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidCh01 was slain by Dullahan
+[28Mar2025 05:41:01.055] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Joshy_17[/127.72.93.104:55369] logged in with entity id 43648 at (266.5, 75.0, -32.5)
+[28Mar2025 05:41:01.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joshy_17 joined the game
+[28Mar2025 05:41:01.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joshy_17 has made the advancement [Ice and Fire]
+[28Mar2025 05:41:01.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joshy_17 has made the advancement [Orcz Challenges]
+[28Mar2025 05:41:20.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Joshy_17> llego tu croqueta maldita perra
+[28Mar2025 05:41:44.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DavidCh01> jaja ya te doy op para que t6e hagas tp
+[28Mar2025 05:41:46.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Joshy_17> hasme tp confirma
+[28Mar2025 05:42:28.616] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2131ms or 42 ticks behind
+[28Mar2025 05:42:41.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joshy_17 has made the advancement [Alex's Mobs]
+[28Mar2025 05:42:46.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Joshy_17 a server operator
+[28Mar2025 05:42:57.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joshy_17: Teleported Joshy_17 to DavidCh01]
+[28Mar2025 05:43:06.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joshy_17 has made the advancement [Acquire Hardware]
+[28Mar2025 05:43:10.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joshy_17 has made the advancement [Stone Age]
+[28Mar2025 05:43:16.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Joshy_17> gracias bebe
+[28Mar2025 05:43:31.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joshy_17 has made the advancement [Isn't It Iron Pick]
+[28Mar2025 05:44:16.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidCh01 was slain by Fire Dragon
+[28Mar2025 05:44:25.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Joshy_17> JAJAJAJ
+[28Mar2025 05:44:28.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DavidCh01> no salgas hay un dragoon xd
+[28Mar2025 05:45:04.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidCh01 has made the advancement [Mining 5]
+[28Mar2025 05:46:08.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joshy_17 has made the advancement [Mining]
+[28Mar2025 05:46:46.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DavidCh01: Teleported DavidCh01 to Joshy_17]
