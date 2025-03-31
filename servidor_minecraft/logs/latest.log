@@ -1840,3 +1840,5 @@ com.google.gson.JsonSyntaxException: Unknown item 'iter_rpg:smooth_ice'
 [31Mar2025 16:33:44.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DavidCh01: Set own game mode to Spectator Mode]
 [31Mar2025 16:33:59.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DavidCh01: Set own game mode to Survival Mode]
 [31Mar2025 16:43:18.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidCh01 has made the advancement [Swashbuckler]
+[31Mar2025 17:00:02.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidCh01 was slain by Zombie
+[31Mar2025 17:03:05.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidCh01 was slain by Harpy
