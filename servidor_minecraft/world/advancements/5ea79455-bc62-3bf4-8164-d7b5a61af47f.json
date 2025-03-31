@@ -4331,5 +4331,11 @@
     },
     "done": true
   },
+  "spartanweaponry:saber": {
+    "criteria": {
+      "has_saber": "2025-03-31 16:43:18 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
