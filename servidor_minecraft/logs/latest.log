@@ -2399,3 +2399,6 @@ com.google.gson.JsonSyntaxException: Unknown item 'iter_rpg:smooth_ice'
 [31Mar2025 05:50:19.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joshy_17 has made the advancement [Mining 7]
 [31Mar2025 05:50:34.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joshy_17 has made the advancement [Mining 8]
 [31Mar2025 05:50:59.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joshy_17 has made the advancement [Mining 9]
+[31Mar2025 07:03:03.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joshy_17: Set own game mode to Survival Mode]
+[31Mar2025 07:04:31.429] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Joshy_17 lost connection: Disconnected
+[31Mar2025 07:04:31.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joshy_17 left the game
