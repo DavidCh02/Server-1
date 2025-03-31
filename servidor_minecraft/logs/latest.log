@@ -2391,3 +2391,4 @@ com.google.gson.JsonSyntaxException: Unknown item 'iter_rpg:smooth_ice'
 [31Mar2025 05:14:42.852] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Joshy_17[/127.72.93.104:40357] logged in with entity id 83150 at (1275.5055359790147, 69.0, -1227.4680534265667)
 [31Mar2025 05:14:42.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joshy_17 joined the game
 [31Mar2025 05:19:06.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joshy_17: Set own game mode to Creative Mode]
+[31Mar2025 05:36:51.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joshy_17 has made the advancement [Foraging 3]
