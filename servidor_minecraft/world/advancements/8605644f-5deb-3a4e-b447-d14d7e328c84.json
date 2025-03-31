@@ -3047,9 +3047,27 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/pink_upholstered_birch_stool": {
+    "criteria": {
+      "has_birch_slab": "2025-03-31 06:19:35 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/yellow_upholstered_birch_stool": {
+    "criteria": {
+      "has_birch_slab": "2025-03-31 06:19:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-03-31 05:46:46 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/lime_upholstered_birch_stool": {
+    "criteria": {
+      "has_birch_slab": "2025-03-31 06:19:35 +0000"
     },
     "done": true
   },
@@ -3065,6 +3083,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/orange_upholstered_birch_stool": {
+    "criteria": {
+      "has_birch_slab": "2025-03-31 06:19:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2025-03-31 06:10:52 +0000"
@@ -3077,9 +3101,21 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/gray_upholstered_birch_stool": {
+    "criteria": {
+      "has_birch_slab": "2025-03-31 06:19:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-03-31 05:46:46 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/black_upholstered_birch_stool": {
+    "criteria": {
+      "has_birch_slab": "2025-03-31 06:19:35 +0000"
     },
     "done": true
   },
@@ -3098,6 +3134,24 @@
   "betterskills:foraging_3": {
     "criteria": {
       "foraging_3_0": "2025-03-31 05:36:51 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/birch_stool": {
+    "criteria": {
+      "has_birch_slab": "2025-03-31 06:19:35 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/red_upholstered_birch_stool": {
+    "criteria": {
+      "has_birch_slab": "2025-03-31 06:19:35 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/brown_upholstered_birch_stool": {
+    "criteria": {
+      "has_birch_slab": "2025-03-31 06:19:35 +0000"
     },
     "done": true
   },
@@ -3146,6 +3200,24 @@
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-03-31 05:46:46 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/purple_upholstered_birch_stool": {
+    "criteria": {
+      "has_birch_slab": "2025-03-31 06:19:35 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_blue_upholstered_birch_stool": {
+    "criteria": {
+      "has_birch_slab": "2025-03-31 06:19:35 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/blue_upholstered_birch_stool": {
+    "criteria": {
+      "has_birch_slab": "2025-03-31 06:19:35 +0000"
     },
     "done": true
   },
@@ -3203,9 +3275,21 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/green_upholstered_birch_stool": {
+    "criteria": {
+      "has_birch_slab": "2025-03-31 06:19:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/composter": {
     "criteria": {
       "has_wood_slab": "2025-03-31 05:34:09 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/magenta_upholstered_birch_stool": {
+    "criteria": {
+      "has_birch_slab": "2025-03-31 06:19:35 +0000"
     },
     "done": true
   },
@@ -3227,6 +3311,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/white_upholstered_birch_stool": {
+    "criteria": {
+      "has_birch_slab": "2025-03-31 06:19:35 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/spider": {
     "criteria": {
       "has_string": "2025-03-31 06:10:52 +0000"
@@ -3245,6 +3335,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/light_gray_upholstered_birch_stool": {
+    "criteria": {
+      "has_birch_slab": "2025-03-31 06:19:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_planks": {
     "criteria": {
       "has_logs": "2025-03-31 05:47:08 +0000"
@@ -3254,6 +3350,12 @@
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-03-31 05:46:46 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/cyan_upholstered_birch_stool": {
+    "criteria": {
+      "has_birch_slab": "2025-03-31 06:19:35 +0000"
     },
     "done": true
   },
