@@ -2739,3 +2739,4 @@ com.google.gson.JsonSyntaxException: Unknown item 'iter_rpg:smooth_ice'
 [31Mar2025 17:32:47.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DavidCh01: Successfully filled 15463 block(s)]
 [31Mar2025 17:33:36.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DavidCh01: Set own game mode to Survival Mode]
 [31Mar2025 17:35:13.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidCh01 was slain by Chort
+[31Mar2025 17:38:37.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidCh01 has made the advancement [Farming 2]

@@ -4409,5 +4409,11 @@
     },
     "done": true
   },
+  "betterskills:farming_2": {
+    "criteria": {
+      "farming_2_0": "2025-03-31 17:38:37 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
