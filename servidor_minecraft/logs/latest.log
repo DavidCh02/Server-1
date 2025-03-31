@@ -1833,3 +1833,21 @@ com.google.gson.JsonSyntaxException: Unknown item 'iter_rpg:smooth_ice'
 [31Mar2025 02:43:54.192] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DavidCh01[/127.98.72.223:34071] logged in with entity id 103 at (1245.8868406789916, 69.0, -1214.640701594209)
 [31Mar2025 02:43:54.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidCh01 joined the game
 [31Mar2025 02:44:00.057] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5986ms or 119 ticks behind
+[31Mar2025 02:52:39.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DavidCh01: Set own game mode to Creative Mode]
+[31Mar2025 02:52:57.130] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Toolsmith'/145, l='ServerLevel[world]', x=1259.20, y=69.00, z=-1165.41] died, message: 'Toolsmith walked into fire whilst fighting Fire Dragon'
+[31Mar2025 02:53:06.290] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Toolsmith'/180, l='ServerLevel[world]', x=1195.86, y=66.00, z=-1175.33] died, message: 'Toolsmith was slain by Fire Dragon'
+[31Mar2025 02:53:20.976] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/146, l='ServerLevel[world]', x=1226.58, y=69.00, z=-1204.69] died, message: 'Villager was slain by Fire Dragon'
+[31Mar2025 02:53:39.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidCh01 has reached the goal [Upgrade Me with Debris]
+[31Mar2025 02:55:47.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidCh01 has made the advancement [Dragonslayer]
+[31Mar2025 02:55:54.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DavidCh01: Set own game mode to Survival Mode]
+[31Mar2025 02:55:57.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DavidCh01: Set own game mode to Creative Mode]
+[31Mar2025 02:56:01.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DavidCh01: Set own game mode to Survival Mode]
+[31Mar2025 02:56:22.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidCh01 has made the advancement [Ice Bucket Challenge]
+[31Mar2025 02:56:40.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidCh01 fell from a high place
+[31Mar2025 02:59:11.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidCh01 has made the advancement [Who You Gonna Call?]
+[31Mar2025 02:59:26.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidCh01 was slain by Ghost
+[31Mar2025 03:00:59.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidCh01 was slain by Ghost
+[31Mar2025 03:01:10.726] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Toolsmith'/23554, l='ServerLevel[world]', x=1222.38, y=68.00, z=-1174.83] died, message: 'Toolsmith was slain by Ghost'
+[31Mar2025 03:01:12.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidCh01 was slain by Ghost
+[31Mar2025 03:02:19.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidCh01 was slain by Ghost
+[31Mar2025 03:06:37.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidCh01 has made the advancement [Enchanted blossom]
