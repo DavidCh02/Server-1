@@ -1842,3 +1842,9 @@ com.google.gson.JsonSyntaxException: Unknown item 'iter_rpg:smooth_ice'
 [31Mar2025 16:43:18.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidCh01 has made the advancement [Swashbuckler]
 [31Mar2025 17:00:02.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidCh01 was slain by Zombie
 [31Mar2025 17:03:05.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidCh01 was slain by Harpy
+[31Mar2025 17:06:02.800] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DavidCh01 lost connection: Timed out
+[31Mar2025 17:06:02.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidCh01 left the game
+[31Mar2025 17:06:02.889] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[31Mar2025 17:06:19.787] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DavidCh01[/127.98.72.223:51619] logged in with entity id 7992 at (1272.8333469859397, 69.0, -1207.2177081347909)
+[31Mar2025 17:06:19.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidCh01 joined the game
+[31Mar2025 17:14:52.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidCh01 was slain by Minotaurus
