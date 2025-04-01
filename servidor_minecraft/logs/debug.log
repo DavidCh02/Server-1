@@ -6852,3 +6852,40 @@ com.google.gson.JsonSyntaxException: Unknown item 'iter_rpg:smooth_ice'
 [01Apr2025 06:28:38.387] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
 [01Apr2025 06:28:49.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joshy_17 was killed by Stone Golem using magic
 [01Apr2025 06:28:57.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joshy_17: Teleported Joshy_17 to DavidCh01]
+[01Apr2025 06:29:05.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joshy_17: Set own game mode to Spectator Mode]
+[01Apr2025 06:29:28.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joshy_17: Set own game mode to Survival Mode]
+[01Apr2025 06:29:29.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DavidCh01> aplasta n para que puedas teletrnasportate a tu ultima muerte
+[01Apr2025 06:29:42.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DavidCh01> y borres las wepoins
+[01Apr2025 06:29:59.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Joshy_17> smn
+[01Apr2025 06:30:16.142] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[01Apr2025 06:30:20.019] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[01Apr2025 06:30:21.495] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[01Apr2025 06:30:23.301] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[01Apr2025 06:30:23.443] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[01Apr2025 06:30:25.059] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[01Apr2025 06:30:25.646] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[01Apr2025 06:30:26.293] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[01Apr2025 06:30:37.060] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[01Apr2025 06:30:38.542] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[01Apr2025 06:30:39.545] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[01Apr2025 06:30:39.798] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[01Apr2025 06:31:04.216] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[01Apr2025 06:31:05.491] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[01Apr2025 06:31:06.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joshy_17 was slain by Chort
+[01Apr2025 06:31:14.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joshy_17: Teleported Joshy_17 to DavidCh01]
+[01Apr2025 06:31:17.766] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Apr2025 06:31:17.780] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Apr2025 06:31:29.343] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[01Apr2025 06:31:29.456] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[01Apr2025 06:31:30.004] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[01Apr2025 06:31:44.694] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[01Apr2025 06:31:44.694] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[01Apr2025 06:31:46.142] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[01Apr2025 06:31:47.043] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[01Apr2025 06:33:02.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Joshy_17> c ve del puctas
+[01Apr2025 06:33:47.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Joshy_17> pilas papi, mañana sigo
+[01Apr2025 06:33:54.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DavidCh01> dale
+[01Apr2025 06:34:27.392] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Joshy_17 lost connection: Disconnected
+[01Apr2025 06:34:27.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joshy_17 left the game
+[01Apr2025 06:36:17.760] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Apr2025 06:36:17.778] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

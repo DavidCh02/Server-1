@@ -1900,3 +1900,15 @@ com.google.gson.JsonSyntaxException: Unknown item 'iter_rpg:smooth_ice'
 [01Apr2025 06:28:13.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joshy_17: Set own game mode to Survival Mode]
 [01Apr2025 06:28:49.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joshy_17 was killed by Stone Golem using magic
 [01Apr2025 06:28:57.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joshy_17: Teleported Joshy_17 to DavidCh01]
+[01Apr2025 06:29:05.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joshy_17: Set own game mode to Spectator Mode]
+[01Apr2025 06:29:28.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joshy_17: Set own game mode to Survival Mode]
+[01Apr2025 06:29:29.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DavidCh01> aplasta n para que puedas teletrnasportate a tu ultima muerte
+[01Apr2025 06:29:42.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DavidCh01> y borres las wepoins
+[01Apr2025 06:29:59.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Joshy_17> smn
+[01Apr2025 06:31:06.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joshy_17 was slain by Chort
+[01Apr2025 06:31:14.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Joshy_17: Teleported Joshy_17 to DavidCh01]
+[01Apr2025 06:33:02.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Joshy_17> c ve del puctas
+[01Apr2025 06:33:47.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Joshy_17> pilas papi, mañana sigo
+[01Apr2025 06:33:54.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DavidCh01> dale
+[01Apr2025 06:34:27.392] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Joshy_17 lost connection: Disconnected
+[01Apr2025 06:34:27.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joshy_17 left the game
