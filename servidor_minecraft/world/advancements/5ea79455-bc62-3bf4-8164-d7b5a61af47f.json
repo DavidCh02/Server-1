@@ -2500,6 +2500,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-03-31 03:09:34 +0000",
+      "minecraft:skeleton": "2025-04-01 05:39:32 +0000",
       "minecraft:silverfish": "2025-03-28 16:21:31 +0000",
       "minecraft:enderman": "2025-03-31 16:31:07 +0000",
       "minecraft:zombie": "2025-03-28 16:09:14 +0000",
@@ -4461,6 +4462,18 @@
   "travelersbackpack:recipes/misc/lapis": {
     "criteria": {
       "has_lapis_lazuli": "2025-04-01 05:04:32 +0000"
+    },
+    "done": true
+  },
+  "betterskills:farming_3": {
+    "criteria": {
+      "farming_3_0": "2025-04-01 05:47:26 +0000"
+    },
+    "done": true
+  },
+  "betterskills:farming_4": {
+    "criteria": {
+      "farming_4_0": "2025-04-01 05:48:20 +0000"
     },
     "done": true
   },
