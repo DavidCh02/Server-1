@@ -1912,3 +1912,4 @@ com.google.gson.JsonSyntaxException: Unknown item 'iter_rpg:smooth_ice'
 [01Apr2025 06:33:54.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DavidCh01> dale
 [01Apr2025 06:34:27.392] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Joshy_17 lost connection: Disconnected
 [01Apr2025 06:34:27.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joshy_17 left the game
+[01Apr2025 06:41:35.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidCh01 has made the advancement [Mining 9]
