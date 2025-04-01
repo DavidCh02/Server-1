@@ -1660,6 +1660,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-03-28 05:49:05 +0000",
       "minecraft:spider": "2025-03-31 06:10:51 +0000",
+      "minecraft:phantom": "2025-04-01 05:08:22 +0000",
       "minecraft:zombie": "2025-03-28 06:42:44 +0000"
     },
     "done": false
@@ -2395,7 +2396,8 @@
     "criteria": {
       "cooked_beef": "2025-03-31 05:18:29 +0000",
       "apple": "2025-03-28 06:30:01 +0000",
-      "bread": "2025-03-28 06:02:04 +0000"
+      "bread": "2025-03-28 06:02:04 +0000",
+      "golden_carrot": "2025-04-01 05:07:46 +0000"
     },
     "done": false
   },
@@ -3383,12 +3385,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/andesite_stairs": {
-    "criteria": {
-      "has_andesite": "2025-04-01 05:01:16 +0000"
-    },
-    "done": true
-  },
   "toms_storage:unlock_netherite": {
     "criteria": {
       "inv_changed-netherite": "2025-04-01 04:57:12 +0000"
@@ -3398,6 +3394,19 @@
   "toms_storage:unlock_chest": {
     "criteria": {
       "inv_changed-chest": "2025-04-01 04:57:12 +0000"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_dia_pearl": {
+    "criteria": {
+      "inv_changed-ender_pearl": "2025-04-01 04:57:12 +0000",
+      "inv_changed-diamond": "2025-04-01 04:57:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs": {
+    "criteria": {
+      "has_andesite": "2025-04-01 05:01:16 +0000"
     },
     "done": true
   },
@@ -3443,13 +3452,6 @@
     },
     "done": true
   },
-  "toms_storage:unlock_dia_pearl": {
-    "criteria": {
-      "inv_changed-ender_pearl": "2025-04-01 04:57:12 +0000",
-      "inv_changed-diamond": "2025-04-01 04:57:12 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/andesite_wall": {
     "criteria": {
       "has_andesite": "2025-04-01 05:01:16 +0000"
@@ -3459,6 +3461,66 @@
   "minecraft:recipes/building_blocks/andesite_slab": {
     "criteria": {
       "has_andesite": "2025-04-01 05:01:16 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/chicken": {
+    "criteria": {
+      "has_feather": "2025-04-01 05:17:06 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/bolt": {
+    "criteria": {
+      "has_feather": "2025-04-01 05:17:06 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_arrow": {
+    "criteria": {
+      "has_feather": "2025-04-01 05:17:06 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_bolt": {
+    "criteria": {
+      "has_feather": "2025-04-01 05:17:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2025-04-01 05:17:06 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/diamond_bolt": {
+    "criteria": {
+      "has_feather": "2025-04-01 05:17:06 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/iron_arrow": {
+    "criteria": {
+      "has_feather": "2025-04-01 05:17:06 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_arrow": {
+    "criteria": {
+      "has_feather": "2025-04-01 05:17:06 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/diamond_arrow": {
+    "criteria": {
+      "has_feather": "2025-04-01 05:17:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_dye_from_smelting": {
+    "criteria": {
+      "has_sea_pickle": "2025-04-01 05:19:19 +0000"
     },
     "done": true
   },
