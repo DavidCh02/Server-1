@@ -1911,3 +1911,5 @@ com.google.gson.JsonSyntaxException: Unknown item 'iter_rpg:smooth_ice'
 [02Apr2025 06:10:33.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DavidCh01: Set own game mode to Spectator Mode]
 [02Apr2025 06:10:35.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DavidCh01: Set own game mode to Survival Mode]
 [02Apr2025 06:11:02.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidCh01 has made the advancement [Foraging 7]
+[02Apr2025 06:18:27.054] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DavidCh01 lost connection: Disconnected
+[02Apr2025 06:18:27.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidCh01 left the game

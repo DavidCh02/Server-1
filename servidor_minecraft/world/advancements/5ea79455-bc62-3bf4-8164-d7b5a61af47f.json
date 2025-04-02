@@ -4774,6 +4774,7 @@
   },
   "morevillagers:all_workstations_get": {
     "criteria": {
+      "barrel": "2025-04-02 06:17:13 +0000",
       "lectern": "2025-04-02 04:40:22 +0000"
     },
     "done": false
@@ -5300,6 +5301,12 @@
     },
     "done": true
   },
+  "betterskills:foraging_7": {
+    "criteria": {
+      "foraging_7_0": "2025-04-02 06:11:02 +0000"
+    },
+    "done": true
+  },
   "betterskills:foraging_4": {
     "criteria": {
       "foraging_4_0": "2025-04-02 06:07:48 +0000"
@@ -5477,6 +5484,12 @@
   "biomesoplenty:recipes/decorations/fir_sign": {
     "criteria": {
       "has_fir_planks": "2025-04-02 06:07:35 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:recipes/oceanography_table": {
+    "criteria": {
+      "has_barrel": "2025-04-02 06:17:13 +0000"
     },
     "done": true
   },
