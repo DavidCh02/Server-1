@@ -1863,3 +1863,58 @@ com.google.gson.JsonSyntaxException: Unknown item 'iter_rpg:smooth_ice'
 [02Apr2025 04:01:54.469] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
 [02Apr2025 04:16:22.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DavidCh01: Set own game mode to Creative Mode]
 [02Apr2025 04:17:15.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DavidCh01: Set own game mode to Survival Mode]
+[02Apr2025 04:18:46.408] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Joshy_17[/127.72.93.104:48967] logged in with entity id 3214 at (1274.8184599308927, 85.0, -1269.925000011921)
+[02Apr2025 04:18:46.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joshy_17 joined the game
+[02Apr2025 04:20:17.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Joshy_17> hoy se explora?
+[02Apr2025 04:20:53.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DavidCh01> DE LEY
+[02Apr2025 04:22:02.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Joshy_17> mira
+[02Apr2025 04:22:18.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DavidCh01> XD
+[02Apr2025 04:22:40.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Joshy_17> vamos a explo mi pana
+[02Apr2025 04:22:50.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DavidCh01> DAME CHANCE ACABO ESTO
+[02Apr2025 04:26:03.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joshy_17 has made the advancement [Foraging 4]
+[02Apr2025 04:27:43.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DavidCh01> vamos mi pana
+[02Apr2025 04:27:51.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Joshy_17> haste tp
+[02Apr2025 04:28:16.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joshy_17 was slain by Werecat
+[02Apr2025 04:29:03.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Joshy_17> tiy en un nuevo bioma
+[02Apr2025 04:29:21.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DavidCh01> ya voy
+[02Apr2025 04:31:42.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DavidCh01: Teleported DavidCh01 to Joshy_17]
+[02Apr2025 04:32:21.390] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Drowned['Sargent the Soaked'/8559, l='ServerLevel[world]', x=1113.85, y=59.86, z=-489.33] died: Sargent the Soaked was slain by Joshy_17
+[02Apr2025 04:32:21.393] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2690ms or 53 ticks behind
+[02Apr2025 04:34:24.906] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-33 absolute--50 absolute]
+[02Apr2025 04:34:59.709] [Worker-Main-1/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[02Apr2025 04:35:31.747] [Worker-Main-1/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[02Apr2025 04:35:47.867] [Worker-Main-1/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:mine_with_campsite/side_pool which is being called from mvs:other_decoration/mine_with_campsite
+[02Apr2025 04:36:08.296] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1133, y=-36, z=35}
+[02Apr2025 04:36:12.341] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=1466, y=70, z=63}
+[02Apr2025 04:36:22.185] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=1441, y=68, z=74}
+[02Apr2025 04:36:24.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Joshy_17> tres biomas, por cuales vamos
+[02Apr2025 04:36:30.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Joshy_17> cual*
+[02Apr2025 04:36:48.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DavidCh01> en los naturales para encontrar estructuras
+[02Apr2025 04:36:53.500] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'divine_weaponry:zeus_relay'
+[02Apr2025 04:37:02.897] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'divine_weaponry:zeus_relay'
+[02Apr2025 04:37:09.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Joshy_17> tenemos dos cc¿erca
+[02Apr2025 04:37:45.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Joshy_17> un pueblo con barco y templo
+[02Apr2025 04:38:43.234] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity MushroomCow['Gowl the Mad'/11531, l='ServerLevel[world]', x=1441.50, y=81.00, z=3.55] died: Gowl the Mad was slain by Joshy_17
+[02Apr2025 04:40:08.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Joshy_17> ten yu que tienes mochila
+[02Apr2025 04:40:15.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joshy_17 has made the advancement [Let's Get To Work]
+[02Apr2025 04:40:22.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidCh01 has made the advancement [Let's Get To Work]
+[02Apr2025 04:40:44.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Joshy_17> zzzz
+[02Apr2025 04:41:01.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DavidCh01> te sabes el camino a casa?
+[02Apr2025 04:41:09.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Joshy_17> tengo marcador
+[02Apr2025 04:41:12.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DavidCh01> ya
+[02Apr2025 04:42:36.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidCh01 was slain by Deepling
+[02Apr2025 04:42:55.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidCh01 was impaled by Deepling
+[02Apr2025 04:43:03.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidCh01 was slain by Deepling
+[02Apr2025 04:43:09.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidCh01 was slain by Deepling
+[02Apr2025 04:43:38.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidCh01 was impaled by Deepling
+[02Apr2025 04:43:46.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidCh01 was slain by Deepling
+[02Apr2025 04:43:51.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joshy_17 was slain by Sea Serpent
+[02Apr2025 04:44:10.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidCh01 was impaled by Deepling
+[02Apr2025 04:44:21.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidCh01 was slain by Deepling
+[02Apr2025 04:44:24.519] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1471, y=61, z=91} BlockPos{x=1471, y=60, z=91}
+[02Apr2025 04:44:25.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joshy_17 was slain by Deepling
+[02Apr2025 04:45:19.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Joshy_17> aca hay dos daongeon
+[02Apr2025 04:46:21.808] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Oceanographer'/11882, l='ServerLevel[world]', x=1427.48, y=67.00, z=52.45] died, message: 'Oceanographer hit the ground too hard'
+[02Apr2025 04:46:48.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidCh01 has made the advancement [Barrel Booty]
+[02Apr2025 04:47:49.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Joshy_17 was slain by Vindicator
+[02Apr2025 04:48:42.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidCh01 was turned to stone by Gorgon
