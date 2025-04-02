@@ -1464,6 +1464,7 @@
       "redwood_forest": "2025-03-28 04:40:38 +0000",
       "lavender_field": "2025-03-28 05:13:49 +0000",
       "grassland": "2025-04-02 04:34:04 +0000",
+      "undergrowth": "2025-04-02 17:53:55 +0000",
       "crag": "2025-04-02 06:07:42 +0000"
     },
     "done": false
@@ -5532,6 +5533,30 @@
   "morevillagers:recipes/oceanography_table": {
     "criteria": {
       "has_barrel": "2025-04-02 06:17:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2025-04-02 17:54:57 +0000"
+    },
+    "done": false
+  },
+  "netheroverhaul:bruger_the_burger": {
+    "criteria": {
+      "bruger_the_burger": "2025-04-02 17:53:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-04-02 17:53:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-04-02 17:53:52 +0000"
     },
     "done": true
   },
