@@ -5139,6 +5139,30 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-04-02 05:26:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_hoe": "2025-04-02 05:38:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_hoe": "2025-04-02 05:38:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-04-02 05:45:07 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/diamond_katana": {
     "criteria": {
       "has_diamond": "2025-04-02 05:45:36 +0000"
@@ -5193,12 +5217,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_nugget_from_blasting": {
-    "criteria": {
-      "has_golden_hoe": "2025-04-02 05:38:08 +0000"
-    },
-    "done": true
-  },
   "spartanshields:recipes/diamond_basic_shield": {
     "criteria": {
       "has_diamond": "2025-04-02 05:45:36 +0000"
@@ -5223,12 +5241,6 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/decorations/fir_fence": {
-    "criteria": {
-      "has_planks": "2025-04-02 06:07:35 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2025-04-02 05:45:36 +0000"
@@ -5241,27 +5253,9 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/redstone/fir_button": {
-    "criteria": {
-      "has_planks": "2025-04-02 06:07:35 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/redstone/fir_door": {
-    "criteria": {
-      "has_planks": "2025-04-02 06:07:35 +0000"
-    },
-    "done": true
-  },
   "spartanweaponry:recipes/diamond_flanged_mace": {
     "criteria": {
       "has_diamond": "2025-04-02 05:45:36 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/building_blocks/fir_stairs": {
-    "criteria": {
-      "has_planks": "2025-04-02 06:07:35 +0000"
     },
     "done": true
   },
@@ -5295,36 +5289,6 @@
     },
     "done": true
   },
-  "betterskills:foraging_6": {
-    "criteria": {
-      "foraging_6_0": "2025-04-02 06:08:17 +0000"
-    },
-    "done": true
-  },
-  "betterskills:foraging_7": {
-    "criteria": {
-      "foraging_7_0": "2025-04-02 06:11:02 +0000"
-    },
-    "done": true
-  },
-  "betterskills:foraging_4": {
-    "criteria": {
-      "foraging_4_0": "2025-04-02 06:07:48 +0000"
-    },
-    "done": true
-  },
-  "betterskills:foraging_5": {
-    "criteria": {
-      "foraging_5_0": "2025-04-02 06:07:55 +0000"
-    },
-    "done": true
-  },
-  "betterskills:foraging_3": {
-    "criteria": {
-      "foraging_3_0": "2025-04-02 06:07:48 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2025-04-02 05:45:36 +0000"
@@ -5346,18 +5310,6 @@
   "spartanweaponry:recipes/diamond_longsword": {
     "criteria": {
       "has_diamond": "2025-04-02 05:45:36 +0000"
-    },
-    "done": true
-  },
-  "cataclysm:find_sunken_city": {
-    "criteria": {
-      "factory": "2025-04-02 05:57:08 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/building_blocks/fir_wood": {
-    "criteria": {
-      "has_log": "2025-04-02 06:07:31 +0000"
     },
     "done": true
   },
@@ -5391,12 +5343,6 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/building_blocks/fir_planks": {
-    "criteria": {
-      "has_logs": "2025-04-02 06:07:31 +0000"
-    },
-    "done": true
-  },
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2025-04-02 05:45:36 +0000"
@@ -5421,18 +5367,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_nugget_from_smelting": {
-    "criteria": {
-      "has_golden_hoe": "2025-04-02 05:38:08 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/building_blocks/fir_slab": {
-    "criteria": {
-      "has_planks": "2025-04-02 06:07:35 +0000"
-    },
-    "done": true
-  },
   "spartanweaponry:recipes/diamond_saber": {
     "criteria": {
       "has_diamond": "2025-04-02 05:45:36 +0000"
@@ -5448,12 +5382,6 @@
   "forbidden_arcanus:recipes/tools/diamond_blacksmith_gavel": {
     "criteria": {
       "has_gems/diamond": "2025-04-02 05:45:36 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/redstone/fir_fence_gate": {
-    "criteria": {
-      "has_planks": "2025-04-02 06:07:35 +0000"
     },
     "done": true
   },
@@ -5475,24 +5403,6 @@
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/seagull_steal": {
-    "criteria": {
-      "ex": "2025-04-02 05:26:48 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/decorations/fir_sign": {
-    "criteria": {
-      "has_fir_planks": "2025-04-02 06:07:35 +0000"
-    },
-    "done": true
-  },
-  "morevillagers:recipes/oceanography_table": {
-    "criteria": {
-      "has_barrel": "2025-04-02 06:17:13 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2025-04-02 05:45:36 +0000"
@@ -5502,18 +5412,6 @@
   "spartanweaponry:recipes/diamond_heavy_crossbow": {
     "criteria": {
       "has_diamond": "2025-04-02 05:45:36 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/redstone/fir_trapdoor": {
-    "criteria": {
-      "has_planks": "2025-04-02 06:07:35 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/redstone/fir_pressure_plate": {
-    "criteria": {
-      "has_planks": "2025-04-02 06:07:35 +0000"
     },
     "done": true
   },
@@ -5529,9 +5427,111 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/mojang_banner_pattern": {
+  "cataclysm:find_sunken_city": {
     "criteria": {
-      "has_enchanted_golden_apple": "2025-04-02 05:45:07 +0000"
+      "factory": "2025-04-02 05:57:08 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/fir_wood": {
+    "criteria": {
+      "has_log": "2025-04-02 06:07:31 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/fir_planks": {
+    "criteria": {
+      "has_logs": "2025-04-02 06:07:31 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/fir_fence": {
+    "criteria": {
+      "has_planks": "2025-04-02 06:07:35 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/fir_button": {
+    "criteria": {
+      "has_planks": "2025-04-02 06:07:35 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/fir_door": {
+    "criteria": {
+      "has_planks": "2025-04-02 06:07:35 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/fir_stairs": {
+    "criteria": {
+      "has_planks": "2025-04-02 06:07:35 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/fir_slab": {
+    "criteria": {
+      "has_planks": "2025-04-02 06:07:35 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/fir_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-04-02 06:07:35 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/fir_sign": {
+    "criteria": {
+      "has_fir_planks": "2025-04-02 06:07:35 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/fir_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-04-02 06:07:35 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/fir_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-04-02 06:07:35 +0000"
+    },
+    "done": true
+  },
+  "betterskills:foraging_4": {
+    "criteria": {
+      "foraging_4_0": "2025-04-02 06:07:48 +0000"
+    },
+    "done": true
+  },
+  "betterskills:foraging_3": {
+    "criteria": {
+      "foraging_3_0": "2025-04-02 06:07:48 +0000"
+    },
+    "done": true
+  },
+  "betterskills:foraging_5": {
+    "criteria": {
+      "foraging_5_0": "2025-04-02 06:07:55 +0000"
+    },
+    "done": true
+  },
+  "betterskills:foraging_6": {
+    "criteria": {
+      "foraging_6_0": "2025-04-02 06:08:17 +0000"
+    },
+    "done": true
+  },
+  "betterskills:foraging_7": {
+    "criteria": {
+      "foraging_7_0": "2025-04-02 06:11:02 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:recipes/oceanography_table": {
+    "criteria": {
+      "has_barrel": "2025-04-02 06:17:13 +0000"
     },
     "done": true
   },
