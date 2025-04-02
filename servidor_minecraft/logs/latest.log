@@ -1861,3 +1861,5 @@ com.google.gson.JsonSyntaxException: Unknown item 'iter_rpg:smooth_ice'
 [02Apr2025 04:00:46.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidCh01 joined the game
 [02Apr2025 04:00:52.578] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6125ms or 122 ticks behind
 [02Apr2025 04:01:54.469] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[02Apr2025 04:16:22.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DavidCh01: Set own game mode to Creative Mode]
+[02Apr2025 04:17:15.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DavidCh01: Set own game mode to Survival Mode]
