@@ -1493,3 +1493,6 @@ com.google.gson.JsonSyntaxException: Unknown item 'iter_rpg:smooth_ice'
 [03Apr2025 17:46:30.863] [Server thread/INFO] [ToolLeveling+/]: Loaded ForgeServerNetworkHelper for service ServerNetworkHelper
 [03Apr2025 17:46:30.865] [Server thread/INFO] [ToolLeveling+/]: Sending config 'command_config.json' to player 'DavidCh01'
 [03Apr2025 17:46:36.177] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5997ms or 119 ticks behind
+[03Apr2025 18:08:56.238] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DavidCh01 lost connection: Disconnected
+[03Apr2025 18:08:56.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidCh01 left the game
+[03Apr2025 18:14:54.237] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3717b72f[id=<null>,name=DavidCh01,properties={},legacy=false] (/127.98.72.223:47081) lost connection: Disconnected
