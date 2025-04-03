@@ -6113,15 +6113,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/lime_stained_glass_pane_from_glass_pane": {
+  "minecraft:recipes/misc/white_dye": {
     "criteria": {
-      "has_glass_pane": "2025-04-03 04:45:06 +0000"
+      "has_bone_meal": "2025-04-03 04:43:42 +0000"
     },
     "done": true
   },
-  "endrem:main/rogue_eye": {
+  "iceandfire:iceandfire/dragon_egg": {
     "criteria": {
-      "rogue_eye": "2025-04-03 04:45:16 +0000"
+      "egg": "2025-04-03 04:43:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-04-03 04:43:42 +0000"
     },
     "done": true
   },
@@ -6137,12 +6143,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/purple_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2025-04-03 04:45:06 +0000"
-    },
-    "done": true
-  },
   "valhelsia_furniture:recipes/decorations/green_dark_oak_chair": {
     "criteria": {
       "has_dark_oak_planks": "2025-04-03 04:44:33 +0000"
@@ -6152,24 +6152,6 @@
   "valhelsia_furniture:recipes/decorations/lime_upholstered_dark_oak_chair": {
     "criteria": {
       "has_dark_oak_planks": "2025-04-03 04:44:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/blue_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2025-04-03 04:45:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/white_dye": {
-    "criteria": {
-      "has_bone_meal": "2025-04-03 04:43:42 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/black_upholstered_dark_oak_stool": {
-    "criteria": {
-      "has_dark_oak_slab": "2025-04-03 04:46:12 +0000"
     },
     "done": true
   },
@@ -6185,21 +6167,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/light_gray_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2025-04-03 04:45:06 +0000"
-    },
-    "done": true
-  },
   "valhelsia_furniture:recipes/decorations/yellow_dark_oak_chair": {
     "criteria": {
       "has_dark_oak_planks": "2025-04-03 04:44:33 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/misc/cyan_dye_from_glowflower": {
-    "criteria": {
-      "has_flower": "2025-04-03 04:45:16 +0000"
     },
     "done": true
   },
@@ -6209,57 +6179,15 @@
     },
     "done": true
   },
-  "valhelsia_furniture:recipes/decorations/cyan_upholstered_dark_oak_stool": {
-    "criteria": {
-      "has_dark_oak_slab": "2025-04-03 04:46:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/light_blue_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2025-04-03 04:45:06 +0000"
-    },
-    "done": true
-  },
   "valhelsia_furniture:recipes/decorations/red_upholstered_dark_oak_chair": {
     "criteria": {
       "has_dark_oak_planks": "2025-04-03 04:44:33 +0000"
     },
     "done": true
   },
-  "valhelsia_furniture:recipes/decorations/orange_upholstered_dark_oak_stool": {
-    "criteria": {
-      "has_dark_oak_slab": "2025-04-03 04:46:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/tide_armor_trim_smithing_template": {
-    "criteria": {
-      "has_tide_armor_trim_smithing_template": "2025-04-03 04:45:16 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/dark_oak_stairs": {
     "criteria": {
       "has_planks": "2025-04-03 04:44:33 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/lime_upholstered_dark_oak_stool": {
-    "criteria": {
-      "has_dark_oak_slab": "2025-04-03 04:46:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/conduit": {
-    "criteria": {
-      "has_nautilus_shell": "2025-04-03 04:46:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/gray_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2025-04-03 04:45:06 +0000"
     },
     "done": true
   },
@@ -6278,18 +6206,6 @@
   "minecraft:recipes/redstone/dark_oak_door": {
     "criteria": {
       "has_planks": "2025-04-03 04:44:33 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/magenta_upholstered_dark_oak_stool": {
-    "criteria": {
-      "has_dark_oak_slab": "2025-04-03 04:46:12 +0000"
-    },
-    "done": true
-  },
-  "betterskills:foraging_8": {
-    "criteria": {
-      "foraging_8_0": "2025-04-03 05:19:32 +0000"
     },
     "done": true
   },
@@ -6323,39 +6239,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2025-04-03 04:45:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/tide_armor_trim_smithing_template_smithing_trim": {
-    "criteria": {
-      "has_smithing_trim_template": "2025-04-03 04:45:16 +0000"
-    },
-    "done": true
-  },
   "valhelsia_furniture:recipes/decorations/light_blue_dark_oak_chair": {
     "criteria": {
       "has_dark_oak_planks": "2025-04-03 04:44:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2025-04-03 04:45:06 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/gray_upholstered_dark_oak_stool": {
-    "criteria": {
-      "has_dark_oak_slab": "2025-04-03 04:46:12 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/dragon_egg": {
-    "criteria": {
-      "egg": "2025-04-03 04:43:42 +0000"
     },
     "done": true
   },
@@ -6374,12 +6260,6 @@
   "valhelsia_furniture:recipes/decorations/gray_upholstered_dark_oak_chair": {
     "criteria": {
       "has_dark_oak_planks": "2025-04-03 04:44:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/bone_block": {
-    "criteria": {
-      "has_bone_meal": "2025-04-03 04:43:42 +0000"
     },
     "done": true
   },
@@ -6413,18 +6293,6 @@
     },
     "done": true
   },
-  "valhelsia_furniture:recipes/decorations/brown_upholstered_dark_oak_stool": {
-    "criteria": {
-      "has_dark_oak_slab": "2025-04-03 04:46:12 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/pink_upholstered_dark_oak_stool": {
-    "criteria": {
-      "has_dark_oak_slab": "2025-04-03 04:46:12 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/dark_oak_button": {
     "criteria": {
       "has_planks": "2025-04-03 04:44:33 +0000"
@@ -6443,39 +6311,9 @@
     },
     "done": true
   },
-  "valhelsia_furniture:recipes/decorations/purple_upholstered_dark_oak_stool": {
-    "criteria": {
-      "has_dark_oak_slab": "2025-04-03 04:46:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/orange_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2025-04-03 04:45:06 +0000"
-    },
-    "done": true
-  },
   "valhelsia_furniture:recipes/decorations/pink_upholstered_dark_oak_chair": {
     "criteria": {
       "has_dark_oak_planks": "2025-04-03 04:44:33 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/green_upholstered_dark_oak_stool": {
-    "criteria": {
-      "has_dark_oak_slab": "2025-04-03 04:46:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/green_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2025-04-03 04:45:06 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/light_gray_upholstered_dark_oak_stool": {
-    "criteria": {
-      "has_dark_oak_slab": "2025-04-03 04:46:12 +0000"
     },
     "done": true
   },
@@ -6485,21 +6323,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/pink_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2025-04-03 04:45:06 +0000"
-    },
-    "done": true
-  },
   "valhelsia_furniture:recipes/decorations/lime_dark_oak_chair": {
     "criteria": {
       "has_dark_oak_planks": "2025-04-03 04:44:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2025-04-03 04:45:06 +0000"
     },
     "done": true
   },
@@ -6521,12 +6347,6 @@
     },
     "done": true
   },
-  "valhelsia_furniture:recipes/decorations/blue_upholstered_dark_oak_stool": {
-    "criteria": {
-      "has_dark_oak_slab": "2025-04-03 04:46:12 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/dark_oak_slab": {
     "criteria": {
       "has_planks": "2025-04-03 04:44:33 +0000"
@@ -6539,39 +6359,15 @@
     },
     "done": true
   },
-  "valhelsia_furniture:recipes/decorations/yellow_upholstered_dark_oak_stool": {
-    "criteria": {
-      "has_dark_oak_slab": "2025-04-03 04:46:12 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/tide_trident": {
-    "criteria": {
-      "has_item": "2025-04-03 04:46:05 +0000"
-    },
-    "done": true
-  },
   "valhelsia_furniture:recipes/decorations/light_gray_upholstered_dark_oak_chair": {
     "criteria": {
       "has_dark_oak_planks": "2025-04-03 04:44:33 +0000"
     },
     "done": true
   },
-  "valhelsia_furniture:recipes/decorations/red_upholstered_dark_oak_stool": {
-    "criteria": {
-      "has_dark_oak_slab": "2025-04-03 04:46:12 +0000"
-    },
-    "done": true
-  },
   "valhelsia_furniture:recipes/decorations/black_dark_oak_chair": {
     "criteria": {
       "has_dark_oak_planks": "2025-04-03 04:44:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2025-04-03 04:45:06 +0000"
     },
     "done": true
   },
@@ -6593,9 +6389,87 @@
     },
     "done": true
   },
-  "endrem:main/root": {
+  "valhelsia_furniture:recipes/decorations/pink_dark_oak_chair": {
     "criteria": {
-      "rogue_eye": "2025-04-03 04:45:16 +0000"
+      "has_dark_oak_planks": "2025-04-03 04:44:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-04-03 04:45:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-04-03 04:45:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-04-03 04:45:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-04-03 04:45:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-04-03 04:45:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-04-03 04:45:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-04-03 04:45:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-04-03 04:45:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-04-03 04:45:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-04-03 04:45:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-04-03 04:45:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-04-03 04:45:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-04-03 04:45:06 +0000"
     },
     "done": true
   },
@@ -6617,9 +6491,39 @@
     },
     "done": true
   },
-  "valhelsia_furniture:recipes/decorations/light_blue_upholstered_dark_oak_stool": {
+  "endrem:main/rogue_eye": {
     "criteria": {
-      "has_dark_oak_slab": "2025-04-03 04:46:12 +0000"
+      "rogue_eye": "2025-04-03 04:45:16 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/cyan_dye_from_glowflower": {
+    "criteria": {
+      "has_flower": "2025-04-03 04:45:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/tide_armor_trim_smithing_template": {
+    "criteria": {
+      "has_tide_armor_trim_smithing_template": "2025-04-03 04:45:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/tide_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-04-03 04:45:16 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/root": {
+    "criteria": {
+      "rogue_eye": "2025-04-03 04:45:16 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_trident": {
+    "criteria": {
+      "has_item": "2025-04-03 04:46:05 +0000"
     },
     "done": true
   },
@@ -6629,15 +6533,117 @@
     },
     "done": true
   },
-  "valhelsia_furniture:recipes/decorations/pink_dark_oak_chair": {
+  "valhelsia_furniture:recipes/decorations/black_upholstered_dark_oak_stool": {
     "criteria": {
-      "has_dark_oak_planks": "2025-04-03 04:44:33 +0000"
+      "has_dark_oak_slab": "2025-04-03 04:46:12 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/cyan_upholstered_dark_oak_stool": {
+    "criteria": {
+      "has_dark_oak_slab": "2025-04-03 04:46:12 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/orange_upholstered_dark_oak_stool": {
+    "criteria": {
+      "has_dark_oak_slab": "2025-04-03 04:46:12 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/lime_upholstered_dark_oak_stool": {
+    "criteria": {
+      "has_dark_oak_slab": "2025-04-03 04:46:12 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/magenta_upholstered_dark_oak_stool": {
+    "criteria": {
+      "has_dark_oak_slab": "2025-04-03 04:46:12 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/gray_upholstered_dark_oak_stool": {
+    "criteria": {
+      "has_dark_oak_slab": "2025-04-03 04:46:12 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/brown_upholstered_dark_oak_stool": {
+    "criteria": {
+      "has_dark_oak_slab": "2025-04-03 04:46:12 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/pink_upholstered_dark_oak_stool": {
+    "criteria": {
+      "has_dark_oak_slab": "2025-04-03 04:46:12 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/purple_upholstered_dark_oak_stool": {
+    "criteria": {
+      "has_dark_oak_slab": "2025-04-03 04:46:12 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/green_upholstered_dark_oak_stool": {
+    "criteria": {
+      "has_dark_oak_slab": "2025-04-03 04:46:12 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_gray_upholstered_dark_oak_stool": {
+    "criteria": {
+      "has_dark_oak_slab": "2025-04-03 04:46:12 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/blue_upholstered_dark_oak_stool": {
+    "criteria": {
+      "has_dark_oak_slab": "2025-04-03 04:46:12 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/yellow_upholstered_dark_oak_stool": {
+    "criteria": {
+      "has_dark_oak_slab": "2025-04-03 04:46:12 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/red_upholstered_dark_oak_stool": {
+    "criteria": {
+      "has_dark_oak_slab": "2025-04-03 04:46:12 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_blue_upholstered_dark_oak_stool": {
+    "criteria": {
+      "has_dark_oak_slab": "2025-04-03 04:46:12 +0000"
     },
     "done": true
   },
   "valhelsia_furniture:recipes/decorations/dark_oak_stool": {
     "criteria": {
       "has_dark_oak_slab": "2025-04-03 04:46:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_shell": "2025-04-03 04:46:36 +0000"
+    },
+    "done": true
+  },
+  "betterskills:foraging_8": {
+    "criteria": {
+      "foraging_8_0": "2025-04-03 05:19:32 +0000"
+    },
+    "done": true
+  },
+  "toolleveling:recipes/tool_leveling_table": {
+    "criteria": {
+      "has_enchanting_table": "2025-04-03 17:46:30 +0000"
     },
     "done": true
   },
