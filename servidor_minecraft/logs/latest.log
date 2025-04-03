@@ -1453,3 +1453,5 @@ com.google.gson.JsonSyntaxException: Unknown item 'iter_rpg:smooth_ice'
 [03Apr2025 05:30:54.297] [Server thread/WARN] [net.minecraft.world.level.block.entity.SignBlockEntity/]: Player DavidCh01 just tried to change non-editable sign
 [03Apr2025 05:37:27.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DavidCh01: Set own game mode to Survival Mode]
 [03Apr2025 05:44:40.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidCh01 was slain by Orc Savage with Sword
+[03Apr2025 06:01:12.595] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DavidCh01 lost connection: Disconnected
+[03Apr2025 06:01:12.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidCh01 left the game
