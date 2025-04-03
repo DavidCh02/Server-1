@@ -6286,6 +6286,12 @@
     },
     "done": true
   },
+  "betterskills:foraging_8": {
+    "criteria": {
+      "foraging_8_0": "2025-04-03 05:19:32 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/purple_upholstered_dark_oak_chair": {
     "criteria": {
       "has_dark_oak_planks": "2025-04-03 04:44:33 +0000"
