@@ -1451,3 +1451,4 @@ com.google.gson.JsonSyntaxException: Unknown item 'iter_rpg:smooth_ice'
 [03Apr2025 05:19:32.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidCh01 has made the advancement [Foraging 8]
 [03Apr2025 05:28:38.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DavidCh01: Set own game mode to Creative Mode]
 [03Apr2025 05:30:54.297] [Server thread/WARN] [net.minecraft.world.level.block.entity.SignBlockEntity/]: Player DavidCh01 just tried to change non-editable sign
+[03Apr2025 05:37:27.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DavidCh01: Set own game mode to Survival Mode]
