@@ -4776,6 +4776,7 @@
   "morevillagers:all_workstations_get": {
     "criteria": {
       "barrel": "2025-04-02 06:17:13 +0000",
+      "fletchingtable": "2025-04-04 03:39:13 +0000",
       "lectern": "2025-04-02 04:40:22 +0000",
       "composter": "2025-04-03 05:34:53 +0000"
     },
