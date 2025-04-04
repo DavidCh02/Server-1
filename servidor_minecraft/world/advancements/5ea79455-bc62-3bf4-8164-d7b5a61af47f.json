@@ -1463,6 +1463,7 @@
       "coniferous_forest": "2025-03-28 06:16:28 +0000",
       "redwood_forest": "2025-03-28 04:40:38 +0000",
       "lavender_field": "2025-03-28 05:13:49 +0000",
+      "fir_clearing": "2025-04-04 03:53:47 +0000",
       "grassland": "2025-04-02 04:34:04 +0000",
       "undergrowth": "2025-04-02 17:53:55 +0000",
       "crag": "2025-04-02 06:07:42 +0000"
@@ -6662,9 +6663,16 @@
   },
   "morevillagers:all_professions_traded": {
     "criteria": {
-      "fletcher": "2025-04-04 03:49:28 +0000"
+      "fletcher": "2025-04-04 03:49:28 +0000",
+      "librarian": "2025-04-04 04:02:53 +0000"
     },
     "done": false
+  },
+  "betterskills:foraging_9": {
+    "criteria": {
+      "foraging_9_0": "2025-04-04 03:52:48 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
     "criteria": {
@@ -6675,6 +6683,12 @@
   "morevillagers:first_trade": {
     "criteria": {
       "villagertrade": "2025-04-04 03:49:28 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:root": {
+    "criteria": {
+      "has_handle": "2025-04-04 04:06:51 +0000"
     },
     "done": true
   },
