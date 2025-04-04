@@ -6660,9 +6660,21 @@
     },
     "done": true
   },
+  "morevillagers:all_professions_traded": {
+    "criteria": {
+      "fletcher": "2025-04-04 03:49:28 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-04-04 03:11:39 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:first_trade": {
+    "criteria": {
+      "villagertrade": "2025-04-04 03:49:28 +0000"
     },
     "done": true
   },
@@ -6687,6 +6699,12 @@
   "iceandfire:recipes/building_blocks/dragonforge_lightning_brick": {
     "criteria": {
       "has_item": "2025-04-04 03:11:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-04-04 03:49:28 +0000"
     },
     "done": true
   },

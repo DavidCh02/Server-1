@@ -1461,3 +1461,17 @@ com.google.gson.JsonSyntaxException: Unknown item 'iter_rpg:smooth_ice'
 [04Apr2025 03:07:30.915] [Server thread/INFO] [ToolLeveling+/]: Loaded ForgeServerNetworkHelper for service ServerNetworkHelper
 [04Apr2025 03:07:30.916] [Server thread/INFO] [ToolLeveling+/]: Sending config 'command_config.json' to player 'DavidCh01'
 [04Apr2025 03:07:35.074] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4752ms or 95 ticks behind
+[04Apr2025 03:49:28.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidCh01 has made the advancement [What a Deal!]
+[04Apr2025 03:49:28.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidCh01 has made the advancement [First Trade]
+[04Apr2025 03:52:00.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DavidCh01: Set own game mode to Creative Mode]
+[04Apr2025 03:52:08.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DavidCh01: Set own game mode to Survival Mode]
+[04Apr2025 03:52:48.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidCh01 has made the advancement [Foraging 9]
+[04Apr2025 03:53:44.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DavidCh01: Set own game mode to Creative Mode]
+[04Apr2025 03:54:01.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DavidCh01: Set own game mode to Survival Mode]
+[04Apr2025 03:54:10.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidCh01 fell from a high place
+[04Apr2025 03:55:13.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DavidCh01: Set own game mode to Creative Mode]
+[04Apr2025 03:55:21.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DavidCh01: Set own game mode to Survival Mode]
+[04Apr2025 03:55:30.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DavidCh01: Set own game mode to Creative Mode]
+[04Apr2025 03:55:31.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DavidCh01: Set own game mode to Survival Mode]
+[04Apr2025 03:55:45.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DavidCh01: Set own game mode to Creative Mode]
+[04Apr2025 03:55:59.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DavidCh01: Set own game mode to Survival Mode]
