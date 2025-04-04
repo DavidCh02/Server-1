@@ -6734,5 +6734,11 @@
     },
     "done": true
   },
+  "spartanweaponry:longbow": {
+    "criteria": {
+      "has_longbow": "2025-04-04 04:12:19 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
