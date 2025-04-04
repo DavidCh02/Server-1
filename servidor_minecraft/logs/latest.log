@@ -1480,3 +1480,5 @@ com.google.gson.JsonSyntaxException: Unknown item 'iter_rpg:smooth_ice'
 [04Apr2025 04:07:13.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DavidCh01: Set own game mode to Spectator Mode]
 [04Apr2025 04:07:35.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DavidCh01: Set own game mode to Survival Mode]
 [04Apr2025 04:12:19.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidCh01 has made the advancement [Take Aim, Chaps!]
+[04Apr2025 04:33:27.307] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DavidCh01 lost connection: Disconnected
+[04Apr2025 04:33:27.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidCh01 left the game
