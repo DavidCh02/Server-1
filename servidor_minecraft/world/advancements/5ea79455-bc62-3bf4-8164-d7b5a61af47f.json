@@ -6661,34 +6661,9 @@
     },
     "done": true
   },
-  "morevillagers:all_professions_traded": {
-    "criteria": {
-      "fletcher": "2025-04-04 03:49:28 +0000",
-      "librarian": "2025-04-04 04:02:53 +0000"
-    },
-    "done": false
-  },
-  "betterskills:foraging_9": {
-    "criteria": {
-      "foraging_9_0": "2025-04-04 03:52:48 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-04-04 03:11:39 +0000"
-    },
-    "done": true
-  },
-  "morevillagers:first_trade": {
-    "criteria": {
-      "villagertrade": "2025-04-04 03:49:28 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:root": {
-    "criteria": {
-      "has_handle": "2025-04-04 04:06:51 +0000"
     },
     "done": true
   },
@@ -6716,12 +6691,6 @@
     },
     "done": true
   },
-  "minecraft:adventure/trade": {
-    "criteria": {
-      "traded": "2025-04-04 03:49:28 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-04-04 03:11:39 +0000"
@@ -6731,6 +6700,37 @@
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-04-04 03:11:39 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:all_professions_traded": {
+    "criteria": {
+      "fletcher": "2025-04-04 03:49:28 +0000",
+      "librarian": "2025-04-04 04:02:53 +0000"
+    },
+    "done": false
+  },
+  "morevillagers:first_trade": {
+    "criteria": {
+      "villagertrade": "2025-04-04 03:49:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-04-04 03:49:28 +0000"
+    },
+    "done": true
+  },
+  "betterskills:foraging_9": {
+    "criteria": {
+      "foraging_9_0": "2025-04-04 03:52:48 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:root": {
+    "criteria": {
+      "has_handle": "2025-04-04 04:06:51 +0000"
     },
     "done": true
   },
