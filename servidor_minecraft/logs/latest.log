@@ -1476,3 +1476,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'iter_rpg:smooth_ice'
 [07Apr2025 22:32:50.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DavidCh01: Set own game mode to Survival Mode]
 [07Apr2025 22:32:54.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DavidCh01: Set own game mode to Creative Mode]
 [07Apr2025 22:33:05.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DavidCh01: Set own game mode to Survival Mode]
+[07Apr2025 22:46:16.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DavidCh01: Set own game mode to Creative Mode]
+[07Apr2025 22:46:22.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DavidCh01: Set own game mode to Survival Mode]
+[07Apr2025 22:49:18.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidCh01 has made the advancement [Take Aim]
+[07Apr2025 22:50:05.603] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/5905, l='ServerLevel[world]', x=1221.49, y=69.00, z=-1207.71] died, message: 'Librarian was shot by DavidCh01'
+[07Apr2025 22:50:05.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidCh01 has made the advancement [Bad Deal]
