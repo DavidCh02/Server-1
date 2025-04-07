@@ -1493,3 +1493,13 @@ com.google.gson.JsonSyntaxException: Unknown item 'iter_rpg:smooth_ice'
 [07Apr2025 23:39:05.086] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/199, l='ServerLevel[world]', x=1262.70, y=68.52, z=-1175.10] died, message: 'Villager was squished too much'
 [07Apr2025 23:39:28.985] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/216, l='ServerLevel[world]', x=1262.70, y=69.01, z=-1175.22] died, message: 'Villager was squished too much'
 [07Apr2025 23:40:08.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidCh01 was slain by Stone Golem
+[07Apr2025 23:42:09.889] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/6784, l='ServerLevel[world]', x=1262.30, y=68.29, z=-1175.15] died, message: 'Villager was squished too much'
+[07Apr2025 23:42:22.327] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:weight'
+[07Apr2025 23:42:22.328] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:impact'
+[07Apr2025 23:42:22.328] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:armor_negation'
+[07Apr2025 23:42:22.329] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:max_strikes'
+[07Apr2025 23:42:22.329] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:stun_armor'
+[07Apr2025 23:42:22.329] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'epicfight:offhand_attack_speed'
+[07Apr2025 23:47:11.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidCh01 was doomed to fall by Spiderling
+[07Apr2025 23:48:41.946] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/10293, l='ServerLevel[world]', x=1242.59, y=47.00, z=-1074.13] died, message: 'Librarian was shot by DavidCh01'
+[07Apr2025 23:51:08.295] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/11248, l='ServerLevel[world]', x=1275.50, y=69.00, z=-1199.50] died, message: 'Librarian went up in flames'
