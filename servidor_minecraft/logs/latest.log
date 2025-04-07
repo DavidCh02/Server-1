@@ -1472,3 +1472,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'iter_rpg:smooth_ice'
 [07Apr2025 22:22:52.734] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5194ms or 103 ticks behind
 [07Apr2025 22:27:21.591] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
 [07Apr2025 22:30:20.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidCh01 has made the advancement [Foraging 10]
+[07Apr2025 22:31:59.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DavidCh01: Set own game mode to Creative Mode]
+[07Apr2025 22:32:50.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DavidCh01: Set own game mode to Survival Mode]
+[07Apr2025 22:32:54.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DavidCh01: Set own game mode to Creative Mode]
+[07Apr2025 22:33:05.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DavidCh01: Set own game mode to Survival Mode]

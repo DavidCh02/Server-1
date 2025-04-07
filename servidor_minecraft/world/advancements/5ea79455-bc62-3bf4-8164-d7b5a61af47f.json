@@ -6740,5 +6740,17 @@
     },
     "done": true
   },
+  "betterskills:foraging_10": {
+    "criteria": {
+      "foraging_10_0": "2025-04-07 22:30:20 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:recipes/woodworking_table": {
+    "criteria": {
+      "has_leaves": "2025-04-07 22:31:02 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
