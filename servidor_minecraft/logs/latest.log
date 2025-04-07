@@ -1483,3 +1483,5 @@ com.google.gson.JsonSyntaxException: Unknown item 'iter_rpg:smooth_ice'
 [07Apr2025 23:07:02.989] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7259ms or 145 ticks behind
 [07Apr2025 23:07:18.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DavidCh01: Set own game mode to Creative Mode]
 [07Apr2025 23:07:20.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DavidCh01: Set own game mode to Survival Mode]
+[07Apr2025 23:20:59.986] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/206, l='ServerLevel[world]', x=1262.50, y=69.65, z=-1175.70] died, message: 'Villager was squished too much'
+[07Apr2025 23:30:11.538] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/220, l='ServerLevel[world]', x=1262.70, y=68.18, z=-1175.70] died, message: 'Villager was squished too much'
