@@ -7247,21 +7247,45 @@
     },
     "done": true
   },
-  "naturalist:recipes/food/cake": {
+  "spartanweaponry:katana": {
     "criteria": {
-      "has_the_recipe": "2025-04-08 16:58:50 +0000"
+      "has_katana": "2025-04-08 16:40:57 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/emerald": {
+  "travelersbackpack:recipes/misc/redstone_smithing": {
     "criteria": {
-      "has_emerald_block": "2025-04-08 18:06:44 +0000"
+      "has_redstone": "2025-04-08 16:43:00 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_cod_from_smoking": {
+  "travelersbackpack:recipes/misc/cow_smithing": {
     "criteria": {
-      "has_cod": "2025-04-08 16:58:50 +0000"
+      "has_cow": "2025-04-08 16:43:19 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/cake_smithing": {
+    "criteria": {
+      "has_cake": "2025-04-08 16:43:45 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:flanged_mace": {
+    "criteria": {
+      "has_flanged_mace": "2025-04-08 16:43:51 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/gold_smithing": {
+    "criteria": {
+      "has_gold": "2025-04-08 16:45:42 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/creeper_smithing": {
+    "criteria": {
+      "has_creeper": "2025-04-08 16:47:29 +0000"
     },
     "done": true
   },
@@ -7283,39 +7307,9 @@
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/cake": {
-    "criteria": {
-      "has_egg": "2025-04-08 16:58:50 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/gold_smithing": {
-    "criteria": {
-      "has_gold": "2025-04-08 16:45:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cake": {
-    "criteria": {
-      "has_egg": "2025-04-08 16:58:50 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:katana": {
-    "criteria": {
-      "has_katana": "2025-04-08 16:40:57 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/chainmail_boots": {
     "criteria": {
       "has_item": "2025-04-08 16:56:26 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/creeper_smithing": {
-    "criteria": {
-      "has_creeper": "2025-04-08 16:47:29 +0000"
     },
     "done": true
   },
@@ -7325,9 +7319,33 @@
     },
     "done": true
   },
-  "spartanweaponry:flanged_mace": {
+  "travelersbackpack:recipes/misc/skeleton_smithing": {
     "criteria": {
-      "has_flanged_mace": "2025-04-08 16:43:51 +0000"
+      "has_skeleton": "2025-04-08 16:57:20 +0000"
+    },
+    "done": true
+  },
+  "naturalist:recipes/food/cake": {
+    "criteria": {
+      "has_the_recipe": "2025-04-08 16:58:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-04-08 16:58:50 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/cake": {
+    "criteria": {
+      "has_egg": "2025-04-08 16:58:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-04-08 16:58:50 +0000"
     },
     "done": true
   },
@@ -7337,33 +7355,9 @@
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/skeleton_smithing": {
-    "criteria": {
-      "has_skeleton": "2025-04-08 16:57:20 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
     "criteria": {
       "has_cod": "2025-04-08 16:58:50 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/cake_smithing": {
-    "criteria": {
-      "has_cake": "2025-04-08 16:43:45 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/diamond_hippogryph_armor": {
-    "criteria": {
-      "has_item": "2025-04-08 18:05:04 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/cow_smithing": {
-    "criteria": {
-      "has_cow": "2025-04-08 16:43:19 +0000"
     },
     "done": true
   },
@@ -7373,9 +7367,21 @@
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/redstone_smithing": {
+  "iceandfire:recipes/combat/diamond_hippogryph_armor": {
     "criteria": {
-      "has_redstone": "2025-04-08 16:43:00 +0000"
+      "has_item": "2025-04-08 18:05:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2025-04-08 18:06:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_glow_ink_sac": "2025-04-08 19:22:11 +0000"
     },
     "done": true
   },
