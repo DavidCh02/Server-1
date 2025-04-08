@@ -1479,3 +1479,6 @@ com.google.gson.JsonSyntaxException: Unknown item 'iter_rpg:smooth_ice'
 [08Apr2025 16:34:56.161] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2143ms or 42 ticks behind
 [08Apr2025 16:35:15.909] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4791ms or 95 ticks behind
 [08Apr2025 16:35:23.605] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: OtterEntity['Otter'/1102, l='ServerLevel[world]', x=1362.95, y=62.01, z=-1392.07]
+[08Apr2025 16:40:57.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidCh01 has made the advancement [Blade of the Samurai]
+[08Apr2025 16:43:51.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidCh01 has made the advancement [Smash And Bash!]
+[08Apr2025 16:48:21.079] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/281, l='ServerLevel[world]', x=1262.70, y=68.03, z=-1175.12] died, message: 'Villager was squished too much'
