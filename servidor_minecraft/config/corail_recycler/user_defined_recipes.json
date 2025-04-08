@@ -1,18 +1,15 @@
 [
   {
-    "inputItem": "spartanweaponry:leather_longbow:1",
+    "inputItem": "travelersbackpack:redstone:1",
     "outputItems": [
-      "spartanweaponry:handle:1",
-      "minecraft:stick:2",
-      "minecraft:leather:2",
-      "minecraft:string:3"
+      "minecraft:redstone:8",
+      "travelersbackpack:standard:1"
     ]
   },
   {
-    "inputItem": "travelersbackpack:enderman:1",
+    "inputItem": "minecraft:chainmail_leggings:1",
     "outputItems": [
-      "minecraft:ender_pearl:4",
-      "travelersbackpack:standard:1"
+      "minecraft:chain:7"
     ]
   },
   {
@@ -25,12 +22,21 @@
     ]
   },
   {
-    "inputItem": "spartanweaponry:iron_longbow:1",
+    "inputItem": "spartanweaponry:leather_longbow:1",
     "outputItems": [
       "spartanweaponry:handle:1",
       "minecraft:stick:2",
-      "minecraft:iron_ingot:2",
+      "minecraft:leather:2",
       "minecraft:string:3"
+    ]
+  },
+  {
+    "inputItem": "travelersbackpack:horse:1",
+    "outputItems": [
+      "minecraft:leather:4",
+      "minecraft:apple:1",
+      "minecraft:wheat:3",
+      "travelersbackpack:standard:1"
     ]
   },
   {
@@ -41,9 +47,107 @@
     ]
   },
   {
+    "inputItem": "minecraft:chainmail_helmet:1",
+    "outputItems": [
+      "minecraft:string:2",
+      "minecraft:iron_ingot:3"
+    ]
+  },
+  {
+    "inputItem": "travelersbackpack:cake:1",
+    "outputItems": [
+      "minecraft:milk_bucket:1",
+      "minecraft:egg:1",
+      "minecraft:milk_bucket:1",
+      "minecraft:sugar:2",
+      "travelersbackpack:standard:1",
+      "minecraft:wheat:3"
+    ]
+  },
+  {
+    "inputItem": "travelersbackpack:gold:1",
+    "outputItems": [
+      "minecraft:gold_ingot:4",
+      "travelersbackpack:standard:1"
+    ]
+  },
+  {
+    "inputItem": "travelersbackpack:creeper:1",
+    "outputItems": [
+      "minecraft:gunpowder:4",
+      "minecraft:creeper_head:1",
+      "travelersbackpack:standard:1",
+      "minecraft:tnt:3"
+    ]
+  },
+  {
+    "inputItem": "travelersbackpack:cow:1",
+    "outputItems": [
+      "minecraft:beef:4",
+      "minecraft:leather:3",
+      "travelersbackpack:standard:1",
+      "minecraft:milk_bucket:1"
+    ]
+  },
+  {
+    "inputItem": "minecraft:chainmail_boots:1",
+    "outputItems": [
+      "minecraft:string:2",
+      "minecraft:iron_ingot:2"
+    ]
+  },
+  {
+    "inputItem": "travelersbackpack:enderman:1",
+    "outputItems": [
+      "minecraft:ender_pearl:4",
+      "travelersbackpack:standard:1"
+    ]
+  },
+  {
+    "inputItem": "travelersbackpack:standard:1",
+    "outputItems": [
+      "minecraft:leather:4",
+      "minecraft:gold_ingot:1",
+      "travelersbackpack:backpack_tank:2",
+      "minecraft:chest:1",
+      "travelersbackpack:white_sleeping_bag:1"
+    ]
+  },
+  {
+    "inputItem": "minecraft:chainmail_chestplate:1",
+    "outputItems": [
+      "minecraft:chain:8"
+    ]
+  },
+  {
+    "inputItem": "travelersbackpack:ocelot:1",
+    "outputItems": [
+      "minecraft:cod:4",
+      "travelersbackpack:standard:1"
+    ]
+  },
+  {
     "inputItem": "minecraft:bone:2",
     "outputItems": [
       "orcz:squigs_claws:1"
+    ]
+  },
+  {
+    "inputItem": "travelersbackpack:skeleton:1",
+    "outputItems": [
+      "minecraft:bone:4",
+      "minecraft:arrow:3",
+      "travelersbackpack:standard:1",
+      "minecraft:bow:1"
+    ]
+  },
+  {
+    "inputItem": "spartanweaponry:iron_longbow:1",
+    "outputItems": [
+      "spartanweaponry:handle:1",
+      "minecraft:stick:2",
+      "minecraft:iron_ingot:2",
+      "minecraft:string:3"
     ]
   }
 ]

@@ -7242,9 +7242,21 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/gold_smithing": {
+    "criteria": {
+      "has_gold": "2025-04-08 16:45:42 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:katana": {
     "criteria": {
       "has_katana": "2025-04-08 16:40:57 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/creeper_smithing": {
+    "criteria": {
+      "has_creeper": "2025-04-08 16:47:29 +0000"
     },
     "done": true
   },

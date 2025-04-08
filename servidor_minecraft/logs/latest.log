@@ -1482,3 +1482,4 @@ com.google.gson.JsonSyntaxException: Unknown item 'iter_rpg:smooth_ice'
 [08Apr2025 16:40:57.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidCh01 has made the advancement [Blade of the Samurai]
 [08Apr2025 16:43:51.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidCh01 has made the advancement [Smash And Bash!]
 [08Apr2025 16:48:21.079] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/281, l='ServerLevel[world]', x=1262.70, y=68.03, z=-1175.12] died, message: 'Villager was squished too much'
+[08Apr2025 16:53:58.132] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/282, l='ServerLevel[world]', x=1262.30, y=69.48, z=-1175.30] died, message: 'Villager was squished too much'
