@@ -1,5 +1,12 @@
 [
   {
+    "inputItem": "travelersbackpack:enderman:1",
+    "outputItems": [
+      "minecraft:ender_pearl:4",
+      "travelersbackpack:standard:1"
+    ]
+  },
+  {
     "inputItem": "minecraft:bone:2",
     "outputItems": [
       "orcz:squigs_claws:1"
