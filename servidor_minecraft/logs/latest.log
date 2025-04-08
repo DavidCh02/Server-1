@@ -1519,3 +1519,7 @@ Pos: BlockPos{x=1257, y=69, z=-1200}
 [08Apr2025 04:02:12.130] [Server thread/ERROR] [net.minecraft.world.entity.ai.village.poi.PoiSection/]: POI data mismatch: never registered at BlockPos{x=1262, y=66, z=-1198}
 [08Apr2025 04:02:14.693] [Server thread/ERROR] [net.minecraft.world.entity.ai.village.poi.PoiSection/]: POI data mismatch: never registered at BlockPos{x=1262, y=66, z=-1204}
 [08Apr2025 04:02:15.724] [Server thread/ERROR] [net.minecraft.world.entity.ai.village.poi.PoiSection/]: POI data mismatch: never registered at BlockPos{x=1261, y=66, z=-1198}
+[08Apr2025 04:06:48.010] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/211, l='ServerLevel[world]', x=1262.30, y=69.51, z=-1175.10] died, message: 'Villager was squished too much'
+[08Apr2025 04:07:03.269] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/236, l='ServerLevel[world]', x=1262.70, y=69.83, z=-1175.11] died, message: 'Villager was squished too much'
+[08Apr2025 04:13:06.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DavidCh01: Set own game mode to Spectator Mode]
+[08Apr2025 04:13:08.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DavidCh01: Set own game mode to Survival Mode]
