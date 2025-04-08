@@ -7144,6 +7144,12 @@
     },
     "done": true
   },
+  "iter_rpg:economy": {
+    "criteria": {
+      "economy_0": "2025-04-08 05:29:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/leather": {
     "criteria": {
       "has_rabbit_hide": "2025-04-08 05:04:18 +0000"
@@ -7153,6 +7159,12 @@
   "betterskills:combat_6": {
     "criteria": {
       "combat_6_0": "2025-04-08 04:58:26 +0000"
+    },
+    "done": true
+  },
+  "betterskills:combat_7": {
+    "criteria": {
+      "combat_7_0": "2025-04-08 05:27:51 +0000"
     },
     "done": true
   },
