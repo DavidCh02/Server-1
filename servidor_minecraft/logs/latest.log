@@ -1503,3 +1503,4 @@ com.google.gson.JsonSyntaxException: Unknown item 'iter_rpg:smooth_ice'
 [07Apr2025 23:47:11.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidCh01 was doomed to fall by Spiderling
 [07Apr2025 23:48:41.946] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/10293, l='ServerLevel[world]', x=1242.59, y=47.00, z=-1074.13] died, message: 'Librarian was shot by DavidCh01'
 [07Apr2025 23:51:08.295] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/11248, l='ServerLevel[world]', x=1275.50, y=69.00, z=-1199.50] died, message: 'Librarian went up in flames'
+[07Apr2025 23:54:09.145] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/12154, l='ServerLevel[world]', x=1275.50, y=69.00, z=-1199.50] died, message: 'Librarian went up in flames'
