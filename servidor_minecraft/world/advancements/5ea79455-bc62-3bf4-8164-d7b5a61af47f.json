@@ -6709,6 +6709,7 @@
   },
   "morevillagers:all_professions_traded": {
     "criteria": {
+      "cleric": "2025-04-08 06:06:14 +0000",
       "fletcher": "2025-04-04 03:49:28 +0000",
       "librarian": "2025-04-04 04:02:53 +0000"
     },
@@ -7163,9 +7164,21 @@
     },
     "done": true
   },
+  "spartanweaponry:greatsword": {
+    "criteria": {
+      "has_greatsword": "2025-04-08 06:08:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/leather": {
     "criteria": {
       "has_rabbit_hide": "2025-04-08 05:04:18 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/ocelot_smithing": {
+    "criteria": {
+      "has_ocelot": "2025-04-08 06:08:05 +0000"
     },
     "done": true
   },
