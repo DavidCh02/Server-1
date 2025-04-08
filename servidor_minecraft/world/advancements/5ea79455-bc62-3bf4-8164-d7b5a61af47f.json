@@ -6947,6 +6947,48 @@
     },
     "done": true
   },
+  "betterskills:combat_4": {
+    "criteria": {
+      "combat_4_0": "2025-04-08 02:06:04 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/horse_smithing": {
+    "criteria": {
+      "has_horse": "2025-04-08 02:11:23 +0000"
+    },
+    "done": true
+  },
+  "betterskills:mining_11": {
+    "criteria": {
+      "mining_11_0": "2025-04-08 02:21:01 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/misc/stellarite_block_from_stellarite_piece": {
+    "criteria": {
+      "has_stellarite_piece": "2025-04-08 02:22:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2025-04-08 02:27:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2025-04-08 02:28:56 +0000"
+    },
+    "done": true
+  },
+  "editenchanting:recipes/decorations/enchantment_edit_table": {
+    "criteria": {
+      "has_obsidian": "2025-04-08 02:29:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_slab": {
     "criteria": {
       "has_quartz_block": "2025-04-08 02:29:45 +0000"
@@ -6959,21 +7001,9 @@
     },
     "done": true
   },
-  "minecraft:story/shiny_gear": {
-    "criteria": {
-      "diamond_chestplate": "2025-04-08 02:27:57 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/quartz_stairs": {
     "criteria": {
       "has_quartz_block": "2025-04-08 02:29:45 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/horse_smithing": {
-    "criteria": {
-      "has_horse": "2025-04-08 02:11:23 +0000"
     },
     "done": true
   },
@@ -6983,45 +7013,15 @@
     },
     "done": true
   },
-  "forbidden_arcanus:recipes/misc/stellarite_block_from_stellarite_piece": {
-    "criteria": {
-      "has_stellarite_piece": "2025-04-08 02:22:12 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-04-08 02:29:45 +0000"
     },
     "done": true
   },
-  "betterskills:mining_11": {
-    "criteria": {
-      "mining_11_0": "2025-04-08 02:21:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/diamond": {
-    "criteria": {
-      "has_diamond_block": "2025-04-08 02:28:56 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/quartz_pillar_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-04-08 02:29:45 +0000"
-    },
-    "done": true
-  },
-  "betterskills:combat_4": {
-    "criteria": {
-      "combat_4_0": "2025-04-08 02:06:04 +0000"
-    },
-    "done": true
-  },
-  "betterskills:combat_5": {
-    "criteria": {
-      "combat_5_0": "2025-04-08 02:35:01 +0000"
     },
     "done": true
   },
@@ -7034,12 +7034,6 @@
   "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-04-08 02:29:45 +0000"
-    },
-    "done": true
-  },
-  "editenchanting:recipes/decorations/enchantment_edit_table": {
-    "criteria": {
-      "has_obsidian": "2025-04-08 02:29:08 +0000"
     },
     "done": true
   },
@@ -7064,6 +7058,42 @@
   "minecraft:recipes/misc/lapis_lazuli": {
     "criteria": {
       "has_lapis_block": "2025-04-08 02:32:11 +0000"
+    },
+    "done": true
+  },
+  "betterskills:combat_5": {
+    "criteria": {
+      "combat_5_0": "2025-04-08 02:35:01 +0000"
+    },
+    "done": true
+  },
+  "corail_recycler:recipes/netherite_disk": {
+    "criteria": {
+      "requirement_2": "2025-04-08 03:29:31 +0000"
+    },
+    "done": false
+  },
+  "corail_recycler:recipes/recycler": {
+    "criteria": {
+      "requirement_2": "2025-04-08 03:29:31 +0000"
+    },
+    "done": false
+  },
+  "corail_recycler:recipes/diamond_disk": {
+    "criteria": {
+      "requirement_2": "2025-04-08 03:29:31 +0000"
+    },
+    "done": false
+  },
+  "corail_recycler:recipes/steel_disk": {
+    "criteria": {
+      "requirement_2": "2025-04-08 03:29:31 +0000"
+    },
+    "done": false
+  },
+  "corail_recycler:tutorial/root": {
+    "criteria": {
+      "auto": "2025-04-08 03:29:36 +0000"
     },
     "done": true
   },
