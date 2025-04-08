@@ -8329,3 +8329,17 @@ Pos: BlockPos{x=1257, y=69, z=-1200}
 [08Apr2025 04:43:28.464] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/7681, l='ServerLevel[world]', x=1262.70, y=68.00, z=-1173.16] died, message: 'Villager was slain by Zombie'
 [08Apr2025 04:43:36.283] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DavidCh01 lost connection: Disconnected
 [08Apr2025 04:43:36.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidCh01 left the game
+[08Apr2025 04:44:14.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[08Apr2025 04:44:14.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[08Apr2025 04:44:14.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[08Apr2025 04:44:15.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[08Apr2025 04:44:16.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[08Apr2025 04:44:16.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[08Apr2025 04:44:16.798] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Apr2025 04:44:16.808] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Apr2025 04:44:16.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[08Apr2025 04:44:16.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[08Apr2025 04:44:16.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[08Apr2025 04:44:16.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[08Apr2025 04:44:16.972] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
+[08Apr2025 04:44:16.978] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
