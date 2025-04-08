@@ -1,21 +1,21 @@
-[08Apr2025 04:45:31.201] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[08Apr2025 04:45:31.206] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.14 by Ubuntu; OS Linux arch amd64 version 6.8.0-1021-azure
-[08Apr2025 04:45:33.059] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[08Apr2025 04:45:33.141] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/Server-1/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[08Apr2025 04:45:33.674] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server-1/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[08Apr2025 04:45:33.676] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server-1/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[08Apr2025 04:45:33.678] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server-1/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[08Apr2025 04:45:33.680] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server-1/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[08Apr2025 04:45:34.038] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
-[08Apr2025 04:45:34.040] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 6 dependencies adding them to mods collection
-[08Apr2025 04:45:38.025] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[08Apr2025 04:45:38.414] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [de.maxhenkel.tradecycling.MixinConnector]
-[08Apr2025 04:45:38.422] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[08Apr2025 04:45:38.474] [main/WARN] [mixin/]: Reference map 'naturalist-forge-forge-refmap.json' for naturalist.mixins.json could not be read. If this is a development environment you can ignore this message
-[08Apr2025 04:45:38.774] [main/INFO] [Embeddium/]: Loaded configuration file for Embeddium: 131 options available, 0 override(s) found
-[08Apr2025 04:45:38.809] [main/WARN] [mixin/]: Reference map 'morevillagers-forge-forge-refmap.json' for morevillagers.mixins.json could not be read. If this is a development environment you can ignore this message
-[08Apr2025 04:45:38.891] [main/WARN] [mixin/]: Reference map 'mvs-forge-refmap.json' for mvs-forge.mixins.json could not be read. If this is a development environment you can ignore this message
-[08Apr2025 04:45:38.931] [main/INFO] [Puzzles Lib/]: Loading 86 mods:
+[08Apr2025 16:28:34.005] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[08Apr2025 16:28:34.016] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.14 by Ubuntu; OS Linux arch amd64 version 6.8.0-1021-azure
+[08Apr2025 16:28:38.077] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[08Apr2025 16:28:38.212] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/Server-1/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[08Apr2025 16:28:39.302] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server-1/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[08Apr2025 16:28:39.305] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server-1/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[08Apr2025 16:28:39.307] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server-1/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[08Apr2025 16:28:39.312] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Server-1/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[08Apr2025 16:28:40.572] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[08Apr2025 16:28:40.577] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 6 dependencies adding them to mods collection
+[08Apr2025 16:28:48.418] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[08Apr2025 16:28:48.954] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [de.maxhenkel.tradecycling.MixinConnector]
+[08Apr2025 16:28:48.958] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[08Apr2025 16:28:49.025] [main/WARN] [mixin/]: Reference map 'naturalist-forge-forge-refmap.json' for naturalist.mixins.json could not be read. If this is a development environment you can ignore this message
+[08Apr2025 16:28:49.344] [main/INFO] [Embeddium/]: Loaded configuration file for Embeddium: 131 options available, 0 override(s) found
+[08Apr2025 16:28:49.365] [main/WARN] [mixin/]: Reference map 'morevillagers-forge-forge-refmap.json' for morevillagers.mixins.json could not be read. If this is a development environment you can ignore this message
+[08Apr2025 16:28:49.494] [main/WARN] [mixin/]: Reference map 'mvs-forge-refmap.json' for mvs-forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[08Apr2025 16:28:49.570] [main/INFO] [Puzzles Lib/]: Loading 86 mods:
 	- alexsmobs 1.22.7
 	- ambientsounds 6.0.3
 	- ants_unleashed 1.0.0
@@ -103,110 +103,109 @@
 	- visualworkbench 8.0.0
 	- xray 1.20.1-2.18.1-build.22
 	- zillagersweararmor 1.20.1-1.3.4
-[08Apr2025 04:45:38.953] [main/WARN] [mixin/]: Reference map 'smallships-forge-refmap.json' for smallships.mixins.json could not be read. If this is a development environment you can ignore this message
-[08Apr2025 04:45:41.292] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/renderer/block/model/ItemModelGenerator for invalid dist DEDICATED_SERVER
-[08Apr2025 04:45:41.295] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/renderer/block/model/ItemModelGenerator (java.lang.RuntimeException: Attempted to load class net/minecraft/client/renderer/block/model/ItemModelGenerator for invalid dist DEDICATED_SERVER)
-[08Apr2025 04:45:41.298] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.renderer.block.model.ItemModelGenerator was not found spartanweaponry.mixins.json:ItemModelGeneratorMixin
-[08Apr2025 04:45:41.964] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
-[08Apr2025 04:45:44.266] [main/WARN] [mixin/]: @Inject(@At("INVOKE")) Shift.BY=1 on crittersandcompanions.mixins.json:LivingEntityMixin::handler$zhf000$onDie exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
-[08Apr2025 04:45:54.835] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for visualworkbench:main
-[08Apr2025 04:45:55.828] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:pufferfish_bucket is now minecraft:bucket.
-[08Apr2025 04:45:55.828] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:salmon_bucket is now minecraft:bucket.
-[08Apr2025 04:45:55.829] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:cod_bucket is now minecraft:bucket.
-[08Apr2025 04:45:55.829] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:tropical_fish_bucket is now minecraft:bucket.
-[08Apr2025 04:45:55.829] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:axolotl_bucket is now minecraft:bucket.
-[08Apr2025 04:45:55.829] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:powder_snow_bucket is now minecraft:bucket.
-[08Apr2025 04:45:55.829] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:tadpole_bucket is now minecraft:bucket.
-[08Apr2025 04:45:55.891] [modloading-worker-0/INFO] [ToolLeveling+/]: Loaded ForgeRegistrationFactory for service Factory
-[08Apr2025 04:45:55.909] [modloading-worker-0/INFO] [ToolLeveling+/]: Loaded ForgePlatformHelper for service PlatformHelper
-[08Apr2025 04:45:55.916] [modloading-worker-0/INFO] [ToolLeveling+/]: Initializing ToolLeveling+...
-[08Apr2025 04:45:57.351] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[08Apr2025 04:45:57.351] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[08Apr2025 04:45:58.022] [modloading-worker-0/INFO] [com.teamdurt.netherdungeons.NetherDungeons/]: Nether Dungeons mod init finished.
-[08Apr2025 04:45:58.651] [modloading-worker-0/INFO] [Spartan Shields/]: Constructing Mod: Spartan Shields
-[08Apr2025 04:45:58.775] [modloading-worker-0/INFO] [Collective/]: Loading Collective version 8.1.
-[08Apr2025 04:45:58.984] [modloading-worker-0/INFO] [Spartan Weaponry/]: Constructing Mod: Spartan Weaponry
-[08Apr2025 04:45:58.986] [modloading-worker-0/INFO] [Spartan Weaponry/]: Initialising API! Version: 10
-[08Apr2025 04:45:58.991] [modloading-worker-0/INFO] [Spartan Weaponry/]: Spartan Weaponry API version 10 has been initalized!
-[08Apr2025 04:45:59.150] [modloading-worker-0/INFO] [com.cupboard.Cupboard/]: Loaded config for: cupboard.json
-[08Apr2025 04:45:59.197] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
-[08Apr2025 04:46:03.879] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.nitespring.bloodborne.common.entities.mobs.parent.AbstractBloodborneEntity from class com.nitespring.bloodborne.common.entities.mobs.parent.AbstractHuntsmanEntity
-[08Apr2025 04:46:03.881] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.nitespring.bloodborne.common.entities.mobs.parent.AbstractBloodborneEntity from class com.nitespring.bloodborne.common.entities.mobs.parent.AbstractHuntsmanEntity
-[08Apr2025 04:46:04.305] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file /workspaces/Server-1/servidor_minecraft/config/philips-ruins-common-configs.toml is not correct. Correcting
-[08Apr2025 04:46:04.310] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Philip's Ruins.Structure Spawn Seed was corrected from 1 to its default, 1. 
-[08Apr2025 04:46:04.342] [main/INFO] [Spartan Shields/]: Loading config spartanshields-common.toml
-[08Apr2025 04:46:04.424] [main/INFO] [com.tom.storagemod.StorageMod/]: Loaded Tom's Simple Storage config file toms_storage-common.toml
-[08Apr2025 04:46:04.448] [modloading-worker-0/INFO] [caleb.overenchanted.OverEnchanted/]: Thanks for downloading Over Enchanted - 1.3.0/1.19.2+
-[08Apr2025 04:46:04.586] [modloading-worker-0/INFO] [spawnermod/]: Config path: [/workspaces/Server-1/servidor_minecraft/config]
-[08Apr2025 04:46:04.590] [modloading-worker-0/INFO] [spawnermod/]: Reading config values from file.
-[08Apr2025 04:46:04.620] [modloading-worker-0/INFO] [ToolLeveling+/]: Created README.txt in config folder.
-[08Apr2025 04:46:04.624] [modloading-worker-0/INFO] [ToolLeveling+/]: Config 'tool_leveling_table.json' was successfully loaded.
-[08Apr2025 04:46:04.625] [modloading-worker-0/INFO] [ToolLeveling+/]: Saved the checked/corrected config: tool_leveling_table.json
-[08Apr2025 04:46:04.627] [modloading-worker-0/INFO] [ToolLeveling+/]: Config 'command_config.json' was successfully loaded.
-[08Apr2025 04:46:04.630] [modloading-worker-0/INFO] [ToolLeveling+/]: Saved the checked/corrected config: command_config.json
-[08Apr2025 04:46:04.761] [modloading-worker-0/INFO] [com.rajhab.morevanillashields_mod.morevanillashields/]: morevanillashields: This mod now runs with a config file. Feel free to use it!
-[08Apr2025 04:46:04.977] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [visualworkbench] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/visualworkbench.json
-[08Apr2025 04:46:05.312] [modloading-worker-0/INFO] [Spartan Shields/]: Setting up Spartan Shields!
-[08Apr2025 04:46:05.318] [modloading-worker-0/INFO] [com.brutalbosses.BrutalBosses/]: brutalbosses mod initialized
-[08Apr2025 04:46:05.387] [modloading-worker-0/INFO] [Spartan Weaponry/]: Setting up Spartan Weaponry!
-[08Apr2025 04:46:05.398] [modloading-worker-0/INFO] [com.tom.storagemod.StorageMod/]: Tom's Storage Setup starting
-[08Apr2025 04:46:05.407] [modloading-worker-0/INFO] [com.tom.storagemod.StorageMod/]: Initilaized Network Handler
-[08Apr2025 04:46:05.451] [main/INFO] [journeymap/]: Initializing Packet Registries
-[08Apr2025 04:46:05.472] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [visualworkbench] Found status: UP_TO_DATE Current: 8.0.0 Target: null
-[08Apr2025 04:46:05.472] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
-[08Apr2025 04:46:05.505] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 1000) with the ID 0
-[08Apr2025 04:46:05.506] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 1000) with the ID 1
-[08Apr2025 04:46:05.506] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for Uncraftable Potion (Fluid Amount Required: 250) with the ID 2
-[08Apr2025 04:46:05.507] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:milk for Milk (Fluid Amount Required: 1000) with the ID 3
-[08Apr2025 04:46:05.577] [main/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
-[08Apr2025 04:46:05.577] [main/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
-[08Apr2025 04:46:05.577] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_primary to index 1 for type OVERWORLD
-[08Apr2025 04:46:05.577] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_secondary to index 2 for type OVERWORLD
-[08Apr2025 04:46:05.578] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_rare to index 3 for type OVERWORLD
-[08Apr2025 04:46:05.578] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
-[08Apr2025 04:46:05.578] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
-[08Apr2025 04:46:05.759] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: OUTDATED Current: 5.10.0 Target: 5.10.3
-[08Apr2025 04:46:05.761] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
-[08Apr2025 04:46:05.973] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Found status: OUTDATED Current: 9.1.14 Target: 9.1.16
-[08Apr2025 04:46:05.978] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bookshelf] Starting version check at https://updates.blamejared.com/get?n=bookshelf&gv=1.20.1
-[08Apr2025 04:46:06.643] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bookshelf] Found status: BETA Current: 20.2.13 Target: 20.2.13
-[08Apr2025 04:46:06.644] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [uncrafted] Starting version check at https://raw.githubusercontent.com/XxRexRaptorxX/Update-Checker/main/Uncrafted.json
-[08Apr2025 04:46:06.785] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [uncrafted] Found status: UP_TO_DATE Current: 4.2.1 Target: null
-[08Apr2025 04:46:06.787] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [morevanillashields] Starting version check at https://raw.githubusercontent.com/Rajhab/MoreVanillaShields-UpdateChecker/main/update.json
-[08Apr2025 04:46:06.939] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [morevanillashields] Found status: OUTDATED Current: 1.1.0-1.20.1 Target: 1.1.4-1.20.1
-[08Apr2025 04:46:06.941] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzlesaccessapi.json
-[08Apr2025 04:46:06.963] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Found status: BETA Current: 8.0.7 Target: null
-[08Apr2025 04:46:06.964] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[08Apr2025 04:46:07.216] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
-[08Apr2025 04:46:07.219] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [zillagersweararmor] Starting version check at https://raw.githubusercontent.com/seymourimadeit/illagersweararmor/master/update.json
-[08Apr2025 04:46:07.321] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [zillagersweararmor] Found status: BETA Current: 1.20.1-1.3.4 Target: null
-[08Apr2025 04:46:07.322] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [trade_cycling] Starting version check at https://update.maxhenkel.de/forge/trade_cycling
-[08Apr2025 04:46:08.102] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [trade_cycling] Found status: AHEAD Current: 1.20.1-1.0.17 Target: null
-[08Apr2025 04:46:08.104] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchdesc] Starting version check at https://updates.blamejared.com/get?n=enchdesc&gv=1.20.1
-[08Apr2025 04:46:08.254] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchdesc] Found status: BETA Current: 17.1.19 Target: 17.1.19
-[08Apr2025 04:46:08.254] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Starting version check at https://update.maxhenkel.de/forge/gravestone
-[08Apr2025 04:46:08.406] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Found status: OUTDATED Current: 1.20.1-1.0.16 Target: 1.20.1-1.0.23
-[08Apr2025 04:46:08.409] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corail_recycler] Starting version check at https://raw.githubusercontent.com/Corail31/recycler/master/update.json
-[08Apr2025 04:46:08.583] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corail_recycler] Found status: UP_TO_DATE Current: 5.9.1 Target: null
-[08Apr2025 04:46:08.586] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
-[08Apr2025 04:46:08.604] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: OUTDATED Current: 8.1.21 Target: 8.1.32
-[08Apr2025 04:46:08.604] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [smallships] Starting version check at https://raw.githubusercontent.com/talhanation/smallships/main/update.json
-[08Apr2025 04:46:08.618] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [smallships] Found status: OUTDATED Current: 2.0.0-b1.3.1 Target: 2.0.0-b1.4
-[08Apr2025 04:46:08.619] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [toms_storage] Starting version check at https://raw.githubusercontent.com/tom5454/Toms-Storage/master/version-check.json
-[08Apr2025 04:46:08.727] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [toms_storage] Found status: BETA Current: 1.7.0 Target: 1.6.9
-[08Apr2025 04:46:09.518] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[08Apr2025 04:46:12.428] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Server-1/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23261!/assets/.mcassetsroot' uses unexpected schema
-[08Apr2025 04:46:12.429] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Server-1/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23261!/data/.mcassetsroot' uses unexpected schema
-[08Apr2025 04:46:14.180] [main/ERROR] [net.minecraft.Util/]: Invalid path in pack: bloodandmadness:forge/biome_modifier/celestial_emissary_I.json, ignoring
-[08Apr2025 04:46:14.181] [main/ERROR] [net.minecraft.Util/]: Invalid path in pack: bloodandmadness:forge/biome_modifier/brainsucker_I.json, ignoring
-[08Apr2025 04:46:16.073] [main/INFO] [Spartan Weaponry/]: Finished registering commands for Spartan Weaponry!
-[08Apr2025 04:46:16.096] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
-[08Apr2025 04:46:16.331] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag integrated_api:collections/any_taiga as it is missing following references: #repurposed_structures:collections/taigas (from integrated_api-1.5.1+1.20.1-forge.jar)
-[08Apr2025 04:46:16.437] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag minecraft:stairs as it is missing following references: nordic_structures:borealstair (from nordic_structures-1.7.2-forge-1.20.1.jar)
-[08Apr2025 04:46:16.438] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag minecraft:mushroom_grow_block as it is missing following references: netherdungeons:growth_mauve (from netherdungeons-1.1.0-snapshot3a.jar)
-[08Apr2025 04:46:16.440] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag minecraft:slabs as it is missing following references: nordic_structures:borealslab (from nordic_structures-1.7.2-forge-1.20.1.jar)
-[08Apr2025 04:46:16.441] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag minecraft:fences as it is missing following references: nordic_structures:borealwoodfence (from nordic_structures-1.7.2-forge-1.20.1.jar)
-[08Apr2025 04:46:16.443] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag minecraft:mineable/axe as it is missing following references: nordic_structures:borealwoodfencegate (from nordic_structures-1.7.2-forge-1.20.1.jar), 
+[08Apr2025 16:28:49.609] [main/WARN] [mixin/]: Reference map 'smallships-forge-refmap.json' for smallships.mixins.json could not be read. If this is a development environment you can ignore this message
+[08Apr2025 16:28:52.966] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/renderer/block/model/ItemModelGenerator for invalid dist DEDICATED_SERVER
+[08Apr2025 16:28:52.969] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/renderer/block/model/ItemModelGenerator (java.lang.RuntimeException: Attempted to load class net/minecraft/client/renderer/block/model/ItemModelGenerator for invalid dist DEDICATED_SERVER)
+[08Apr2025 16:28:52.971] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.renderer.block.model.ItemModelGenerator was not found spartanweaponry.mixins.json:ItemModelGeneratorMixin
+[08Apr2025 16:28:53.875] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
+[08Apr2025 16:28:58.878] [main/WARN] [mixin/]: @Inject(@At("INVOKE")) Shift.BY=1 on crittersandcompanions.mixins.json:LivingEntityMixin::handler$zhf000$onDie exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[08Apr2025 16:29:14.247] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for visualworkbench:main
+[08Apr2025 16:29:15.584] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:pufferfish_bucket is now minecraft:bucket.
+[08Apr2025 16:29:15.584] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:salmon_bucket is now minecraft:bucket.
+[08Apr2025 16:29:15.584] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:cod_bucket is now minecraft:bucket.
+[08Apr2025 16:29:15.584] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:tropical_fish_bucket is now minecraft:bucket.
+[08Apr2025 16:29:15.585] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:axolotl_bucket is now minecraft:bucket.
+[08Apr2025 16:29:15.585] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:powder_snow_bucket is now minecraft:bucket.
+[08Apr2025 16:29:15.585] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:tadpole_bucket is now minecraft:bucket.
+[08Apr2025 16:29:15.599] [modloading-worker-0/INFO] [ToolLeveling+/]: Loaded ForgeRegistrationFactory for service Factory
+[08Apr2025 16:29:15.604] [modloading-worker-0/INFO] [ToolLeveling+/]: Loaded ForgePlatformHelper for service PlatformHelper
+[08Apr2025 16:29:15.605] [modloading-worker-0/INFO] [ToolLeveling+/]: Initializing ToolLeveling+...
+[08Apr2025 16:29:17.888] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[08Apr2025 16:29:17.889] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[08Apr2025 16:29:18.877] [modloading-worker-0/INFO] [com.teamdurt.netherdungeons.NetherDungeons/]: Nether Dungeons mod init finished.
+[08Apr2025 16:29:20.432] [modloading-worker-0/INFO] [Spartan Shields/]: Constructing Mod: Spartan Shields
+[08Apr2025 16:29:20.505] [modloading-worker-0/INFO] [Collective/]: Loading Collective version 8.1.
+[08Apr2025 16:29:20.813] [modloading-worker-0/INFO] [Spartan Weaponry/]: Constructing Mod: Spartan Weaponry
+[08Apr2025 16:29:20.815] [modloading-worker-0/INFO] [Spartan Weaponry/]: Initialising API! Version: 10
+[08Apr2025 16:29:20.821] [modloading-worker-0/INFO] [Spartan Weaponry/]: Spartan Weaponry API version 10 has been initalized!
+[08Apr2025 16:29:21.026] [modloading-worker-0/INFO] [com.cupboard.Cupboard/]: Loaded config for: cupboard.json
+[08Apr2025 16:29:21.074] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
+[08Apr2025 16:29:27.253] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.nitespring.bloodborne.common.entities.mobs.parent.AbstractBloodborneEntity from class com.nitespring.bloodborne.common.entities.mobs.parent.AbstractHuntsmanEntity
+[08Apr2025 16:29:27.256] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.nitespring.bloodborne.common.entities.mobs.parent.AbstractBloodborneEntity from class com.nitespring.bloodborne.common.entities.mobs.parent.AbstractHuntsmanEntity
+[08Apr2025 16:29:27.764] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file /workspaces/Server-1/servidor_minecraft/config/philips-ruins-common-configs.toml is not correct. Correcting
+[08Apr2025 16:29:27.767] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Philip's Ruins.Structure Spawn Seed was corrected from 1 to its default, 1. 
+[08Apr2025 16:29:27.788] [main/INFO] [Spartan Shields/]: Loading config spartanshields-common.toml
+[08Apr2025 16:29:27.870] [main/INFO] [com.tom.storagemod.StorageMod/]: Loaded Tom's Simple Storage config file toms_storage-common.toml
+[08Apr2025 16:29:27.899] [modloading-worker-0/INFO] [caleb.overenchanted.OverEnchanted/]: Thanks for downloading Over Enchanted - 1.3.0/1.19.2+
+[08Apr2025 16:29:28.106] [modloading-worker-0/INFO] [spawnermod/]: Config path: [/workspaces/Server-1/servidor_minecraft/config]
+[08Apr2025 16:29:28.109] [modloading-worker-0/INFO] [spawnermod/]: Reading config values from file.
+[08Apr2025 16:29:28.202] [modloading-worker-0/INFO] [ToolLeveling+/]: Created README.txt in config folder.
+[08Apr2025 16:29:28.215] [modloading-worker-0/INFO] [ToolLeveling+/]: Config 'tool_leveling_table.json' was successfully loaded.
+[08Apr2025 16:29:28.219] [modloading-worker-0/INFO] [ToolLeveling+/]: Saved the checked/corrected config: tool_leveling_table.json
+[08Apr2025 16:29:28.221] [modloading-worker-0/INFO] [ToolLeveling+/]: Config 'command_config.json' was successfully loaded.
+[08Apr2025 16:29:28.223] [modloading-worker-0/INFO] [ToolLeveling+/]: Saved the checked/corrected config: command_config.json
+[08Apr2025 16:29:28.402] [modloading-worker-0/INFO] [com.rajhab.morevanillashields_mod.morevanillashields/]: morevanillashields: This mod now runs with a config file. Feel free to use it!
+[08Apr2025 16:29:28.653] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [visualworkbench] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/visualworkbench.json
+[08Apr2025 16:29:29.045] [modloading-worker-0/INFO] [Spartan Shields/]: Setting up Spartan Shields!
+[08Apr2025 16:29:29.051] [modloading-worker-0/INFO] [com.brutalbosses.BrutalBosses/]: brutalbosses mod initialized
+[08Apr2025 16:29:29.215] [modloading-worker-0/INFO] [Spartan Weaponry/]: Setting up Spartan Weaponry!
+[08Apr2025 16:29:29.242] [modloading-worker-0/INFO] [com.tom.storagemod.StorageMod/]: Tom's Storage Setup starting
+[08Apr2025 16:29:29.260] [modloading-worker-0/INFO] [com.tom.storagemod.StorageMod/]: Initilaized Network Handler
+[08Apr2025 16:29:29.364] [main/INFO] [journeymap/]: Initializing Packet Registries
+[08Apr2025 16:29:29.404] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [visualworkbench] Found status: UP_TO_DATE Current: 8.0.0 Target: null
+[08Apr2025 16:29:29.405] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
+[08Apr2025 16:29:29.430] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 1000) with the ID 0
+[08Apr2025 16:29:29.430] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 1000) with the ID 1
+[08Apr2025 16:29:29.431] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for Uncraftable Potion (Fluid Amount Required: 250) with the ID 2
+[08Apr2025 16:29:29.432] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:milk for Milk (Fluid Amount Required: 1000) with the ID 3
+[08Apr2025 16:29:29.504] [main/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[08Apr2025 16:29:29.504] [main/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
+[08Apr2025 16:29:29.505] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_primary to index 1 for type OVERWORLD
+[08Apr2025 16:29:29.505] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_secondary to index 2 for type OVERWORLD
+[08Apr2025 16:29:29.505] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_rare to index 3 for type OVERWORLD
+[08Apr2025 16:29:29.506] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
+[08Apr2025 16:29:29.506] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
+[08Apr2025 16:29:29.838] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: OUTDATED Current: 5.10.0 Target: 5.10.3
+[08Apr2025 16:29:29.838] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
+[08Apr2025 16:29:29.932] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Found status: OUTDATED Current: 9.1.14 Target: 9.1.16
+[08Apr2025 16:29:29.934] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bookshelf] Starting version check at https://updates.blamejared.com/get?n=bookshelf&gv=1.20.1
+[08Apr2025 16:29:30.643] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bookshelf] Found status: BETA Current: 20.2.13 Target: 20.2.13
+[08Apr2025 16:29:30.643] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [uncrafted] Starting version check at https://raw.githubusercontent.com/XxRexRaptorxX/Update-Checker/main/Uncrafted.json
+[08Apr2025 16:29:30.749] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [uncrafted] Found status: UP_TO_DATE Current: 4.2.1 Target: null
+[08Apr2025 16:29:30.750] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [morevanillashields] Starting version check at https://raw.githubusercontent.com/Rajhab/MoreVanillaShields-UpdateChecker/main/update.json
+[08Apr2025 16:29:30.920] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [morevanillashields] Found status: OUTDATED Current: 1.1.0-1.20.1 Target: 1.1.4-1.20.1
+[08Apr2025 16:29:30.922] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzlesaccessapi.json
+[08Apr2025 16:29:30.944] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Found status: BETA Current: 8.0.7 Target: null
+[08Apr2025 16:29:30.944] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[08Apr2025 16:29:31.229] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
+[08Apr2025 16:29:31.232] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [zillagersweararmor] Starting version check at https://raw.githubusercontent.com/seymourimadeit/illagersweararmor/master/update.json
+[08Apr2025 16:29:31.407] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [zillagersweararmor] Found status: BETA Current: 1.20.1-1.3.4 Target: null
+[08Apr2025 16:29:31.411] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [trade_cycling] Starting version check at https://update.maxhenkel.de/forge/trade_cycling
+[08Apr2025 16:29:32.473] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [trade_cycling] Found status: AHEAD Current: 1.20.1-1.0.17 Target: null
+[08Apr2025 16:29:32.475] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchdesc] Starting version check at https://updates.blamejared.com/get?n=enchdesc&gv=1.20.1
+[08Apr2025 16:29:32.730] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchdesc] Found status: BETA Current: 17.1.19 Target: 17.1.19
+[08Apr2025 16:29:32.732] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Starting version check at https://update.maxhenkel.de/forge/gravestone
+[08Apr2025 16:29:32.914] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Found status: OUTDATED Current: 1.20.1-1.0.16 Target: 1.20.1-1.0.23
+[08Apr2025 16:29:32.921] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corail_recycler] Starting version check at https://raw.githubusercontent.com/Corail31/recycler/master/update.json
+[08Apr2025 16:29:33.032] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corail_recycler] Found status: UP_TO_DATE Current: 5.9.1 Target: null
+[08Apr2025 16:29:33.033] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
+[08Apr2025 16:29:33.055] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: OUTDATED Current: 8.1.21 Target: 8.1.32
+[08Apr2025 16:29:33.056] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [smallships] Starting version check at https://raw.githubusercontent.com/talhanation/smallships/main/update.json
+[08Apr2025 16:29:33.245] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [smallships] Found status: OUTDATED Current: 2.0.0-b1.3.1 Target: 2.0.0-b1.4
+[08Apr2025 16:29:33.249] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [toms_storage] Starting version check at https://raw.githubusercontent.com/tom5454/Toms-Storage/master/version-check.json
+[08Apr2025 16:29:33.282] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [toms_storage] Found status: BETA Current: 1.7.0 Target: 1.6.9
+[08Apr2025 16:29:35.960] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[08Apr2025 16:29:40.498] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Server-1/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23261!/assets/.mcassetsroot' uses unexpected schema
+[08Apr2025 16:29:40.499] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/Server-1/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23261!/data/.mcassetsroot' uses unexpected schema
+[08Apr2025 16:29:42.883] [main/ERROR] [net.minecraft.Util/]: Invalid path in pack: bloodandmadness:forge/biome_modifier/celestial_emissary_I.json, ignoring
+[08Apr2025 16:29:42.884] [main/ERROR] [net.minecraft.Util/]: Invalid path in pack: bloodandmadness:forge/biome_modifier/brainsucker_I.json, ignoring
+[08Apr2025 16:29:44.825] [main/INFO] [Spartan Weaponry/]: Finished registering commands for Spartan Weaponry!
+[08Apr2025 16:29:44.850] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
+[08Apr2025 16:29:45.166] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag minecraft:stairs as it is missing following references: nordic_structures:borealstair (from nordic_structures-1.7.2-forge-1.20.1.jar)
+[08Apr2025 16:29:45.168] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag minecraft:mushroom_grow_block as it is missing following references: netherdungeons:growth_mauve (from netherdungeons-1.1.0-snapshot3a.jar)
+[08Apr2025 16:29:45.169] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag minecraft:slabs as it is missing following references: nordic_structures:borealslab (from nordic_structures-1.7.2-forge-1.20.1.jar)
+[08Apr2025 16:29:45.171] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag minecraft:fences as it is missing following references: nordic_structures:borealwoodfence (from nordic_structures-1.7.2-forge-1.20.1.jar)
+[08Apr2025 16:29:45.176] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag minecraft:mineable/axe as it is missing following references: nordic_structures:borealwoodfencegate (from nordic_structures-1.7.2-forge-1.20.1.jar), 
 	nordic_structures:borealwoodfence (from nordic_structures-1.7.2-forge-1.20.1.jar), 
 	nordic_structures:borealstair (from nordic_structures-1.7.2-forge-1.20.1.jar), 
 	nordic_structures:borealslab (from nordic_structures-1.7.2-forge-1.20.1.jar), 
@@ -215,12 +214,13 @@
 	nordic_structures:boreal_strippedlog (from nordic_structures-1.7.2-forge-1.20.1.jar), 
 	nordic_structures:boreal_plank (from nordic_structures-1.7.2-forge-1.20.1.jar), 
 	nordic_structures:boreal_log (from nordic_structures-1.7.2-forge-1.20.1.jar)
-[08Apr2025 04:46:16.444] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag fabric:needs_tool_level_1 as it is missing following references: nordic_structures:dwarfcavernspawner_1 (from nordic_structures-1.7.2-forge-1.20.1.jar), 
+[08Apr2025 16:29:45.177] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag fabric:needs_tool_level_1 as it is missing following references: nordic_structures:dwarfcavernspawner_1 (from nordic_structures-1.7.2-forge-1.20.1.jar), 
 	nordic_structures:dwarfcavernspawner_2 (from nordic_structures-1.7.2-forge-1.20.1.jar), 
 	nordic_structures:abandonednordicmine_1spawner (from nordic_structures-1.7.2-forge-1.20.1.jar), 
 	nordic_structures:abandonednordicmine_2spawner (from nordic_structures-1.7.2-forge-1.20.1.jar), 
 	nordic_structures:steelore (from nordic_structures-1.7.2-forge-1.20.1.jar)
-[08Apr2025 04:46:17.396] [Worker-Main-1/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:nordic_structures:chests/urdariteloottable
+[08Apr2025 16:29:45.359] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag integrated_api:collections/any_taiga as it is missing following references: #repurposed_structures:collections/taigas (from integrated_api-1.5.1+1.20.1-forge.jar)
+[08Apr2025 16:29:45.896] [Worker-Main-1/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:nordic_structures:chests/urdariteloottable
 com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'nordic_adventure:urdarebble'
 	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -272,33 +272,33 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[08Apr2025 04:46:17.454] [Worker-Main-1/INFO] [Spartan Weaponry/]: Adding Diamond Weapons to the End City Treasure Loot Table!
-[08Apr2025 04:46:17.708] [Worker-Main-1/INFO] [Spartan Weaponry/]: Adding Longbow and Heavy Crossbow related loot to the Village Fletcher Loot Table!
-[08Apr2025 04:46:18.059] [Worker-Main-1/INFO] [Spartan Weaponry/]: Adding Iron Weapons to the Village Weaponsmith Loot Table!
-[08Apr2025 04:46:18.935] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:iter_rpg:entities/revenant}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[08Apr2025 04:46:18.935] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:iter_rpg:entities/fiend}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[08Apr2025 04:46:18.936] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:iter_rpg:entities/griever}.pools[1].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[08Apr2025 04:46:18.936] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:iter_rpg:entities/revenant}.pools[1].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[08Apr2025 04:46:18.937] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:iter_rpg:entities/griever}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[08Apr2025 04:46:18.937] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:iter_rpg:entities/griever}.pools[0].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[08Apr2025 04:46:18.937] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:iter_rpg:entities/sorrowsealed}.pools[1].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[08Apr2025 04:46:18.940] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:iter_rpg:entities/earth_elemental}.pools[1].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[08Apr2025 04:46:18.940] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:iter_rpg:entities/void_elemental}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[08Apr2025 04:46:18.940] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:iter_rpg:entities/mournstone}.pools[1].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[08Apr2025 04:46:18.940] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:iter_rpg:entities/mournstone}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[08Apr2025 04:46:18.940] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:iter_rpg:entities/carcass}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[08Apr2025 04:46:18.940] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:iter_rpg:entities/sorrowsealed}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[08Apr2025 04:46:18.941] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:iter_rpg:entities/mournstone}.pools[1].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[08Apr2025 04:46:18.941] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:iter_rpg:entities/water_elemental}.pools[1].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[08Apr2025 04:46:18.941] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:iter_rpg:entities/fire_elemental}.pools[1].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[08Apr2025 04:46:18.942] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:iter_rpg:entities/weeper}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[08Apr2025 04:46:18.942] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:iter_rpg:entities/carcass}.pools[1].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[08Apr2025 04:46:18.942] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:iter_rpg:entities/weeper}.pools[1].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[08Apr2025 04:46:18.943] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:iter_rpg:entities/giant_spider}.pools[0].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[08Apr2025 04:46:18.943] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:iter_rpg:entities/giant_spider}.pools[0].entries[2].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[08Apr2025 04:46:18.946] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:iter_rpg:entities/weeper}.pools[1].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[08Apr2025 04:46:18.946] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:iter_rpg:entities/griever}.pools[1].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[08Apr2025 04:46:18.961] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe forbidden_arcanus:fungyss_fence
+[08Apr2025 16:29:45.962] [Worker-Main-1/INFO] [Spartan Weaponry/]: Adding Diamond Weapons to the End City Treasure Loot Table!
+[08Apr2025 16:29:46.095] [Worker-Main-1/INFO] [Spartan Weaponry/]: Adding Longbow and Heavy Crossbow related loot to the Village Fletcher Loot Table!
+[08Apr2025 16:29:46.561] [Worker-Main-1/INFO] [Spartan Weaponry/]: Adding Iron Weapons to the Village Weaponsmith Loot Table!
+[08Apr2025 16:29:47.414] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:iter_rpg:entities/revenant}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[08Apr2025 16:29:47.415] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:iter_rpg:entities/fiend}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[08Apr2025 16:29:47.415] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:iter_rpg:entities/griever}.pools[1].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[08Apr2025 16:29:47.415] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:iter_rpg:entities/revenant}.pools[1].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[08Apr2025 16:29:47.415] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:iter_rpg:entities/griever}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[08Apr2025 16:29:47.415] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:iter_rpg:entities/griever}.pools[0].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[08Apr2025 16:29:47.415] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:iter_rpg:entities/sorrowsealed}.pools[1].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[08Apr2025 16:29:47.416] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:iter_rpg:entities/earth_elemental}.pools[1].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[08Apr2025 16:29:47.416] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:iter_rpg:entities/void_elemental}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[08Apr2025 16:29:47.416] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:iter_rpg:entities/mournstone}.pools[1].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[08Apr2025 16:29:47.416] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:iter_rpg:entities/mournstone}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[08Apr2025 16:29:47.416] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:iter_rpg:entities/carcass}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[08Apr2025 16:29:47.416] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:iter_rpg:entities/sorrowsealed}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[08Apr2025 16:29:47.416] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:iter_rpg:entities/mournstone}.pools[1].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[08Apr2025 16:29:47.417] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:iter_rpg:entities/water_elemental}.pools[1].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[08Apr2025 16:29:47.417] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:iter_rpg:entities/fire_elemental}.pools[1].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[08Apr2025 16:29:47.417] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:iter_rpg:entities/weeper}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[08Apr2025 16:29:47.417] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:iter_rpg:entities/carcass}.pools[1].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[08Apr2025 16:29:47.417] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:iter_rpg:entities/weeper}.pools[1].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[08Apr2025 16:29:47.417] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:iter_rpg:entities/giant_spider}.pools[0].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[08Apr2025 16:29:47.417] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:iter_rpg:entities/giant_spider}.pools[0].entries[2].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[08Apr2025 16:29:47.418] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:iter_rpg:entities/weeper}.pools[1].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[08Apr2025 16:29:47.418] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:iter_rpg:entities/griever}.pools[1].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[08Apr2025 16:29:47.428] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe forbidden_arcanus:fungyss_fence
 com.google.gson.JsonParseException: An ingredient entry needs either a tag or an item
 	at net.minecraft.world.item.crafting.Ingredient.m_43919_(Ingredient.java:226) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
 	at net.minecraftforge.common.crafting.VanillaIngredientSerializer.parse(VanillaIngredientSerializer.java:27) ~[forge-1.20.1-47.3.7-universal.jar%23266!/:?]
@@ -333,7 +333,7 @@ com.google.gson.JsonParseException: An ingredient entry needs either a tag or an
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[08Apr2025 04:46:18.983] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe iter_rpg:packed_snow_bricks_cut_wall
+[08Apr2025 16:29:47.443] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe iter_rpg:packed_snow_bricks_cut_wall
 com.google.gson.JsonSyntaxException: Unknown item 'iter_rpg:packed_snow_bricks'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -370,7 +370,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'iter_rpg:packed_snow_bricks'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[08Apr2025 04:46:19.076] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe iter_rpg:smooth_ice_bricks_cut_wall
+[08Apr2025 16:29:47.510] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe iter_rpg:smooth_ice_bricks_cut_wall
 com.google.gson.JsonSyntaxException: Unknown item 'iter_rpg:ice_bricks'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -407,7 +407,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'iter_rpg:ice_bricks'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[08Apr2025 04:46:19.103] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe smallships:bamboo_drakkar
+[08Apr2025 16:29:47.526] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe smallships:bamboo_drakkar
 com.google.gson.JsonSyntaxException: Unknown item 'minecraft:bamboo_boat'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -445,7 +445,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'minecraft:bamboo_boat'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[08Apr2025 04:46:19.107] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe iter_rpg:smooth_ice_cut_slab
+[08Apr2025 16:29:47.533] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe iter_rpg:smooth_ice_cut_slab
 com.google.gson.JsonSyntaxException: Unknown item 'iter_rpg:smooth_ice'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -482,7 +482,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'iter_rpg:smooth_ice'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[08Apr2025 04:46:19.124] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe forbidden_arcanus:aurum_fence
+[08Apr2025 16:29:47.542] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe forbidden_arcanus:aurum_fence
 com.google.gson.JsonParseException: An ingredient entry needs either a tag or an item
 	at net.minecraft.world.item.crafting.Ingredient.m_43919_(Ingredient.java:226) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
 	at net.minecraftforge.common.crafting.VanillaIngredientSerializer.parse(VanillaIngredientSerializer.java:27) ~[forge-1.20.1-47.3.7-universal.jar%23266!/:?]
@@ -517,7 +517,7 @@ com.google.gson.JsonParseException: An ingredient entry needs either a tag or an
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[08Apr2025 04:46:19.133] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe iter_rpg:packed_snow_bricks_cut_slab
+[08Apr2025 16:29:47.546] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe iter_rpg:packed_snow_bricks_cut_slab
 com.google.gson.JsonSyntaxException: Unknown item 'iter_rpg:packed_snow_bricks'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -554,7 +554,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'iter_rpg:packed_snow_bricks'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[08Apr2025 04:46:19.142] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe forbidden_arcanus:edelwood_fence
+[08Apr2025 16:29:47.554] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe forbidden_arcanus:edelwood_fence
 com.google.gson.JsonParseException: An ingredient entry needs either a tag or an item
 	at net.minecraft.world.item.crafting.Ingredient.m_43919_(Ingredient.java:226) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
 	at net.minecraftforge.common.crafting.VanillaIngredientSerializer.parse(VanillaIngredientSerializer.java:27) ~[forge-1.20.1-47.3.7-universal.jar%23266!/:?]
@@ -589,7 +589,7 @@ com.google.gson.JsonParseException: An ingredient entry needs either a tag or an
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[08Apr2025 04:46:19.151] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe iter_rpg:packed_snow_bricks_cut_ornate
+[08Apr2025 16:29:47.560] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe iter_rpg:packed_snow_bricks_cut_ornate
 com.google.gson.JsonSyntaxException: Unknown item 'iter_rpg:packed_snow_bricks'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -626,7 +626,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'iter_rpg:packed_snow_bricks'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[08Apr2025 04:46:19.162] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe forbidden_arcanus:aurum_chest_boat
+[08Apr2025 16:29:47.566] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe forbidden_arcanus:aurum_chest_boat
 com.google.gson.JsonParseException: An ingredient entry needs either a tag or an item
 	at net.minecraft.world.item.crafting.Ingredient.m_43919_(Ingredient.java:226) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
 	at net.minecraftforge.common.crafting.VanillaIngredientSerializer.parse(VanillaIngredientSerializer.java:27) ~[forge-1.20.1-47.3.7-universal.jar%23266!/:?]
@@ -661,7 +661,7 @@ com.google.gson.JsonParseException: An ingredient entry needs either a tag or an
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[08Apr2025 04:46:19.166] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe forbidden_arcanus:corrupted_pixie
+[08Apr2025 16:29:47.571] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe forbidden_arcanus:corrupted_pixie
 com.google.gson.JsonSyntaxException: Unknown item 'forbidden_arcanus:dark_soul'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -699,7 +699,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'forbidden_arcanus:dark_soul'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[08Apr2025 04:46:19.176] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe iter_rpg:packed_snow_cut_bricks
+[08Apr2025 16:29:47.583] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe iter_rpg:packed_snow_cut_bricks
 com.google.gson.JsonSyntaxException: Unknown item 'iter_rpg:packed_snow'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -736,7 +736,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'iter_rpg:packed_snow'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[08Apr2025 04:46:19.185] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe forbidden_arcanus:edelwood_chest_boat
+[08Apr2025 16:29:47.590] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe forbidden_arcanus:edelwood_chest_boat
 com.google.gson.JsonParseException: An ingredient entry needs either a tag or an item
 	at net.minecraft.world.item.crafting.Ingredient.m_43919_(Ingredient.java:226) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
 	at net.minecraftforge.common.crafting.VanillaIngredientSerializer.parse(VanillaIngredientSerializer.java:27) ~[forge-1.20.1-47.3.7-universal.jar%23266!/:?]
@@ -771,7 +771,7 @@ com.google.gson.JsonParseException: An ingredient entry needs either a tag or an
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[08Apr2025 04:46:19.193] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe forbidden_arcanus:aurum_fence_gate
+[08Apr2025 16:29:47.598] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe forbidden_arcanus:aurum_fence_gate
 com.google.gson.JsonParseException: An ingredient entry needs either a tag or an item
 	at net.minecraft.world.item.crafting.Ingredient.m_43919_(Ingredient.java:226) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
 	at net.minecraftforge.common.crafting.VanillaIngredientSerializer.parse(VanillaIngredientSerializer.java:27) ~[forge-1.20.1-47.3.7-universal.jar%23266!/:?]
@@ -806,7 +806,7 @@ com.google.gson.JsonParseException: An ingredient entry needs either a tag or an
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[08Apr2025 04:46:19.200] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe iter_rpg:packed_snow_cut_wall
+[08Apr2025 16:29:47.602] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe iter_rpg:packed_snow_cut_wall
 com.google.gson.JsonSyntaxException: Unknown item 'iter_rpg:packed_snow'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -843,7 +843,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'iter_rpg:packed_snow'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[08Apr2025 04:46:19.215] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe iter_rpg:smooth_ice_bricks_cut_ornate
+[08Apr2025 16:29:47.620] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe iter_rpg:smooth_ice_bricks_cut_ornate
 com.google.gson.JsonSyntaxException: Unknown item 'iter_rpg:ice_bricks'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -880,7 +880,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'iter_rpg:ice_bricks'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[08Apr2025 04:46:19.243] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe iter_rpg:packed_snow_cut_slab_bricks
+[08Apr2025 16:29:47.649] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe iter_rpg:packed_snow_cut_slab_bricks
 com.google.gson.JsonSyntaxException: Unknown item 'iter_rpg:packed_snow'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -917,7 +917,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'iter_rpg:packed_snow'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[08Apr2025 04:46:19.254] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe iter_rpg:smooth_ice_cut_slab_bricks
+[08Apr2025 16:29:47.664] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe iter_rpg:smooth_ice_cut_slab_bricks
 com.google.gson.JsonSyntaxException: Unknown item 'iter_rpg:smooth_ice'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -954,7 +954,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'iter_rpg:smooth_ice'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[08Apr2025 04:46:19.260] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe netherdungeons:crafting/chiseled_polished_gilded_blackstone
+[08Apr2025 16:29:47.670] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe netherdungeons:crafting/chiseled_polished_gilded_blackstone
 com.google.gson.JsonSyntaxException: Unknown item 'netherdungeons:polished_gilded_blackstone_slab'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -992,8 +992,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'netherdungeons:polished_gilde
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[08Apr2025 04:46:19.265] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe grimoireofgaia:gaiapedia as it's serializer returned null
-[08Apr2025 04:46:19.275] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe forbidden_arcanus:edelwood_fence_gate
+[08Apr2025 16:29:47.674] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe grimoireofgaia:gaiapedia as it's serializer returned null
+[08Apr2025 16:29:48.333] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe forbidden_arcanus:edelwood_fence_gate
 com.google.gson.JsonParseException: An ingredient entry needs either a tag or an item
 	at net.minecraft.world.item.crafting.Ingredient.m_43919_(Ingredient.java:226) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
 	at net.minecraftforge.common.crafting.VanillaIngredientSerializer.parse(VanillaIngredientSerializer.java:27) ~[forge-1.20.1-47.3.7-universal.jar%23266!/:?]
@@ -1028,7 +1028,7 @@ com.google.gson.JsonParseException: An ingredient entry needs either a tag or an
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[08Apr2025 04:46:19.277] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe naturalist:frontier_cap
+[08Apr2025 16:29:48.338] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe naturalist:frontier_cap
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:mod_loaded'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1057,7 +1057,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[08Apr2025 04:46:19.282] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe iter_rpg:smooth_ice_cut_stairs
+[08Apr2025 16:29:48.344] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe iter_rpg:smooth_ice_cut_stairs
 com.google.gson.JsonSyntaxException: Unknown item 'iter_rpg:smooth_ice'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1094,7 +1094,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'iter_rpg:smooth_ice'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[08Apr2025 04:46:19.291] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe naturalist:frontier_cap_alt
+[08Apr2025 16:29:48.359] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe naturalist:frontier_cap_alt
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:mod_loaded'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1123,7 +1123,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[08Apr2025 04:46:19.313] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe iter_rpg:packed_snow_cut_ornate_bricks
+[08Apr2025 16:29:48.373] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe iter_rpg:packed_snow_cut_ornate_bricks
 com.google.gson.JsonSyntaxException: Unknown item 'iter_rpg:packed_snow'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1160,7 +1160,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'iter_rpg:packed_snow'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[08Apr2025 04:46:19.327] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe iter_rpg:packed_snow_bricks_cut_stairs
+[08Apr2025 16:29:48.384] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe iter_rpg:packed_snow_bricks_cut_stairs
 com.google.gson.JsonSyntaxException: Unknown item 'iter_rpg:packed_snow_bricks'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1197,7 +1197,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'iter_rpg:packed_snow_bricks'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[08Apr2025 04:46:19.334] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe iter_rpg:packed_snow_cut_slab
+[08Apr2025 16:29:48.393] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe iter_rpg:packed_snow_cut_slab
 com.google.gson.JsonSyntaxException: Unknown item 'iter_rpg:packed_snow'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1234,7 +1234,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'iter_rpg:packed_snow'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[08Apr2025 04:46:19.340] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe forbidden_arcanus:fungyss_fence_gate
+[08Apr2025 16:29:48.397] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe forbidden_arcanus:fungyss_fence_gate
 com.google.gson.JsonParseException: An ingredient entry needs either a tag or an item
 	at net.minecraft.world.item.crafting.Ingredient.m_43919_(Ingredient.java:226) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
 	at net.minecraftforge.common.crafting.VanillaIngredientSerializer.parse(VanillaIngredientSerializer.java:27) ~[forge-1.20.1-47.3.7-universal.jar%23266!/:?]
@@ -1269,7 +1269,7 @@ com.google.gson.JsonParseException: An ingredient entry needs either a tag or an
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[08Apr2025 04:46:19.350] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe iter_rpg:smooth_ice_bricks_cut_slab
+[08Apr2025 16:29:48.402] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe iter_rpg:smooth_ice_bricks_cut_slab
 com.google.gson.JsonSyntaxException: Unknown item 'iter_rpg:ice_bricks'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1306,7 +1306,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'iter_rpg:ice_bricks'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[08Apr2025 04:46:19.360] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe iter_rpg:smooth_ice_bricks_cut_stairs
+[08Apr2025 16:29:48.412] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe iter_rpg:smooth_ice_bricks_cut_stairs
 com.google.gson.JsonSyntaxException: Unknown item 'iter_rpg:ice_bricks'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1343,7 +1343,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'iter_rpg:ice_bricks'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[08Apr2025 04:46:19.366] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe iter_rpg:smooth_ice_cut_wall
+[08Apr2025 16:29:48.417] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe iter_rpg:smooth_ice_cut_wall
 com.google.gson.JsonSyntaxException: Unknown item 'iter_rpg:smooth_ice'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23261!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -1380,141 +1380,102 @@ com.google.gson.JsonSyntaxException: Unknown item 'iter_rpg:smooth_ice'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[08Apr2025 04:46:19.383] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 12 recipes
-[08Apr2025 04:46:19.477] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/dark_steel_riot_basic_shield: Unknown item id 'enderio:octadic_capacitor'
-[08Apr2025 04:46:19.625] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/basic_mekanists_tower_shield: Unknown item id 'mekanism:energy_tablet'
-[08Apr2025 04:46:19.673] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/dark_steel_riot_tower_shield: Unknown item id 'enderio:octadic_capacitor'
-[08Apr2025 04:46:19.687] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/basic_mekanists_basic_shield: Unknown item id 'mekanism:energy_tablet'
-[08Apr2025 04:46:19.763] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 3956 advancements
-[08Apr2025 04:46:19.800] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 11 curio slots
-[08Apr2025 04:46:19.811] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
-[08Apr2025 04:46:19.850] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:drowned
-[08Apr2025 04:46:19.851] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:iron_golem
-[08Apr2025 04:46:19.851] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:snow_golem
-[08Apr2025 04:46:19.852] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:zombie
-[08Apr2025 04:46:19.853] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:skeleton
-[08Apr2025 04:46:19.853] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:pillager
-[08Apr2025 04:46:19.854] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:vex
-[08Apr2025 04:46:19.855] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:evoker
-[08Apr2025 04:46:19.856] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:zombie
-[08Apr2025 04:46:19.857] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:vindicator
-[08Apr2025 04:46:19.857] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:wither_skeleton
-[08Apr2025 04:46:19.858] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:wither_skeleton
-[08Apr2025 04:46:19.858] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:cave_spider
-[08Apr2025 04:46:19.858] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:zombie
-[08Apr2025 04:46:19.858] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:husk
-[08Apr2025 04:46:19.859] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:evoker
-[08Apr2025 04:46:19.859] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:wandering_trader
-[08Apr2025 04:46:19.859] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:guardian
-[08Apr2025 04:46:19.859] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:vindicator
-[08Apr2025 04:46:19.860] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:shulker
-[08Apr2025 04:46:19.860] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:zoglin
-[08Apr2025 04:46:19.861] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:chicken
-[08Apr2025 04:46:19.861] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:blaze
-[08Apr2025 04:46:19.862] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:witch
-[08Apr2025 04:46:19.863] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:phantom
-[08Apr2025 04:46:19.863] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:mooshroom
-[08Apr2025 04:46:19.863] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:rabbit
-[08Apr2025 04:46:19.863] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:piglin_brute
-[08Apr2025 04:46:19.864] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:ghast
-[08Apr2025 04:46:19.864] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:stray
-[08Apr2025 04:46:19.891] [main/WARN] [net.minecraft.core.MappedRegistry/]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:worldgen/biome] are present in data pack: forge:no_default_monsters, minecraft:is_mountains
-[08Apr2025 04:46:21.389] [main/INFO] [Spartan Weaponry/]: Finished initialising Weapon Traits & Attributes! Took 7.744115ms
-[08Apr2025 04:46:22.849] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[08Apr2025 04:46:22.851] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[08Apr2025 04:46:22.852] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[08Apr2025 04:46:22.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[08Apr2025 04:46:23.280] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[08Apr2025 04:46:23.310] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[08Apr2025 04:46:23.414] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[08Apr2025 04:46:23.415] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[08Apr2025 04:46:23.416] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[08Apr2025 04:46:23.417] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[08Apr2025 04:46:23.475] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[08Apr2025 04:46:23.477] [Thread-1/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[08Apr2025 04:46:23.478] [Thread-1/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[08Apr2025 04:46:23.503] [Server thread/INFO] [com.tom.storagemod.StorageMod/]: Loaded Tom's Simple Storage config file toms_storage-server.toml
-[08Apr2025 04:46:23.505] [Thread-1/INFO] [com.tom.storagemod.StorageMod/]: Tom's Simple Storage config just got changed on the file system!
-[08Apr2025 04:46:23.506] [Thread-1/INFO] [com.tom.storagemod.StorageMod/]: Tom's Simple Storage config just got changed on the file system!
-[08Apr2025 04:46:24.226] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
-[08Apr2025 04:46:25.202] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
-[08Apr2025 04:46:25.203] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[08Apr2025 04:46:42.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[08Apr2025 04:46:46.872] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[08Apr2025 04:46:46.876] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[08Apr2025 04:46:46.878] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[08Apr2025 04:46:46.880] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[08Apr2025 04:46:46.882] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[08Apr2025 04:46:46.883] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[08Apr2025 04:46:46.885] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[08Apr2025 04:46:46.889] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[08Apr2025 04:46:46.893] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[08Apr2025 04:46:46.895] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[08Apr2025 04:46:47.336] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[08Apr2025 04:46:47.778] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[08Apr2025 04:46:48.275] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[08Apr2025 04:46:48.778] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[08Apr2025 04:46:49.277] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[08Apr2025 04:46:49.782] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[08Apr2025 04:46:50.275] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[08Apr2025 04:46:50.775] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[08Apr2025 04:46:51.278] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[08Apr2025 04:46:52.137] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 9863 ms
-[08Apr2025 04:46:52.139] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (28.681s)! For help, type "help"
-[08Apr2025 04:46:52.210] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[08Apr2025 04:46:52.277] [Server thread/INFO] [com.rajhab.morevanillashields_mod.morevanillashields/]: morevanillashields: This mod is now running on a server. Please report any error or bugs.
-[08Apr2025 04:46:52.299] [Server thread/INFO] [corail_recycler/]: 570 recycling recipes loaded
-[08Apr2025 04:46:52.300] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
-[08Apr2025 04:46:52.300] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
-[08Apr2025 04:46:52.302] [Server thread/INFO] [com.cupboard.Cupboard/]: Loaded config for: brutalbosses.json
-[08Apr2025 04:46:55.539] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2737ms or 54 ticks behind
-[08Apr2025 04:48:45.066] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
-[08Apr2025 04:48:45.369] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DavidCh01[/127.98.72.223:56773] logged in with entity id 222 at (1256.597347970579, 69.0, -1193.4664202157737)
-[08Apr2025 04:48:45.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidCh01 joined the game
-[08Apr2025 04:48:45.760] [Server thread/INFO] [spawnermod/]: Sending config to player.
-[08Apr2025 04:48:45.769] [Server thread/INFO] [ToolLeveling+/]: Sending config 'tool_leveling_table.json' to player 'DavidCh01'
-[08Apr2025 04:48:45.773] [Server thread/INFO] [ToolLeveling+/]: Loaded ForgeServerNetworkHelper for service ServerNetworkHelper
-[08Apr2025 04:48:45.774] [Server thread/INFO] [ToolLeveling+/]: Sending config 'command_config.json' to player 'DavidCh01'
-[08Apr2025 04:48:49.836] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2033ms or 40 ticks behind
-[08Apr2025 04:48:53.244] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/174, l='ServerLevel[world]', x=1261.41, y=62.00, z=-1172.16] died, message: 'Villager was slain by Zombie'
-[08Apr2025 04:48:57.350] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/172, l='ServerLevel[world]', x=1260.57, y=62.00, z=-1172.83] died, message: 'Villager was slain by Zombie Villager'
-[08Apr2025 04:49:00.345] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/171, l='ServerLevel[world]', x=1262.00, y=62.00, z=-1172.15] died, message: 'Villager was slain by Zombie Villager'
-[08Apr2025 04:49:07.040] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2237ms or 44 ticks behind
-[08Apr2025 04:49:09.767] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/176, l='ServerLevel[world]', x=1260.10, y=62.17, z=-1172.32] died, message: 'Villager was slain by Zombie Villager'
-[08Apr2025 04:49:10.808] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/175, l='ServerLevel[world]', x=1260.44, y=62.00, z=-1172.64] died, message: 'Villager was slain by Zombie Villager'
-[08Apr2025 04:49:51.122] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/200, l='ServerLevel[world]', x=1262.70, y=67.46, z=-1172.30] died, message: 'Villager was slain by Drowned'
-[08Apr2025 04:49:52.170] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/201, l='ServerLevel[world]', x=1262.30, y=67.01, z=-1172.30] died, message: 'Villager was slain by Drowned'
-[08Apr2025 04:49:59.617] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/199, l='ServerLevel[world]', x=1262.30, y=68.20, z=-1172.30] died, message: 'Villager was slain by Drowned'
-[08Apr2025 04:50:02.824] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/173, l='ServerLevel[world]', x=1262.15, y=67.49, z=-1172.16] died, message: 'Villager was slain by Drowned'
-[08Apr2025 04:50:16.822] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/206, l='ServerLevel[world]', x=1262.30, y=67.90, z=-1172.30] died, message: 'Villager was slain by Drowned'
-[08Apr2025 04:50:17.871] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/204, l='ServerLevel[world]', x=1262.30, y=67.15, z=-1172.30] died, message: 'Villager was slain by Zombie Villager'
-[08Apr2025 04:50:19.618] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/198, l='ServerLevel[world]', x=1262.70, y=67.16, z=-1172.30] died, message: 'Villager was slain by Drowned'
-[08Apr2025 04:50:21.665] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/209, l='ServerLevel[world]', x=1262.70, y=67.52, z=-1172.30] died, message: 'Villager was slain by Drowned'
-[08Apr2025 04:58:26.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidCh01 has made the advancement [Combat 6]
-[08Apr2025 05:08:06.095] [Server thread/WARN] [spawnermod/]: Key=riskofrain_mobs:lemurian_entity was not found when trying to access it! Returning 0
-[08Apr2025 05:16:33.165] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/7366, l='ServerLevel[world]', x=1275.50, y=69.00, z=-1199.50] died, message: 'Librarian went up in flames'
-[08Apr2025 05:18:44.414] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/7929, l='ServerLevel[world]', x=1275.50, y=69.00, z=-1199.50] died, message: 'Librarian went up in flames'
-[08Apr2025 05:22:20.313] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/8575, l='ServerLevel[world]', x=1275.50, y=69.00, z=-1199.50] died, message: 'Librarian went up in flames'
-[08Apr2025 05:25:10.114] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/9199, l='ServerLevel[world]', x=1275.50, y=69.00, z=-1199.50] died, message: 'Librarian went up in flames'
-[08Apr2025 05:26:49.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DavidCh01: Set own game mode to Creative Mode]
-[08Apr2025 05:26:56.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DavidCh01: Set own game mode to Survival Mode]
-[08Apr2025 05:27:51.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidCh01 has made the advancement [Combat 7]
-[08Apr2025 05:29:26.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidCh01 has made the advancement [Economy]
-[08Apr2025 05:45:34.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidCh01 has made the advancement [Blunt-force Trauma]
-[08Apr2025 05:49:05.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidCh01 was slain by Minotaurus
-[08Apr2025 05:53:30.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DavidCh01: Set own game mode to Creative Mode]
-[08Apr2025 05:53:33.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DavidCh01: Set own game mode to Survival Mode]
-[08Apr2025 05:56:34.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DavidCh01: Set own game mode to Creative Mode]
-[08Apr2025 05:58:10.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DavidCh01: Set own game mode to Survival Mode]
-[08Apr2025 05:58:44.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DavidCh01: Set own game mode to Creative Mode]
-[08Apr2025 05:59:38.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DavidCh01: Set own game mode to Spectator Mode]
-[08Apr2025 05:59:40.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DavidCh01: Set own game mode to Creative Mode]
-[08Apr2025 05:59:42.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DavidCh01: Set own game mode to Survival Mode]
-[08Apr2025 06:00:58.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidCh01 has made the advancement [Hammer Time!]
-[08Apr2025 06:01:15.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidCh01 has made the advancement [Combat 8]
-[08Apr2025 06:04:54.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DavidCh01: Set own game mode to Spectator Mode]
-[08Apr2025 06:05:02.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DavidCh01: Set own game mode to Survival Mode]
-[08Apr2025 06:08:06.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidCh01 has made the advancement [A Cut Above the Rest]
-[08Apr2025 06:12:27.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidCh01 has made the advancement [En Garde!]
-[08Apr2025 06:13:30.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidCh01 has made the advancement [Combat 9]
-[08Apr2025 06:16:38.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidCh01 has made the advancement [A Bigger Blade]
+[08Apr2025 16:29:48.432] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 12 recipes
+[08Apr2025 16:29:48.538] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/dark_steel_riot_basic_shield: Unknown item id 'enderio:octadic_capacitor'
+[08Apr2025 16:29:48.675] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/basic_mekanists_tower_shield: Unknown item id 'mekanism:energy_tablet'
+[08Apr2025 16:29:48.730] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/dark_steel_riot_tower_shield: Unknown item id 'enderio:octadic_capacitor'
+[08Apr2025 16:29:48.744] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/basic_mekanists_basic_shield: Unknown item id 'mekanism:energy_tablet'
+[08Apr2025 16:29:48.838] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 3956 advancements
+[08Apr2025 16:29:48.880] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 11 curio slots
+[08Apr2025 16:29:48.892] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
+[08Apr2025 16:29:48.929] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:drowned
+[08Apr2025 16:29:48.929] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:iron_golem
+[08Apr2025 16:29:48.930] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:snow_golem
+[08Apr2025 16:29:48.930] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:zombie
+[08Apr2025 16:29:48.931] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:skeleton
+[08Apr2025 16:29:48.932] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:pillager
+[08Apr2025 16:29:48.932] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:vex
+[08Apr2025 16:29:48.933] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:evoker
+[08Apr2025 16:29:48.933] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:zombie
+[08Apr2025 16:29:48.934] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:vindicator
+[08Apr2025 16:29:48.935] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:wither_skeleton
+[08Apr2025 16:29:48.935] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:wither_skeleton
+[08Apr2025 16:29:48.936] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:cave_spider
+[08Apr2025 16:29:48.936] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:zombie
+[08Apr2025 16:29:48.937] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:husk
+[08Apr2025 16:29:48.937] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:evoker
+[08Apr2025 16:29:48.938] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:wandering_trader
+[08Apr2025 16:29:48.938] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:guardian
+[08Apr2025 16:29:48.938] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:vindicator
+[08Apr2025 16:29:48.939] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:shulker
+[08Apr2025 16:29:48.939] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:zoglin
+[08Apr2025 16:29:48.940] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:chicken
+[08Apr2025 16:29:48.940] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:blaze
+[08Apr2025 16:29:48.941] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:witch
+[08Apr2025 16:29:48.941] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:phantom
+[08Apr2025 16:29:48.941] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:mooshroom
+[08Apr2025 16:29:48.942] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:rabbit
+[08Apr2025 16:29:48.942] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:piglin_brute
+[08Apr2025 16:29:48.943] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:ghast
+[08Apr2025 16:29:48.943] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:stray
+[08Apr2025 16:29:49.000] [main/WARN] [net.minecraft.core.MappedRegistry/]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:worldgen/biome] are present in data pack: forge:no_default_monsters, minecraft:is_mountains
+[08Apr2025 16:29:50.538] [main/INFO] [Spartan Weaponry/]: Finished initialising Weapon Traits & Attributes! Took 6.454233ms
+[08Apr2025 16:29:51.949] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[08Apr2025 16:29:51.950] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[08Apr2025 16:29:51.950] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[08Apr2025 16:29:51.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[08Apr2025 16:29:52.192] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[08Apr2025 16:29:52.225] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[08Apr2025 16:29:52.327] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[08Apr2025 16:29:52.328] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[08Apr2025 16:29:52.328] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[08Apr2025 16:29:52.329] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[08Apr2025 16:29:52.352] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[08Apr2025 16:29:52.354] [Thread-1/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[08Apr2025 16:29:52.356] [Thread-1/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[08Apr2025 16:29:52.375] [Server thread/INFO] [com.tom.storagemod.StorageMod/]: Loaded Tom's Simple Storage config file toms_storage-server.toml
+[08Apr2025 16:29:53.510] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
+[08Apr2025 16:29:54.334] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[08Apr2025 16:29:54.336] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[08Apr2025 16:30:10.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[08Apr2025 16:30:18.888] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08Apr2025 16:30:19.160] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08Apr2025 16:30:19.192] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08Apr2025 16:30:19.198] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08Apr2025 16:30:19.232] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08Apr2025 16:30:19.246] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08Apr2025 16:30:19.295] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08Apr2025 16:30:19.683] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08Apr2025 16:30:19.683] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08Apr2025 16:30:19.684] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08Apr2025 16:30:19.690] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08Apr2025 16:30:19.692] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08Apr2025 16:30:19.694] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08Apr2025 16:30:19.697] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08Apr2025 16:30:19.700] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08Apr2025 16:30:19.701] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08Apr2025 16:30:19.706] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08Apr2025 16:30:19.709] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08Apr2025 16:30:19.914] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08Apr2025 16:30:20.413] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08Apr2025 16:30:20.914] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08Apr2025 16:30:21.469] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 83%
+[08Apr2025 16:30:21.917] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 11004 ms
+[08Apr2025 16:30:21.923] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (29.577s)! For help, type "help"
+[08Apr2025 16:30:22.097] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[08Apr2025 16:30:22.166] [Server thread/INFO] [com.rajhab.morevanillashields_mod.morevanillashields/]: morevanillashields: This mod is now running on a server. Please report any error or bugs.
+[08Apr2025 16:30:22.202] [Server thread/INFO] [corail_recycler/]: 572 recycling recipes loaded
+[08Apr2025 16:30:22.204] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
+[08Apr2025 16:30:22.207] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
+[08Apr2025 16:30:22.216] [Server thread/INFO] [com.cupboard.Cupboard/]: Loaded config for: brutalbosses.json
+[08Apr2025 16:30:24.642] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
+[08Apr2025 16:34:49.633] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[08Apr2025 16:34:49.834] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DavidCh01[/127.98.72.223:40497] logged in with entity id 323 at (1255.699999988079, 65.0, -1200.8293832635266)
+[08Apr2025 16:34:50.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidCh01 joined the game
+[08Apr2025 16:34:50.369] [Server thread/INFO] [spawnermod/]: Sending config to player.
+[08Apr2025 16:34:50.374] [Server thread/INFO] [ToolLeveling+/]: Sending config 'tool_leveling_table.json' to player 'DavidCh01'
+[08Apr2025 16:34:50.376] [Server thread/INFO] [ToolLeveling+/]: Loaded ForgeServerNetworkHelper for service ServerNetworkHelper
+[08Apr2025 16:34:50.379] [Server thread/INFO] [ToolLeveling+/]: Sending config 'command_config.json' to player 'DavidCh01'
+[08Apr2025 16:34:56.161] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2143ms or 42 ticks behind
+[08Apr2025 16:35:15.909] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4791ms or 95 ticks behind
+[08Apr2025 16:35:23.605] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: OtterEntity['Otter'/1102, l='ServerLevel[world]', x=1362.95, y=62.01, z=-1392.07]
