@@ -6946,6 +6946,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/horse_smithing": {
+    "criteria": {
+      "has_horse": "2025-04-08 02:11:23 +0000"
+    },
+    "done": true
+  },
   "betterskills:combat_4": {
     "criteria": {
       "combat_4_0": "2025-04-08 02:06:04 +0000"

@@ -1477,3 +1477,5 @@ com.google.gson.JsonSyntaxException: Unknown item 'iter_rpg:smooth_ice'
 [08Apr2025 02:08:13.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DavidCh01: Set own game mode to Survival Mode]
 [08Apr2025 02:09:47.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DavidCh01: Set own game mode to Creative Mode]
 [08Apr2025 02:09:58.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DavidCh01: Set own game mode to Survival Mode]
+[08Apr2025 02:21:01.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidCh01 has made the advancement [Mining 11]
+[08Apr2025 02:22:05.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidCh01 blew up
