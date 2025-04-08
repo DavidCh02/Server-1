@@ -1490,3 +1490,4 @@ com.google.gson.JsonSyntaxException: Unknown item 'iter_rpg:smooth_ice'
 [08Apr2025 04:50:17.871] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/204, l='ServerLevel[world]', x=1262.30, y=67.15, z=-1172.30] died, message: 'Villager was slain by Zombie Villager'
 [08Apr2025 04:50:19.618] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/198, l='ServerLevel[world]', x=1262.70, y=67.16, z=-1172.30] died, message: 'Villager was slain by Drowned'
 [08Apr2025 04:50:21.665] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/209, l='ServerLevel[world]', x=1262.70, y=67.52, z=-1172.30] died, message: 'Villager was slain by Drowned'
+[08Apr2025 04:58:26.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidCh01 has made the advancement [Combat 6]

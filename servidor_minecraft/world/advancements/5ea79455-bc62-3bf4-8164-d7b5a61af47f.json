@@ -7144,5 +7144,11 @@
     },
     "done": true
   },
+  "betterskills:combat_6": {
+    "criteria": {
+      "combat_6_0": "2025-04-08 04:58:26 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
