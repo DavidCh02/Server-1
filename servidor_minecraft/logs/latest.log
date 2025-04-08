@@ -1483,3 +1483,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'iter_rpg:smooth_ice'
 [08Apr2025 02:27:27.191] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/5474, l='ServerLevel[world]', x=1262.30, y=68.72, z=-1175.26] died, message: 'Villager was squished too much'
 [08Apr2025 02:27:57.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidCh01 has made the advancement [Cover Me with Diamonds]
 [08Apr2025 02:28:15.480] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/5452, l='ServerLevel[world]', x=1262.70, y=68.14, z=-1175.70] died, message: 'Villager was squished too much'
+[08Apr2025 02:33:16.682] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/5460, l='ServerLevel[world]', x=1262.47, y=68.47, z=-1175.14] died, message: 'Villager was squished too much'
+[08Apr2025 02:33:33.880] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/5453, l='ServerLevel[world]', x=1262.30, y=68.10, z=-1175.13] died, message: 'Villager was squished too much'
+[08Apr2025 02:33:52.482] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/5479, l='ServerLevel[world]', x=1262.70, y=68.04, z=-1175.24] died, message: 'Villager was squished too much'
+[08Apr2025 02:34:39.882] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/5470, l='ServerLevel[world]', x=1262.30, y=68.18, z=-1175.70] died, message: 'Villager was squished too much'
+[08Apr2025 02:35:01.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidCh01 has made the advancement [Combat 5]
