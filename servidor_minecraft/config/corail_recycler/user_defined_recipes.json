@@ -31,6 +31,12 @@
     ]
   },
   {
+    "inputItem": "biomesoplenty:fir_planks:4",
+    "outputItems": [
+      "biomesoplenty:fir_log:1"
+    ]
+  },
+  {
     "inputItem": "travelersbackpack:horse:1",
     "outputItems": [
       "minecraft:leather:4",

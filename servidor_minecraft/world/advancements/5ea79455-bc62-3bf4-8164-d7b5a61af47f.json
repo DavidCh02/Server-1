@@ -2517,6 +2517,7 @@
       "minecraft:skeleton": "2025-04-01 05:39:32 +0000",
       "minecraft:spider": "2025-04-01 06:04:10 +0000",
       "minecraft:creeper": "2025-04-07 23:43:09 +0000",
+      "minecraft:phantom": "2025-04-08 17:23:39 +0000",
       "minecraft:silverfish": "2025-03-28 16:21:31 +0000",
       "minecraft:enderman": "2025-03-31 16:31:07 +0000",
       "minecraft:zombie": "2025-03-28 16:09:14 +0000",
@@ -4779,6 +4780,7 @@
   "morevillagers:all_workstations_get": {
     "criteria": {
       "barrel": "2025-04-02 06:17:13 +0000",
+      "huntingpost": "2025-04-08 17:19:22 +0000",
       "fletchingtable": "2025-04-04 03:39:13 +0000",
       "brewingstand": "2025-04-08 05:56:49 +0000",
       "lectern": "2025-04-02 04:40:22 +0000",
@@ -6711,7 +6713,8 @@
     "criteria": {
       "cleric": "2025-04-08 06:06:14 +0000",
       "fletcher": "2025-04-04 03:49:28 +0000",
-      "librarian": "2025-04-04 04:02:53 +0000"
+      "librarian": "2025-04-04 04:02:53 +0000",
+      "hunter": "2025-04-08 17:22:39 +0000"
     },
     "done": false
   },
@@ -7242,9 +7245,51 @@
     },
     "done": true
   },
+  "naturalist:recipes/food/cake": {
+    "criteria": {
+      "has_the_recipe": "2025-04-08 16:58:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-04-08 16:58:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_helmet": {
+    "criteria": {
+      "has_item": "2025-04-08 16:56:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_leggings": {
+    "criteria": {
+      "has_item": "2025-04-08 16:56:26 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/chain": {
+    "criteria": {
+      "has_item": "2025-04-08 16:56:26 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/cake": {
+    "criteria": {
+      "has_egg": "2025-04-08 16:58:50 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/gold_smithing": {
     "criteria": {
       "has_gold": "2025-04-08 16:45:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-04-08 16:58:50 +0000"
     },
     "done": true
   },
@@ -7254,15 +7299,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/chainmail_boots": {
+    "criteria": {
+      "has_item": "2025-04-08 16:56:26 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/creeper_smithing": {
     "criteria": {
       "has_creeper": "2025-04-08 16:47:29 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/combat/chainmail_chestplate": {
+    "criteria": {
+      "has_item": "2025-04-08 16:56:26 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:flanged_mace": {
     "criteria": {
       "has_flanged_mace": "2025-04-08 16:43:51 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/ocelot": {
+    "criteria": {
+      "has_cod": "2025-04-08 16:58:50 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/skeleton_smithing": {
+    "criteria": {
+      "has_skeleton": "2025-04-08 16:57:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-04-08 16:58:50 +0000"
     },
     "done": true
   },
@@ -7275,6 +7350,12 @@
   "travelersbackpack:recipes/misc/cow_smithing": {
     "criteria": {
       "has_cow": "2025-04-08 16:43:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-04-08 16:58:50 +0000"
     },
     "done": true
   },
