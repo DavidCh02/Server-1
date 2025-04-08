@@ -1523,3 +1523,7 @@ Pos: BlockPos{x=1257, y=69, z=-1200}
 [08Apr2025 04:07:03.269] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/236, l='ServerLevel[world]', x=1262.70, y=69.83, z=-1175.11] died, message: 'Villager was squished too much'
 [08Apr2025 04:13:06.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DavidCh01: Set own game mode to Spectator Mode]
 [08Apr2025 04:13:08.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DavidCh01: Set own game mode to Survival Mode]
+[08Apr2025 04:24:57.221] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/233, l='ServerLevel[world]', x=1262.30, y=68.24, z=-1175.70] died, message: 'Villager was squished too much'
+[08Apr2025 04:25:37.360] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/208, l='ServerLevel[world]', x=1262.30, y=68.05, z=-1175.31] died, message: 'Villager was squished too much'
+[08Apr2025 04:27:58.113] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/235, l='ServerLevel[world]', x=1262.70, y=69.49, z=-1175.19] died, message: 'Villager was squished too much'
+[08Apr2025 04:31:22.860] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/218, l='ServerLevel[world]', x=1262.30, y=68.46, z=-1175.21] died, message: 'Villager was squished too much'

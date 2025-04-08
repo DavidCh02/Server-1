@@ -8170,3 +8170,11 @@ Pos: BlockPos{x=1257, y=69, z=-1200}
 [08Apr2025 04:22:45.924] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
 [08Apr2025 04:22:45.924] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
 [08Apr2025 04:22:45.924] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[08Apr2025 04:24:48.634] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Apr2025 04:24:48.651] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Apr2025 04:24:57.221] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/233, l='ServerLevel[world]', x=1262.30, y=68.24, z=-1175.70] died, message: 'Villager was squished too much'
+[08Apr2025 04:25:37.360] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/208, l='ServerLevel[world]', x=1262.30, y=68.05, z=-1175.31] died, message: 'Villager was squished too much'
+[08Apr2025 04:27:58.113] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/235, l='ServerLevel[world]', x=1262.70, y=69.49, z=-1175.19] died, message: 'Villager was squished too much'
+[08Apr2025 04:29:48.627] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Apr2025 04:29:48.679] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Apr2025 04:31:22.860] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/218, l='ServerLevel[world]', x=1262.30, y=68.46, z=-1175.21] died, message: 'Villager was squished too much'

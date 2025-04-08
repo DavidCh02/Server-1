@@ -1,5 +1,23 @@
 [
   {
+    "inputItem": "spartanweaponry:iron_longbow:1",
+    "outputItems": [
+      "spartanweaponry:handle:1",
+      "minecraft:stick:2",
+      "minecraft:iron_ingot:2",
+      "minecraft:string:3"
+    ]
+  },
+  {
+    "inputItem": "spartanweaponry:leather_longbow:1",
+    "outputItems": [
+      "spartanweaponry:handle:1",
+      "minecraft:stick:2",
+      "minecraft:leather:2",
+      "minecraft:string:3"
+    ]
+  },
+  {
     "inputItem": "travelersbackpack:enderman:1",
     "outputItems": [
       "minecraft:ender_pearl:4",
