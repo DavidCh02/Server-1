@@ -7150,9 +7150,21 @@
     },
     "done": true
   },
+  "grimoireofgaia:main/minotaurus": {
+    "criteria": {
+      "kill": "2025-04-08 05:48:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/leather": {
     "criteria": {
       "has_rabbit_hide": "2025-04-08 05:04:18 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:main/werecat": {
+    "criteria": {
+      "kill": "2025-04-08 05:47:59 +0000"
     },
     "done": true
   },
@@ -7165,6 +7177,12 @@
   "betterskills:combat_7": {
     "criteria": {
       "combat_7_0": "2025-04-08 05:27:51 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:warhammer": {
+    "criteria": {
+      "has_warhammer": "2025-04-08 05:45:34 +0000"
     },
     "done": true
   },

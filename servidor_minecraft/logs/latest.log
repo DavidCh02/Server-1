@@ -1501,3 +1501,6 @@ com.google.gson.JsonSyntaxException: Unknown item 'iter_rpg:smooth_ice'
 [08Apr2025 05:27:51.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidCh01 has made the advancement [Combat 7]
 [08Apr2025 05:29:26.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidCh01 has made the advancement [Economy]
 [08Apr2025 05:45:34.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidCh01 has made the advancement [Blunt-force Trauma]
+[08Apr2025 05:49:05.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidCh01 was slain by Minotaurus
+[08Apr2025 05:53:30.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DavidCh01: Set own game mode to Creative Mode]
+[08Apr2025 05:53:33.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DavidCh01: Set own game mode to Survival Mode]
