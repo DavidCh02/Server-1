@@ -1496,3 +1496,9 @@ com.google.gson.JsonSyntaxException: Unknown item 'iter_rpg:smooth_ice'
 [08Apr2025 03:29:35.783] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5129ms or 102 ticks behind
 [08Apr2025 03:29:36.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidCh01 has made the advancement [Recycler]
 [08Apr2025 03:29:57.032] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6278ms or 125 ticks behind
+[08Apr2025 03:34:02.428] [Server thread/WARN] [oreexcavation/]: Block harvest failed unexpectedly.
+Block: Block{minecraft:chest}[facing=south,type=single,waterlogged=false]
+Tool: 0 air
+Pos: BlockPos{x=1257, y=69, z=-1200}
+[08Apr2025 03:40:54.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidCh01 has made the advancement [A way to recycle]
+[08Apr2025 03:41:21.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidCh01 has made the advancement [A needed disk]

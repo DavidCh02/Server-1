@@ -7075,15 +7075,23 @@
   },
   "corail_recycler:recipes/recycler": {
     "criteria": {
-      "requirement_2": "2025-04-08 03:29:31 +0000"
+      "requirement_2": "2025-04-08 03:29:31 +0000",
+      "requirement_3": "2025-04-08 03:35:37 +0000",
+      "requirement_1": "2025-04-08 03:35:20 +0000"
     },
-    "done": false
+    "done": true
   },
   "corail_recycler:recipes/diamond_disk": {
     "criteria": {
       "requirement_2": "2025-04-08 03:29:31 +0000"
     },
     "done": false
+  },
+  "travelersbackpack:recipes/misc/chicken_smithing": {
+    "criteria": {
+      "has_chicken": "2025-04-08 03:36:48 +0000"
+    },
+    "done": true
   },
   "corail_recycler:recipes/steel_disk": {
     "criteria": {
