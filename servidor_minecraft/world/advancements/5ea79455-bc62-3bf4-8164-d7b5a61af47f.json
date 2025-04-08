@@ -7073,6 +7073,12 @@
     },
     "done": false
   },
+  "morevillagers:master_trade": {
+    "criteria": {
+      "villagertrade": "2025-04-08 04:35:55 +0000"
+    },
+    "done": true
+  },
   "corail_recycler:tutorial/build_recycler": {
     "criteria": {
       "coded_trigger": "2025-04-08 03:40:54 +0000"
