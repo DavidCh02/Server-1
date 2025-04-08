@@ -1488,3 +1488,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'iter_rpg:smooth_ice'
 [08Apr2025 02:33:52.482] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/5479, l='ServerLevel[world]', x=1262.70, y=68.04, z=-1175.24] died, message: 'Villager was squished too much'
 [08Apr2025 02:34:39.882] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/5470, l='ServerLevel[world]', x=1262.30, y=68.18, z=-1175.70] died, message: 'Villager was squished too much'
 [08Apr2025 02:35:01.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidCh01 has made the advancement [Combat 5]
+[08Apr2025 02:43:31.098] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/5476, l='ServerLevel[world]', x=1262.70, y=68.25, z=-1175.23] died, message: 'Villager was squished too much'
+[08Apr2025 02:44:26.828] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/5444, l='ServerLevel[world]', x=1262.30, y=68.18, z=-1175.19] died, message: 'Villager was squished too much'
+[08Apr2025 02:45:06.738] [Server thread/WARN] [spawnermod/]: Key=bloodandmadness:huntsman_axe was not found when trying to access it! Returning 0
+[08Apr2025 02:46:10.479] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/5450, l='ServerLevel[world]', x=1262.70, y=68.28, z=-1175.70] died, message: 'Villager was squished too much'
