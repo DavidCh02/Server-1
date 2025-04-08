@@ -6910,6 +6910,18 @@
     },
     "done": true
   },
+  "grimoireofgaia:main/creep": {
+    "criteria": {
+      "kill": "2025-04-08 01:38:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2025-04-08 01:35:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/soul_campfire": {
     "criteria": {
       "has_soul_sand": "2025-04-08 01:09:06 +0000"
