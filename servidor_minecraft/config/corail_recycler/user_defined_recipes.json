@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "inputItem": "minecraft:bone:2",
+    "outputItems": [
+      "orcz:squigs_claws:1"
+    ]
+  }
+]

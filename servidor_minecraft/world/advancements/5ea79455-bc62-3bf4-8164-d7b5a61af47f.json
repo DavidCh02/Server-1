@@ -7073,6 +7073,25 @@
     },
     "done": false
   },
+  "corail_recycler:tutorial/build_recycler": {
+    "criteria": {
+      "coded_trigger": "2025-04-08 03:40:54 +0000"
+    },
+    "done": true
+  },
+  "corail_recycler:tutorial/build_disk": {
+    "criteria": {
+      "coded_trigger": "2025-04-08 03:41:21 +0000"
+    },
+    "done": true
+  },
+  "corail_recycler:recipes/diamond_shard": {
+    "criteria": {
+      "requirement_2": "2025-04-08 03:41:15 +0000",
+      "requirement_1": "2025-04-08 03:40:43 +0000"
+    },
+    "done": true
+  },
   "corail_recycler:recipes/recycler": {
     "criteria": {
       "requirement_2": "2025-04-08 03:29:31 +0000",
@@ -7083,9 +7102,10 @@
   },
   "corail_recycler:recipes/diamond_disk": {
     "criteria": {
-      "requirement_2": "2025-04-08 03:29:31 +0000"
+      "requirement_2": "2025-04-08 03:29:31 +0000",
+      "requirement_1": "2025-04-08 03:41:15 +0000"
     },
-    "done": false
+    "done": true
   },
   "travelersbackpack:recipes/misc/chicken_smithing": {
     "criteria": {
@@ -7098,6 +7118,12 @@
       "requirement_2": "2025-04-08 03:29:31 +0000"
     },
     "done": false
+  },
+  "corail_recycler:tutorial/first_recycle": {
+    "criteria": {
+      "coded_trigger": "2025-04-08 03:44:15 +0000"
+    },
+    "done": true
   },
   "corail_recycler:tutorial/root": {
     "criteria": {
