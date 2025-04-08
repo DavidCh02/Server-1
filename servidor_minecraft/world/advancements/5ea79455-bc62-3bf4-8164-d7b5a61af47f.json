@@ -6946,9 +6946,27 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2025-04-08 02:27:57 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/horse_smithing": {
     "criteria": {
       "has_horse": "2025-04-08 02:11:23 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/misc/stellarite_block_from_stellarite_piece": {
+    "criteria": {
+      "has_stellarite_piece": "2025-04-08 02:22:12 +0000"
+    },
+    "done": true
+  },
+  "betterskills:mining_11": {
+    "criteria": {
+      "mining_11_0": "2025-04-08 02:21:01 +0000"
     },
     "done": true
   },

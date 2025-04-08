@@ -1479,3 +1479,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'iter_rpg:smooth_ice'
 [08Apr2025 02:09:58.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DavidCh01: Set own game mode to Survival Mode]
 [08Apr2025 02:21:01.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidCh01 has made the advancement [Mining 11]
 [08Apr2025 02:22:05.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidCh01 blew up
+[08Apr2025 02:22:41.630] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/5457, l='ServerLevel[world]', x=1262.70, y=69.44, z=-1175.21] died, message: 'Villager was squished too much'
+[08Apr2025 02:27:27.191] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/5474, l='ServerLevel[world]', x=1262.30, y=68.72, z=-1175.26] died, message: 'Villager was squished too much'
+[08Apr2025 02:27:57.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidCh01 has made the advancement [Cover Me with Diamonds]
+[08Apr2025 02:28:15.480] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/5452, l='ServerLevel[world]', x=1262.70, y=68.14, z=-1175.70] died, message: 'Villager was squished too much'
