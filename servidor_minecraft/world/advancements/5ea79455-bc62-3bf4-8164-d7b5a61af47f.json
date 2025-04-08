@@ -7144,6 +7144,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2025-04-08 05:04:18 +0000"
+    },
+    "done": true
+  },
   "betterskills:combat_6": {
     "criteria": {
       "combat_6_0": "2025-04-08 04:58:26 +0000"
