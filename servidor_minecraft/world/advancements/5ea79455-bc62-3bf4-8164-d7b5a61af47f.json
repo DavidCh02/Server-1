@@ -6904,21 +6904,15 @@
     },
     "done": true
   },
+  "grimoireofgaia:main/flesh_lich": {
+    "criteria": {
+      "kill": "2025-04-08 01:03:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/soul_torch": {
     "criteria": {
       "has_soul_sand": "2025-04-08 01:09:06 +0000"
-    },
-    "done": true
-  },
-  "grimoireofgaia:main/creep": {
-    "criteria": {
-      "kill": "2025-04-08 01:38:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/redstone": {
-    "criteria": {
-      "has_redstone_block": "2025-04-08 01:35:59 +0000"
     },
     "done": true
   },
@@ -6928,9 +6922,33 @@
     },
     "done": true
   },
-  "grimoireofgaia:main/flesh_lich": {
+  "minecraft:recipes/redstone/redstone": {
     "criteria": {
-      "kill": "2025-04-08 01:03:57 +0000"
+      "has_redstone_block": "2025-04-08 01:35:59 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:main/creep": {
+    "criteria": {
+      "kill": "2025-04-08 01:38:50 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/netherite_arrow": {
+    "criteria": {
+      "has_bow": "2025-04-08 01:55:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-04-08 01:55:35 +0000"
+    },
+    "done": true
+  },
+  "betterskills:combat_4": {
+    "criteria": {
+      "combat_4_0": "2025-04-08 02:06:04 +0000"
     },
     "done": true
   },
