@@ -1728,3 +1728,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'iter_rpg:smooth_ice'
 [08Apr2025 17:48:01.014] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/20032, l='ServerLevel[world]', x=1166.76, y=-0.44, z=-1118.20]
 [08Apr2025 17:57:53.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DavidCh01: Set own game mode to Spectator Mode]
 [08Apr2025 17:58:06.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DavidCh01: Set own game mode to Survival Mode]
+[08Apr2025 18:01:49.015] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Drowned['Sargent the Soaked'/21704, l='ServerLevel[world]', x=-1524.69, y=22.70, z=-1384.09] died: Sargent the Soaked was slain by DavidCh01
+[08Apr2025 18:11:27.093] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DavidCh01 lost connection: Disconnected
+[08Apr2025 18:11:27.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidCh01 left the game
+[08Apr2025 18:11:27.126] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice

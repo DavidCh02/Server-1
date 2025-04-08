@@ -7253,6 +7253,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2025-04-08 18:06:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_cod_from_smoking": {
     "criteria": {
       "has_cod": "2025-04-08 16:58:50 +0000"
@@ -7346,6 +7352,12 @@
   "travelersbackpack:recipes/misc/cake_smithing": {
     "criteria": {
       "has_cake": "2025-04-08 16:43:45 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/diamond_hippogryph_armor": {
+    "criteria": {
+      "has_item": "2025-04-08 18:05:04 +0000"
     },
     "done": true
   },
