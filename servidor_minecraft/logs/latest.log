@@ -1612,3 +1612,25 @@ com.google.gson.JsonSyntaxException: Unknown item 'iter_rpg:smooth_ice'
 [09Apr2025 22:45:11.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DavidCh01: Set own game mode to Creative Mode]
 [09Apr2025 22:45:40.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DavidCh01: Set own game mode to Survival Mode]
 [09Apr2025 22:45:45.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DavidCh01: Set own game mode to Creative Mode]
+[09Apr2025 22:46:05.284] [Server thread/WARN] [spawnermod/]: Key=iceandfire:lightning_dragon was not found when trying to access it! Returning 0
+[09Apr2025 22:46:08.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DavidCh01: Set own game mode to Survival Mode]
+[09Apr2025 22:48:46.214] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-1312, y=76, z=-178}
+[09Apr2025 22:49:08.438] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-1360, y=88, z=-153}
+[09Apr2025 22:49:08.439] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-1356, y=79, z=-149}
+[09Apr2025 22:49:08.439] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-1360, y=79, z=-149}
+[09Apr2025 22:54:32.970] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DavidCh01 moved too quickly! -6.053979756988383,8.908651282032778,2.897599300708322
+[09Apr2025 22:54:40.104] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DavidCh01 moved too quickly! -10.40997764293843,0.32496750313043776,0.5443500074743781
+[09Apr2025 22:55:47.113] [Worker-Main-63/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[09Apr2025 22:56:09.436] [Worker-Main-63/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[09Apr2025 22:58:11.752] [Worker-Main-24/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:mine_with_campsite/side_pool which is being called from mvs:other_decoration/mine_with_campsite
+[09Apr2025 22:58:55.996] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DavidCh01 moved too quickly! -6.7631975849117225,8.343056569608976,1.348659339216212
+[09Apr2025 22:59:35.175] [Worker-Main-11/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/short_oak_pathway
+[09Apr2025 22:59:35.176] [Worker-Main-11/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/short_oak_pathway
+[09Apr2025 23:01:19.141] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DavidCh01 moved too quickly! -8.849147157654897,3.0,3.776998778806785
+[09Apr2025 23:01:19.164] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4690ms or 93 ticks behind
+[09Apr2025 23:01:40.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DavidCh01 has made the advancement [Combat 10]
+[09Apr2025 23:04:12.807] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DavidCh01 moved too quickly! -6.385794653612265,6.885563956302249,5.9937365388142325
+[09Apr2025 23:05:13.866] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DavidCh01 moved too quickly! -10.619101743295687,-0.10824000156267743,7.651490354606892
+[09Apr2025 23:05:42.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DavidCh01: Set own game mode to Spectator Mode]
+[09Apr2025 23:05:58.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DavidCh01: Set own game mode to Survival Mode]
+[09Apr2025 23:06:11.677] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DavidCh01 moved too quickly! -3.989332592138453,10.024199509406643,3.6099623994404624
