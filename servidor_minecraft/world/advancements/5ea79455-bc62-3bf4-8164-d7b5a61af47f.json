@@ -63,15 +63,19 @@
     "criteria": {
       "minecraft:snowy_slopes": "2025-03-28 05:27:31 +0000",
       "minecraft:deep_ocean": "2025-04-09 22:23:51 +0000",
+      "minecraft:frozen_river": "2025-04-09 23:37:24 +0000",
       "minecraft:beach": "2025-03-27 18:58:19 +0000",
       "minecraft:sparse_jungle": "2025-04-09 23:00:56 +0000",
       "minecraft:river": "2025-03-28 04:41:10 +0000",
       "minecraft:lukewarm_ocean": "2025-04-02 04:42:34 +0000",
       "minecraft:stony_shore": "2025-03-28 06:57:38 +0000",
+      "minecraft:snowy_plains": "2025-04-09 23:33:08 +0000",
+      "minecraft:grove": "2025-04-09 23:29:23 +0000",
       "minecraft:jagged_peaks": "2025-03-28 05:37:59 +0000",
       "minecraft:cold_ocean": "2025-04-08 20:15:07 +0000",
       "minecraft:forest": "2025-03-27 18:55:59 +0000",
       "minecraft:ocean": "2025-04-09 22:23:45 +0000",
+      "minecraft:windswept_savanna": "2025-04-09 23:04:17 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-04-02 05:57:08 +0000",
       "minecraft:flower_forest": "2025-03-28 05:20:37 +0000",
       "minecraft:old_growth_birch_forest": "2025-04-09 22:35:17 +0000",
@@ -1457,6 +1461,7 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "muskeg": "2025-04-09 23:34:49 +0000",
       "woodland": "2025-03-28 04:40:18 +0000",
       "shrubland": "2025-04-02 05:10:30 +0000",
       "rocky_shrubland": "2025-04-02 05:28:36 +0000",
@@ -1474,6 +1479,7 @@
       "lavender_field": "2025-03-28 05:13:49 +0000",
       "fir_clearing": "2025-04-04 03:53:47 +0000",
       "grassland": "2025-04-02 04:34:04 +0000",
+      "tundra": "2025-04-09 23:34:02 +0000",
       "glowing_grotto": "2025-04-08 20:39:48 +0000",
       "undergrowth": "2025-04-02 17:53:55 +0000",
       "rainforest": "2025-04-09 22:57:11 +0000",
@@ -7522,9 +7528,33 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_silver_boots": {
+    "criteria": {
+      "has_item": "2025-04-09 23:32:25 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_ice": {
+    "criteria": {
+      "has_item": "2025-04-09 23:30:30 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_green_leggings": {
+    "criteria": {
+      "has_item": "2025-04-09 23:22:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/prismarine": {
     "criteria": {
       "has_prismarine_shard": "2025-04-09 22:31:44 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_silver_chestplate": {
+    "criteria": {
+      "has_item": "2025-04-09 23:32:25 +0000"
     },
     "done": true
   },
@@ -7564,6 +7594,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/bookshelf_smithing": {
+    "criteria": {
+      "has_bookshelf": "2025-04-09 23:02:47 +0000"
+    },
+    "done": true
+  },
   "grimoireofgaia:main/orc": {
     "criteria": {
       "kill": "2025-04-09 22:42:07 +0000"
@@ -7573,6 +7609,12 @@
   "iceandfire:recipes/combat/armor_amythest_leggings": {
     "criteria": {
       "has_item": "2025-04-09 22:48:15 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_green_helmet": {
+    "criteria": {
+      "has_item": "2025-04-09 23:22:42 +0000"
     },
     "done": true
   },
@@ -7588,9 +7630,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_silver_leggings": {
+    "criteria": {
+      "has_item": "2025-04-09 23:32:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/pumpkin_pie": {
     "criteria": {
       "has_pumpkin": "2025-04-09 22:35:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2025-04-09 23:36:55 +0000"
     },
     "done": true
   },
@@ -7648,9 +7702,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2025-04-09 23:36:55 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_copper_helmet": {
     "criteria": {
       "has_item": "2025-04-09 22:46:21 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_silver_helmet": {
+    "criteria": {
+      "has_item": "2025-04-09 23:32:25 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_green_chestplate": {
+    "criteria": {
+      "has_item": "2025-04-09 23:22:42 +0000"
     },
     "done": true
   },
@@ -7708,6 +7780,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dragonscales_green_to_dragonscale_green": {
+    "criteria": {
+      "has_dragonscales_green": "2025-04-09 23:22:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_planks": {
     "criteria": {
       "has_log": "2025-04-09 22:15:11 +0000"
@@ -7717,6 +7795,12 @@
   "iceandfire:recipes/combat/armor_copper_chestplate": {
     "criteria": {
       "has_item": "2025-04-09 22:46:21 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/silver_nugget_to_silver_ingot": {
+    "criteria": {
+      "has_silver_nugget": "2025-04-09 23:31:27 +0000"
     },
     "done": true
   },
@@ -7738,6 +7822,18 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dragonscales_silver_to_dragonscale_silver": {
+    "criteria": {
+      "has_dragonscales_silver": "2025-04-09 23:32:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-04-09 23:36:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sea_lantern": {
     "criteria": {
       "has_prismarine_crystals": "2025-04-09 22:31:31 +0000"
@@ -7747,6 +7843,12 @@
   "lootr:100loot": {
     "criteria": {
       "loot_stat": "2025-04-09 22:36:09 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_green_boots": {
+    "criteria": {
+      "has_item": "2025-04-09 23:22:42 +0000"
     },
     "done": true
   },
