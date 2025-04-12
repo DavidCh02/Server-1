@@ -70,10 +70,12 @@
       "minecraft:lukewarm_ocean": "2025-04-02 04:42:34 +0000",
       "minecraft:stony_shore": "2025-03-28 06:57:38 +0000",
       "minecraft:snowy_plains": "2025-04-09 23:33:08 +0000",
+      "minecraft:snowy_taiga": "2025-04-09 23:49:08 +0000",
       "minecraft:grove": "2025-04-09 23:29:23 +0000",
       "minecraft:jagged_peaks": "2025-03-28 05:37:59 +0000",
       "minecraft:cold_ocean": "2025-04-08 20:15:07 +0000",
       "minecraft:forest": "2025-03-27 18:55:59 +0000",
+      "minecraft:deep_cold_ocean": "2025-04-10 00:28:59 +0000",
       "minecraft:ocean": "2025-04-09 22:23:45 +0000",
       "minecraft:windswept_savanna": "2025-04-09 23:04:17 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-04-02 05:57:08 +0000",
@@ -1473,6 +1475,7 @@
       "lavender_forest": "2025-03-28 05:13:25 +0000",
       "mediterranean_forest": "2025-04-02 04:37:11 +0000",
       "coniferous_forest": "2025-03-28 06:16:28 +0000",
+      "spider_nest": "2025-04-10 01:26:05 +0000",
       "redwood_forest": "2025-03-28 04:40:38 +0000",
       "seasonal_forest": "2025-04-07 23:42:29 +0000",
       "rocky_rainforest": "2025-04-09 22:57:21 +0000",
@@ -1888,6 +1891,7 @@
       "cooked_beef": "2025-03-28 04:42:38 +0000",
       "baked_potato": "2025-04-01 06:05:11 +0000",
       "bread": "2025-03-28 06:03:33 +0000",
+      "golden_apple": "2025-04-09 23:51:55 +0000",
       "golden_carrot": "2025-04-08 17:52:36 +0000",
       "enchanted_golden_apple": "2025-04-08 19:26:03 +0000",
       "carrot": "2025-04-09 22:52:56 +0000"
@@ -2545,6 +2549,7 @@
       "minecraft:cave_spider": "2025-04-08 20:01:47 +0000",
       "minecraft:silverfish": "2025-03-28 16:21:31 +0000",
       "minecraft:enderman": "2025-03-31 16:31:07 +0000",
+      "minecraft:stray": "2025-04-09 23:58:11 +0000",
       "minecraft:zombie": "2025-03-28 16:09:14 +0000",
       "minecraft:drowned": "2025-03-28 04:50:22 +0000"
     },
@@ -7528,33 +7533,21 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/armor_silver_boots": {
+  "endrem:main/magical_eye": {
     "criteria": {
-      "has_item": "2025-04-09 23:32:25 +0000"
+      "magical_eye": "2025-04-09 22:15:11 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/misc/dragon_ice": {
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
     "criteria": {
-      "has_item": "2025-04-09 23:30:30 +0000"
+      "has_log": "2025-04-09 22:15:11 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/combat/armor_green_leggings": {
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
     "criteria": {
-      "has_item": "2025-04-09 23:22:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/prismarine": {
-    "criteria": {
-      "has_prismarine_shard": "2025-04-09 22:31:44 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_silver_chestplate": {
-    "criteria": {
-      "has_item": "2025-04-09 23:32:25 +0000"
+      "has_log": "2025-04-09 22:15:11 +0000"
     },
     "done": true
   },
@@ -7564,9 +7557,9 @@
     },
     "done": true
   },
-  "iceandfire:recipes/building_blocks/dragonscales_copper_to_dragonscale_copper": {
+  "minecraft:recipes/misc/sentry_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
-      "has_dragonscales_copper": "2025-04-09 22:46:21 +0000"
+      "has_smithing_trim_template": "2025-04-09 22:15:21 +0000"
     },
     "done": true
   },
@@ -7576,93 +7569,9 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/tide_bronze_chestplate": {
-    "criteria": {
-      "has_item": "2025-04-09 22:30:52 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/tide_bronze_helmet": {
-    "criteria": {
-      "has_item": "2025-04-09 22:30:52 +0000"
-    },
-    "done": true
-  },
-  "endrem:main/magical_eye": {
-    "criteria": {
-      "magical_eye": "2025-04-09 22:15:11 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/bookshelf_smithing": {
-    "criteria": {
-      "has_bookshelf": "2025-04-09 23:02:47 +0000"
-    },
-    "done": true
-  },
-  "grimoireofgaia:main/orc": {
-    "criteria": {
-      "kill": "2025-04-09 22:42:07 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_amythest_leggings": {
-    "criteria": {
-      "has_item": "2025-04-09 22:48:15 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_green_helmet": {
-    "criteria": {
-      "has_item": "2025-04-09 23:22:42 +0000"
-    },
-    "done": true
-  },
-  "hopo:minecraft/adventure/locate_all_underwater_structures": {
-    "criteria": {
-      "locate_ruin_cold": "2025-04-09 22:33:56 +0000"
-    },
-    "done": false
-  },
-  "travelersbackpack:recipes/misc/pumpkin": {
-    "criteria": {
-      "has_pumpkin": "2025-04-09 22:35:48 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_silver_leggings": {
-    "criteria": {
-      "has_item": "2025-04-09 23:32:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/pumpkin_pie": {
-    "criteria": {
-      "has_pumpkin": "2025-04-09 22:35:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_basalt": {
-    "criteria": {
-      "has_basalt": "2025-04-09 23:36:55 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_amythest_helmet": {
-    "criteria": {
-      "has_item": "2025-04-09 22:48:15 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/terracotta": {
     "criteria": {
       "has_clay_block": "2025-04-09 22:20:14 +0000"
-    },
-    "done": true
-  },
-  "grimoireofgaia:main/shaman": {
-    "criteria": {
-      "kill": "2025-04-09 23:01:40 +0000"
     },
     "done": true
   },
@@ -7678,18 +7587,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
-    "criteria": {
-      "has_iron_block": "2025-04-09 22:37:32 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/sea_serpent_scales_bronze_to_sea_serpent_scale_block_bronze": {
-    "criteria": {
-      "has_sea_serpent_scales_bronze": "2025-04-09 22:30:52 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/combat/armor_gray_leggings": {
     "criteria": {
       "has_item": "2025-04-09 22:22:24 +0000"
@@ -7702,33 +7599,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_basalt": {
+  "iceandfire:recipes/building_blocks/dragonscales_gray_to_dragonscale_gray": {
     "criteria": {
-      "has_basalt": "2025-04-09 23:36:55 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_copper_helmet": {
-    "criteria": {
-      "has_item": "2025-04-09 22:46:21 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_silver_helmet": {
-    "criteria": {
-      "has_item": "2025-04-09 23:32:25 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_green_chestplate": {
-    "criteria": {
-      "has_item": "2025-04-09 23:22:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/pumpkin_seeds": {
-    "criteria": {
-      "has_pumpkin": "2025-04-09 22:35:48 +0000"
+      "has_dragonscales_gray": "2025-04-09 22:22:24 +0000"
     },
     "done": true
   },
@@ -7738,21 +7611,21 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/armor_copper_boots": {
+  "iceandfire:recipes/combat/tide_bronze_chestplate": {
     "criteria": {
-      "has_item": "2025-04-09 22:46:21 +0000"
+      "has_item": "2025-04-09 22:30:52 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/combat/armor_amythest_boots": {
+  "iceandfire:recipes/combat/tide_bronze_helmet": {
     "criteria": {
-      "has_item": "2025-04-09 22:48:15 +0000"
+      "has_item": "2025-04-09 22:30:52 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/prismarine_bricks": {
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_bronze_to_sea_serpent_scale_block_bronze": {
     "criteria": {
-      "has_prismarine_shard": "2025-04-09 22:31:44 +0000"
+      "has_sea_serpent_scales_bronze": "2025-04-09 22:30:52 +0000"
     },
     "done": true
   },
@@ -7762,75 +7635,9 @@
     },
     "done": true
   },
-  "betterskills:combat_10": {
+  "iceandfire:recipes/combat/tide_bronze_boots": {
     "criteria": {
-      "combat_10_0": "2025-04-09 23:01:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dark_prismarine": {
-    "criteria": {
-      "has_prismarine_shard": "2025-04-09 22:31:44 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/dragonscales_gray_to_dragonscale_gray": {
-    "criteria": {
-      "has_dragonscales_gray": "2025-04-09 22:22:24 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/dragonscales_green_to_dragonscale_green": {
-    "criteria": {
-      "has_dragonscales_green": "2025-04-09 23:22:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dark_oak_planks": {
-    "criteria": {
-      "has_log": "2025-04-09 22:15:11 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_copper_chestplate": {
-    "criteria": {
-      "has_item": "2025-04-09 22:46:21 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/silver_nugget_to_silver_ingot": {
-    "criteria": {
-      "has_silver_nugget": "2025-04-09 23:31:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dark_oak_wood": {
-    "criteria": {
-      "has_log": "2025-04-09 22:15:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/sentry_armor_trim_smithing_template_smithing_trim": {
-    "criteria": {
-      "has_smithing_trim_template": "2025-04-09 22:15:21 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/dragonscales_amythest_to_dragonscale_amythest": {
-    "criteria": {
-      "has_dragonscales_amythest": "2025-04-09 22:48:15 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/dragonscales_silver_to_dragonscale_silver": {
-    "criteria": {
-      "has_dragonscales_silver": "2025-04-09 23:32:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
-    "criteria": {
-      "has_basalt": "2025-04-09 23:36:55 +0000"
+      "has_item": "2025-04-09 22:30:52 +0000"
     },
     "done": true
   },
@@ -7840,21 +7647,58 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-04-09 22:31:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2025-04-09 22:31:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-04-09 22:31:44 +0000"
+    },
+    "done": true
+  },
+  "hopo:minecraft/adventure/locate_all_underwater_structures": {
+    "criteria": {
+      "locate_shipwreck": "2025-04-10 00:29:30 +0000",
+      "locate_ruin_cold": "2025-04-09 22:33:56 +0000"
+    },
+    "done": false
+  },
+  "travelersbackpack:recipes/misc/pumpkin": {
+    "criteria": {
+      "has_pumpkin": "2025-04-09 22:35:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2025-04-09 22:35:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2025-04-09 22:35:48 +0000"
+    },
+    "done": true
+  },
   "lootr:100loot": {
     "criteria": {
       "loot_stat": "2025-04-09 22:36:09 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/combat/armor_green_boots": {
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
     "criteria": {
-      "has_item": "2025-04-09 23:22:42 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_amythest_chestplate": {
-    "criteria": {
-      "has_item": "2025-04-09 22:48:15 +0000"
+      "has_iron_block": "2025-04-09 22:37:32 +0000"
     },
     "done": true
   },
@@ -7864,15 +7708,255 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/tide_bronze_boots": {
+  "grimoireofgaia:main/orc": {
     "criteria": {
-      "has_item": "2025-04-09 22:30:52 +0000"
+      "kill": "2025-04-09 22:42:07 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_copper_to_dragonscale_copper": {
+    "criteria": {
+      "has_dragonscales_copper": "2025-04-09 22:46:21 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_copper_helmet": {
+    "criteria": {
+      "has_item": "2025-04-09 22:46:21 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_copper_boots": {
+    "criteria": {
+      "has_item": "2025-04-09 22:46:21 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_copper_chestplate": {
+    "criteria": {
+      "has_item": "2025-04-09 22:46:21 +0000"
     },
     "done": true
   },
   "iceandfire:recipes/combat/armor_copper_leggings": {
     "criteria": {
       "has_item": "2025-04-09 22:46:21 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_amythest_leggings": {
+    "criteria": {
+      "has_item": "2025-04-09 22:48:15 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_amythest_helmet": {
+    "criteria": {
+      "has_item": "2025-04-09 22:48:15 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_amythest_boots": {
+    "criteria": {
+      "has_item": "2025-04-09 22:48:15 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_amythest_to_dragonscale_amythest": {
+    "criteria": {
+      "has_dragonscales_amythest": "2025-04-09 22:48:15 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_amythest_chestplate": {
+    "criteria": {
+      "has_item": "2025-04-09 22:48:15 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:main/shaman": {
+    "criteria": {
+      "kill": "2025-04-09 23:01:40 +0000"
+    },
+    "done": true
+  },
+  "betterskills:combat_10": {
+    "criteria": {
+      "combat_10_0": "2025-04-09 23:01:40 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/bookshelf_smithing": {
+    "criteria": {
+      "has_bookshelf": "2025-04-09 23:02:47 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_green_leggings": {
+    "criteria": {
+      "has_item": "2025-04-09 23:22:42 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_green_helmet": {
+    "criteria": {
+      "has_item": "2025-04-09 23:22:42 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_green_chestplate": {
+    "criteria": {
+      "has_item": "2025-04-09 23:22:42 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_green_to_dragonscale_green": {
+    "criteria": {
+      "has_dragonscales_green": "2025-04-09 23:22:42 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_green_boots": {
+    "criteria": {
+      "has_item": "2025-04-09 23:22:42 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_ice": {
+    "criteria": {
+      "has_item": "2025-04-09 23:30:30 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/silver_nugget_to_silver_ingot": {
+    "criteria": {
+      "has_silver_nugget": "2025-04-09 23:31:27 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_silver_boots": {
+    "criteria": {
+      "has_item": "2025-04-09 23:32:25 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_silver_chestplate": {
+    "criteria": {
+      "has_item": "2025-04-09 23:32:25 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_silver_leggings": {
+    "criteria": {
+      "has_item": "2025-04-09 23:32:25 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_silver_helmet": {
+    "criteria": {
+      "has_item": "2025-04-09 23:32:25 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_silver_to_dragonscale_silver": {
+    "criteria": {
+      "has_dragonscales_silver": "2025-04-09 23:32:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2025-04-09 23:36:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2025-04-09 23:36:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-04-09 23:36:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2025-04-10 01:27:28 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/use_tide_trident": {
+    "criteria": {
+      "shot_arrow": "2025-04-10 00:50:56 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:recipes/mob_ward": {
+    "criteria": {
+      "has_ancient_anima": "2025-04-10 00:19:07 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:recipes/levitation_block": {
+    "criteria": {
+      "has_ancient_anima": "2025-04-10 00:19:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template": {
+    "criteria": {
+      "has_coast_armor_trim_smithing_template": "2025-04-10 00:29:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2025-04-10 00:31:35 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:recipes/charged_ender_pearl": {
+    "criteria": {
+      "has_ancient_anima": "2025-04-10 00:19:07 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:adventure/night_lich_defeat": {
+    "criteria": {
+      "bosses_of_mass_destruction:lich": "2025-04-10 00:18:33 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:main/kobold": {
+    "criteria": {
+      "kill": "2025-04-09 23:58:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-04-10 00:29:39 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:recipes/misc/fur_to_leather": {
+    "criteria": {
+      "has_fur": "2025-04-09 23:59:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2025-04-10 01:27:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2025-04-10 01:27:28 +0000"
     },
     "done": true
   },
